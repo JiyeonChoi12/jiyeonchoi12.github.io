@@ -1,0 +1,1540 @@
+[
+  {
+    "id": "deprive-of",
+    "title": "deprive A of B",
+    "category": "빼앗기·덜어 주기",
+    "meaning": "A에게서 B를 빼앗다",
+    "roleA": "무언가를 잃는 사람이나 집단",
+    "roleB": "잃는 것",
+    "tip": "deprive를 만나면 누가 손해를 보는지 먼저 보고, of 뒤에서 무엇을 잃는지 확인해요.",
+    "examples": [
+      {
+        "en": "A barking dog deprived us of sleep.",
+        "ko": "개가 짖어 우리는 잠을 못 잤다.",
+        "flow": [
+          "개가 짖어서",
+          "우리가 누리지 못했다",
+          "잠을"
+        ]
+      },
+      {
+        "en": "The flood deprived two villages of clean water.",
+        "ko": "홍수 때문에 두 마을은 깨끗한 물을 구하지 못했다.",
+        "flow": [
+          "홍수 때문에",
+          "두 마을이 잃었다",
+          "깨끗한 물을"
+        ]
+      },
+      {
+        "en": "We were deprived of our only chance to speak.",
+        "ko": "우리는 단 한 번뿐인 발언 기회를 빼앗겼다.",
+        "flow": [
+          "우리는 빼앗겼다",
+          "단 한 번의 기회를",
+          "말할"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "The power cut deprived the clinic ___ light.",
+      "ko": "정전으로 진료소에 불이 꺼졌다.",
+      "answer": "of"
+    },
+    "refs": [
+      {
+        "paper": "2ec7c03c5e",
+        "number": 2
+      },
+      {
+        "paper": "ce65fc9c66",
+        "number": 7
+      }
+    ],
+    "wordIds": [
+      "deprive-of"
+    ]
+  },
+  {
+    "id": "rid-of",
+    "title": "rid A of B",
+    "category": "빼앗기·덜어 주기",
+    "meaning": "A에서 골칫거리 B를 없애다",
+    "roleA": "무엇이 사라지는 곳이나 대상",
+    "roleB": "없애려는 문제",
+    "tip": "rid 뒤에는 남는 쪽, of 뒤에는 사라지는 쪽이 와요. ‘B를 없애다’라고만 할 때는 get rid of B도 써요.",
+    "examples": [
+      {
+        "en": "A good wash rid the jacket of that smoky smell.",
+        "ko": "재킷을 잘 빨았더니 밴 연기 냄새가 빠졌다.",
+        "flow": [
+          "잘 한 번 빨았더니",
+          "재킷에서 사라졌다",
+          "그 연기 냄새가"
+        ]
+      },
+      {
+        "en": "The update rid the form of unnecessary questions.",
+        "ko": "양식을 개정하면서 불필요한 질문이 사라졌다.",
+        "flow": [
+          "개정하면서",
+          "양식에서 없어졌다",
+          "불필요한 질문이"
+        ]
+      },
+      {
+        "en": "How can we rid the pond of litter?",
+        "ko": "연못의 쓰레기를 어떻게 없앨 수 있을까?",
+        "flow": [
+          "어떻게 없앨까",
+          "연못에서",
+          "쓰레기를"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "One rinse will not rid the cup ___ that stain.",
+      "ko": "한 번 헹구는 것만으로는 컵의 그 얼룩을 없앨 수 없다.",
+      "answer": "of"
+    },
+    "refs": [
+      {
+        "paper": "34c12ace15",
+        "number": 16
+      }
+    ],
+    "wordIds": [
+      "do-away-with"
+    ]
+  },
+  {
+    "id": "relieve-of",
+    "title": "relieve A of B",
+    "category": "빼앗기·덜어 주기",
+    "meaning": "A가 지고 있던 B를 덜어 주거나 맡지 않게 하다",
+    "roleA": "부담이나 직무를 지고 있는 사람",
+    "roleB": "부담·책임·직무",
+    "tip": "B가 부담이면 ‘덜어 주다’, 직무이면 문맥에 따라 ‘맡은 자리에서 물러나게 하다’로 읽어요.",
+    "examples": [
+      {
+        "en": "Dad relieved me of the chore of washing dishes.",
+        "ko": "아빠가 대신 설거지를 해 주셨다.",
+        "flow": [
+          "아빠가 덜어 주셨다",
+          "내게서",
+          "설거지할 일을"
+        ]
+      },
+      {
+        "en": "The new desk will relieve nurses of some paperwork.",
+        "ko": "새로 생기는 창구가 간호사들의 서류 업무를 일부 덜어 줄 예정이다.",
+        "flow": [
+          "새 창구가 덜어 줄 것이다",
+          "간호사들에게서",
+          "서류 업무 일부를"
+        ]
+      },
+      {
+        "en": "The manager was relieved of her duties after the review.",
+        "ko": "검토가 끝난 뒤 그 관리자는 직무에서 해제되었다.",
+        "flow": [
+          "그 관리자는 벗어나게 되었다",
+          "맡았던 직무에서",
+          "검토가 끝난 뒤"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "The service relieves parents ___ the burden of booking each visit.",
+      "ko": "이 서비스는 방문할 때마다 예약해야 하는 부모의 부담을 덜어 준다.",
+      "answer": "of"
+    },
+    "refs": [
+      {
+        "paper": "6c5e276116",
+        "number": 19
+      }
+    ],
+    "wordIds": [
+      "daily-workload"
+    ]
+  },
+  {
+    "id": "remind-of",
+    "title": "remind A of B",
+    "category": "소식·기억 전하기",
+    "meaning": "A에게 B를 떠올리게 하다",
+    "roleA": "무언가를 떠올리는 사람",
+    "roleB": "떠오르는 대상이나 기억",
+    "tip": "of 다음에는 떠오른 생각·사람·일이 와요. remind A to do는 앞으로 할 일을 잊지 않게 일러 줄 때 써요.",
+    "examples": [
+      {
+        "en": "The tune reminds me of our summer trip.",
+        "ko": "그 곡을 들으면 우리 여름 여행이 떠오른다.",
+        "flow": [
+          "그 곡을 들으면",
+          "내게 떠오른다",
+          "우리 여름 여행이"
+        ]
+      },
+      {
+        "en": "The mural reminded visitors of the old port.",
+        "ko": "방문객들은 그 벽화를 보고 옛 항구를 떠올렸다.",
+        "flow": [
+          "그 벽화를 보자",
+          "방문객들에게 떠올랐다",
+          "옛 항구가"
+        ]
+      },
+      {
+        "en": "What does this photo remind you of?",
+        "ko": "이 사진을 보면 무엇이 떠오르나요?",
+        "flow": [
+          "무엇일까",
+          "이 사진이",
+          "당신에게 떠올리게 하는 것은"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "The smell of pine reminds him ___ home.",
+      "ko": "그는 솔향을 맡으면 고향이 생각난다.",
+      "answer": "of"
+    },
+    "refs": [
+      {
+        "paper": "66862acd60",
+        "number": 12
+      }
+    ],
+    "wordIds": [
+      "remind-of"
+    ]
+  },
+  {
+    "id": "inform-of",
+    "title": "inform A of B",
+    "category": "소식·기억 전하기",
+    "meaning": "A에게 B에 관해 알리다",
+    "roleA": "소식을 받는 사람",
+    "roleB": "알릴 사실·사건",
+    "tip": "사람을 먼저 놓고, of 뒤에 알릴 사실을 붙여요. 사실을 문장으로 말하면 inform A that ...도 쓸 수 있어요.",
+    "examples": [
+      {
+        "en": "I informed my friends of the change in plans.",
+        "ko": "친구들에게 계획이 바뀌었다고 알렸다.",
+        "flow": [
+          "나는 알렸다",
+          "친구들에게",
+          "계획이 바뀐 것을"
+        ]
+      },
+      {
+        "en": "Please inform the office of any change in your address.",
+        "ko": "주소가 바뀌면 사무실에 알려 주세요.",
+        "flow": [
+          "알려 주세요",
+          "사무실에",
+          "주소 변동 사항을"
+        ]
+      },
+      {
+        "en": "Passengers were informed of the delay by text.",
+        "ko": "승객들은 문자로 지연 소식을 받았다.",
+        "flow": [
+          "승객들이 안내를 받았다",
+          "지연에 관해",
+          "문자로"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "We must inform each applicant ___ the final decision.",
+      "ko": "각 지원자에게 최종 결정을 알려야 한다.",
+      "answer": "of"
+    },
+    "refs": [
+      {
+        "paper": "2ec7c03c5e",
+        "number": 11
+      }
+    ],
+    "wordIds": [
+      "daily-notify"
+    ]
+  },
+  {
+    "id": "notify-of",
+    "title": "notify A of B",
+    "category": "소식·기억 전하기",
+    "meaning": "A에게 B를 통지하다",
+    "roleA": "통지를 받는 사람이나 기관",
+    "roleB": "공식적으로 알리는 내용",
+    "tip": "신청 결과나 일정 변경을 공식적으로 알릴 때 자주 쓰는 틀이에요.",
+    "examples": [
+      {
+        "en": "The app notified me of a missed call.",
+        "ko": "앱이 부재중 전화가 왔다고 알려 주었다.",
+        "flow": [
+          "앱이 알렸다",
+          "나에게",
+          "받지 못한 전화에 대해"
+        ]
+      },
+      {
+        "en": "The city will notify tenants of the inspection date.",
+        "ko": "시에서는 세입자들에게 점검 일자를 통지할 예정이다.",
+        "flow": [
+          "시가 통지할 것이다",
+          "세입자들에게",
+          "점검 날짜를"
+        ]
+      },
+      {
+        "en": "Who was notified of the missing parcel?",
+        "ko": "소포가 사라졌다는 통지를 받은 사람은 누구인가요?",
+        "flow": [
+          "누가 통지를 받았나",
+          "사라진 소포에 관해"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "Please notify the desk ___ any missing items.",
+      "ko": "물품이 없어졌으면 안내 데스크에 알려 주세요.",
+      "answer": "of"
+    },
+    "refs": [],
+    "wordIds": [
+      "notify-of"
+    ]
+  },
+  {
+    "id": "provide-with",
+    "title": "provide A with B",
+    "category": "제공·연결하기",
+    "meaning": "A에게 B를 제공하다",
+    "roleA": "받는 사람이나 집단",
+    "roleB": "제공하는 물건이나 서비스",
+    "tip": "받는 쪽을 먼저 말하면 provide A with B예요. 물건을 먼저 말하는 provide B to A와 나란히 읽어 보세요.",
+    "examples": [
+      {
+        "en": "My aunt provided us with blankets.",
+        "ko": "이모가 우리에게 담요를 주셨다.",
+        "flow": [
+          "이모가 챙겨 주셨다",
+          "우리에게",
+          "담요를"
+        ]
+      },
+      {
+        "en": "The center provides residents with free legal advice.",
+        "ko": "센터는 주민들에게 무료 법률 상담을 제공한다.",
+        "flow": [
+          "센터는 제공한다",
+          "주민들에게",
+          "무료 법률 상담을"
+        ]
+      },
+      {
+        "en": "Each visitor was provided with a map at the gate.",
+        "ko": "방문객은 입구에서 한 사람씩 지도를 받았다.",
+        "flow": [
+          "방문객은 한 사람씩 받았다",
+          "지도를",
+          "입구에서"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "The school provided every team ___ a quiet room.",
+      "ko": "학교는 모든 팀에 조용한 방을 마련해 주었다.",
+      "answer": "with"
+    },
+    "refs": [
+      {
+        "paper": "1ed7c1ebc3",
+        "number": 1
+      },
+      {
+        "paper": "2fd16c8f2f",
+        "number": 11
+      }
+    ],
+    "wordIds": [
+      "provide-with"
+    ]
+  },
+  {
+    "id": "equip-with",
+    "title": "equip A with B",
+    "category": "제공·연결하기",
+    "meaning": "A에게 B를 갖춰 주다",
+    "roleA": "장비나 능력을 갖추는 사람·장소·물건",
+    "roleB": "갖춰 주는 장비나 능력",
+    "tip": "B에는 손에 잡히는 장비도, 일을 해낼 기술도 올 수 있어요.",
+    "examples": [
+      {
+        "en": "We equipped our bikes with lights.",
+        "ko": "우리는 자전거에 등을 달았다.",
+        "flow": [
+          "우리는 장비를 달았다",
+          "자전거에",
+          "등을"
+        ]
+      },
+      {
+        "en": "The workshop equips staff with interviewing skills.",
+        "ko": "워크숍에서 직원들은 면담 기술을 익힌다.",
+        "flow": [
+          "워크숍은 갖추게 한다",
+          "직원들이",
+          "면담 기술을"
+        ]
+      },
+      {
+        "en": "All meeting rooms are equipped with screens.",
+        "ko": "모든 회의실에 스크린이 설치되어 있다.",
+        "flow": [
+          "모든 회의실에 갖추어져 있다",
+          "스크린이"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "The team equipped the shelter ___ folding beds.",
+      "ko": "팀은 대피소에 접이식 침대를 갖춰 놓았다.",
+      "answer": "with"
+    },
+    "refs": [
+      {
+        "paper": "2ec7c03c5e",
+        "number": 17
+      },
+      {
+        "paper": "a5a22f9fe5",
+        "number": 4
+      }
+    ],
+    "wordIds": [
+      "equip-with"
+    ]
+  },
+  {
+    "id": "supply-with",
+    "title": "supply A with B",
+    "category": "제공·연결하기",
+    "meaning": "A에게 B를 공급하다",
+    "roleA": "공급받는 사람·시설·지역",
+    "roleB": "물자나 에너지 등 공급하는 것",
+    "tip": "무엇을 계속 대 줄 때 자주 써요. 물자를 먼저 말하는 supply B to A도 가능해요.",
+    "examples": [
+      {
+        "en": "Our garden supplies us with fresh herbs.",
+        "ko": "우리 텃밭에서는 신선한 허브가 난다.",
+        "flow": [
+          "우리 텃밭이 대 준다",
+          "우리에게",
+          "신선한 허브를"
+        ]
+      },
+      {
+        "en": "The depot supplies rural clinics with medicine.",
+        "ko": "그 물류 기지는 농촌 진료소에 약품을 공급한다.",
+        "flow": [
+          "물류 기지는 공급한다",
+          "농촌 진료소에",
+          "약품을"
+        ]
+      },
+      {
+        "en": "Three schools are supplied with power by this wind farm.",
+        "ko": "이 풍력 발전 단지는 학교 세 곳에 전력을 공급한다.",
+        "flow": [
+          "학교 세 곳이 공급받는다",
+          "전력을",
+          "이 풍력 발전 단지에서"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "Local shops supplied the volunteers ___ drinking water.",
+      "ko": "동네 가게들이 자원봉사자들에게 식수를 제공했다.",
+      "answer": "with"
+    },
+    "refs": [],
+    "wordIds": [
+      "provide-with"
+    ]
+  },
+  {
+    "id": "connect-with",
+    "title": "connect A with B",
+    "category": "제공·연결하기",
+    "meaning": "A와 B를 연결해 주다",
+    "roleA": "도움을 받거나 연결을 원하는 사람",
+    "roleB": "상대방이나 서비스",
+    "tip": "통화 상대를 연결하거나 필요한 서비스를 이어 줄 때 쓰는 with 용법이에요. connect A to B도 문맥에 따라 가능해요.",
+    "examples": [
+      {
+        "en": "Mina connected me with a piano teacher.",
+        "ko": "미나가 내게 피아노 선생님을 소개해 주었다.",
+        "flow": [
+          "미나가 연결해 주었다",
+          "나를",
+          "피아노 선생님과"
+        ]
+      },
+      {
+        "en": "The hotline connects callers with trained counselors.",
+        "ko": "그 상담 전화에서는 전화한 사람을 전문 상담사와 연결해 준다.",
+        "flow": [
+          "상담 전화는 연결해 준다",
+          "전화한 사람들을",
+          "훈련받은 상담사와"
+        ]
+      },
+      {
+        "en": "Could you connect me with someone who handles refunds?",
+        "ko": "환불 담당자와 연결해 주시겠어요?",
+        "flow": [
+          "연결해 주시겠어요",
+          "저를",
+          "환불을 처리하는 분과"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "The coordinator can ___ families with local tutors.",
+      "ko": "담당자는 가족들을 지역 과외 교사와 연결해 줄 수 있다.",
+      "answer": "connect"
+    },
+    "refs": [],
+    "wordIds": [
+      "daily-assistance"
+    ]
+  },
+  {
+    "id": "prevent-from",
+    "title": "prevent A from doing B",
+    "category": "막기·구별하기",
+    "meaning": "A가 B하는 것을 막다",
+    "roleA": "행동을 하려던 사람이나 대상",
+    "roleB": "막힌 행동",
+    "tip": "from 뒤에는 동사의 -ing형이 와요. A가 일을 못 하게 된 이유를 문장 맨 앞에서 확인하세요.",
+    "examples": [
+      {
+        "en": "The rain prevented us from eating outside.",
+        "ko": "비가 와서 우리는 밖에서 식사하지 못했다.",
+        "flow": [
+          "비가 막았다",
+          "우리가",
+          "밖에서 식사하는 것을"
+        ]
+      },
+      {
+        "en": "A locked gate prevented visitors from entering the site.",
+        "ko": "문이 잠겨 방문객들은 현장에 들어가지 못했다.",
+        "flow": [
+          "잠긴 문이 막았다",
+          "방문객들이",
+          "현장에 들어가는 것을"
+        ]
+      },
+      {
+        "en": "Several applicants were prevented from uploading their files.",
+        "ko": "몇몇 지원자는 파일을 올릴 수 없었다.",
+        "flow": [
+          "몇몇 지원자는 할 수 없었다",
+          "파일을 올리는 일을"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "An alarm prevents drivers ___ leaving the gate open.",
+      "ko": "경보음은 운전자가 출입문을 열어 둔 채 떠나지 않도록 한다.",
+      "answer": "from"
+    },
+    "refs": [
+      {
+        "paper": "1222745f17",
+        "number": 7
+      },
+      {
+        "paper": "32acc7b2d0",
+        "number": 19
+      }
+    ],
+    "wordIds": [
+      "prevent-from"
+    ]
+  },
+  {
+    "id": "protect-from",
+    "title": "protect A from B",
+    "category": "막기·구별하기",
+    "meaning": "A를 B로부터 지키다",
+    "roleA": "보호할 사람이나 물건",
+    "roleB": "해를 끼칠 수 있는 것",
+    "tip": "from 뒤에는 피하고 싶은 위험이 와요. A가 수동태의 주어가 되어도 위험은 from 뒤에 남아요.",
+    "examples": [
+      {
+        "en": "This cover protects my bike from the rain.",
+        "ko": "이 덮개가 자전거를 비로부터 보호한다.",
+        "flow": [
+          "이 덮개가 지킨다",
+          "내 자전거를",
+          "비로부터"
+        ]
+      },
+      {
+        "en": "Tall trees protect the playground from strong winds.",
+        "ko": "키 큰 나무들이 강한 바람을 막아 놀이터를 보호한다.",
+        "flow": [
+          "키 큰 나무들이 지킨다",
+          "놀이터를",
+          "강풍으로부터"
+        ]
+      },
+      {
+        "en": "How are the records protected from accidental deletion?",
+        "ko": "기록이 실수로 삭제되지 않도록 어떻게 보호하나요?",
+        "flow": [
+          "어떻게 보호하나요",
+          "기록을",
+          "실수로 지워지는 일로부터"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "The awning ___ visitors from the sun.",
+      "ko": "차양이 햇빛으로부터 방문객을 보호한다.",
+      "answer": "protects"
+    },
+    "refs": [
+      {
+        "paper": "1222745f17",
+        "number": 18
+      },
+      {
+        "paper": "41329a46bc",
+        "number": 19
+      }
+    ],
+    "wordIds": [
+      "protect-from"
+    ]
+  },
+  {
+    "id": "separate-from",
+    "title": "separate A from B",
+    "category": "막기·구별하기",
+    "meaning": "A와 B를 분리하다",
+    "roleA": "떼어 내거나 따로 둔 것",
+    "roleB": "A와 분리되는 상대",
+    "tip": "칸막이가 두 장소를 나눌 수도 있고, 사람이 섞인 물건을 분류할 수도 있어요.",
+    "examples": [
+      {
+        "en": "I separated the shells from the nuts.",
+        "ko": "나는 견과류의 껍데기와 알맹이를 분리했다.",
+        "flow": [
+          "나는 떼어 냈다",
+          "껍데기를",
+          "견과류 알맹이에서"
+        ]
+      },
+      {
+        "en": "A screen separates the waiting area from the examination room.",
+        "ko": "가림막이 대기 구역과 진찰실을 나눈다.",
+        "flow": [
+          "가림막이 나눈다",
+          "대기 구역을",
+          "진찰실과"
+        ]
+      },
+      {
+        "en": "Keep raw meat separated from ready-to-eat food.",
+        "ko": "날고기와 바로 먹는 음식은 따로 보관하세요.",
+        "flow": [
+          "날고기를 따로 두세요",
+          "바로 먹는 음식과"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "The wall separates the courtyard ___ the street.",
+      "ko": "담이 안뜰과 거리를 나눈다.",
+      "answer": "from"
+    },
+    "refs": [],
+    "wordIds": [
+      "distinguish-from"
+    ]
+  },
+  {
+    "id": "distinguish-from",
+    "title": "distinguish A from B",
+    "category": "막기·구별하기",
+    "meaning": "A와 B를 구별하다",
+    "roleA": "알아보려는 대상",
+    "roleB": "비교해서 구별할 상대",
+    "tip": "서로 비슷해 헷갈릴 때 둘의 차이를 알아보는 표현이에요. separate A from B는 두 대상을 실제로 떼어 놓는 상황에도 써요.",
+    "examples": [
+      {
+        "en": "Can you distinguish sea glass from green stones?",
+        "ko": "바닷물에 닳은 유리와 초록색 돌을 구별할 수 있나요?",
+        "flow": [
+          "구별할 수 있나요",
+          "바다 유리를",
+          "초록색 돌과"
+        ]
+      },
+      {
+        "en": "A red stripe distinguishes the temporary pass from the permanent one.",
+        "ko": "빨간 줄을 보면 임시 출입증과 상시 출입증을 구별할 수 있다.",
+        "flow": [
+          "빨간 줄로 구별된다",
+          "임시 출입증이",
+          "상시 출입증과"
+        ]
+      },
+      {
+        "en": "At dusk the path is hard to distinguish from the grass.",
+        "ko": "해 질 무렵에는 오솔길과 풀밭을 구별하기 어렵다.",
+        "flow": [
+          "해 질 무렵",
+          "오솔길은 구별하기 어렵다",
+          "풀밭과"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "Staff should distinguish urgent requests ___ routine inquiries.",
+      "ko": "직원은 긴급 요청과 일반 문의를 구별해야 한다.",
+      "answer": "from"
+    },
+    "refs": [
+      {
+        "paper": "7f1e89d927",
+        "number": 8
+      },
+      {
+        "paper": "32acc7b2d0",
+        "number": 13
+      }
+    ],
+    "wordIds": [
+      "distinguish-from"
+    ]
+  },
+  {
+    "id": "borrow-from",
+    "title": "borrow A from B",
+    "category": "주고받기",
+    "meaning": "B에게서 A를 빌리다",
+    "roleA": "빌리는 물건이나 돈",
+    "roleB": "빌려주는 쪽",
+    "tip": "borrow의 주어는 나중에 돌려줄 사람이에요. 물건의 출발점이 from 뒤에 붙어요.",
+    "examples": [
+      {
+        "en": "I borrowed a ladder from my neighbor.",
+        "ko": "나는 이웃에게서 사다리를 빌렸다.",
+        "flow": [
+          "나는 빌렸다",
+          "사다리를",
+          "이웃에게서"
+        ]
+      },
+      {
+        "en": "The museum borrowed the painting from a local artist.",
+        "ko": "박물관은 지역 화가에게서 그 그림을 빌렸다.",
+        "flow": [
+          "박물관이 빌렸다",
+          "그 그림을",
+          "지역 화가에게서"
+        ]
+      },
+      {
+        "en": "Who did you borrow the tent from?",
+        "ko": "그 텐트는 누구에게 빌렸나요?",
+        "flow": [
+          "누구에게서였나요",
+          "당신이 빌린 것은",
+          "그 텐트를"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "The team borrowed a projector ___ the library.",
+      "ko": "팀은 도서관에서 프로젝터를 빌렸다.",
+      "answer": "from"
+    },
+    "refs": [],
+    "wordIds": [
+      "borrow-from",
+      "lend-to"
+    ]
+  },
+  {
+    "id": "lend-to",
+    "title": "lend A to B",
+    "category": "주고받기",
+    "meaning": "A를 B에게 빌려주다",
+    "roleA": "빌려주는 물건이나 돈",
+    "roleB": "빌려 쓰는 사람",
+    "tip": "lend의 주어는 나중에 돌려받을 사람이에요. 받는 사람을 먼저 놓으면 lend B A로도 써요.",
+    "examples": [
+      {
+        "en": "I lent my spare key to Hana.",
+        "ko": "나는 하나에게 여분의 열쇠를 빌려줬다.",
+        "flow": [
+          "나는 빌려줬다",
+          "여분의 열쇠를",
+          "하나에게"
+        ]
+      },
+      {
+        "en": "The library lends laptops to adult learners.",
+        "ko": "도서관은 성인 학습자들에게 노트북을 빌려준다.",
+        "flow": [
+          "도서관은 빌려준다",
+          "노트북을",
+          "성인 학습자들에게"
+        ]
+      },
+      {
+        "en": "The chairs were lent to us for the weekend.",
+        "ko": "우리는 주말 동안 쓸 의자들을 빌렸다.",
+        "flow": [
+          "그 의자들은 대여되었다",
+          "우리에게",
+          "주말 동안"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "The club lent its van ___ the volunteers.",
+      "ko": "동호회는 자원봉사자들에게 승합차를 빌려줬다.",
+      "answer": "to"
+    },
+    "refs": [],
+    "wordIds": [
+      "lend-to",
+      "borrow-from"
+    ]
+  },
+  {
+    "id": "allocate-to",
+    "title": "allocate A to B",
+    "category": "주고받기",
+    "meaning": "A를 B에 배정하다",
+    "roleA": "나눠 줄 예산·시간·자원",
+    "roleB": "배정받는 곳이나 사람",
+    "tip": "한정된 자원을 어디에 얼마나 줄지 정할 때 써요. to 다음에서 도착지를 찾아보세요.",
+    "examples": [
+      {
+        "en": "We allocated two hours to the cleanup.",
+        "ko": "우리는 청소에 두 시간을 배정했다.",
+        "flow": [
+          "우리는 배정했다",
+          "두 시간을",
+          "청소에"
+        ]
+      },
+      {
+        "en": "The council allocated extra funds to the youth center.",
+        "ko": "의회는 청소년 센터에 추가 예산을 배정했다.",
+        "flow": [
+          "의회가 배정했다",
+          "추가 예산을",
+          "청소년 센터에"
+        ]
+      },
+      {
+        "en": "How much space was allocated to the new garden?",
+        "ko": "새 정원에 배정된 공간은 얼마나 되나요?",
+        "flow": [
+          "얼마나 많은 공간이 배정됐나",
+          "새 정원에"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "The board allocated four seats ___ student representatives.",
+      "ko": "이사회는 학생 대표에게 네 자리를 배정했다.",
+      "answer": "to"
+    },
+    "refs": [],
+    "wordIds": [
+      "daily-allocate"
+    ]
+  },
+  {
+    "id": "attribute-to",
+    "title": "attribute A to B",
+    "category": "원인·책임 밝히기",
+    "meaning": "A의 원인을 B에서 찾다",
+    "roleA": "설명하려는 결과",
+    "roleB": "원인으로 판단한 것",
+    "tip": "결과를 먼저 보고 원인은 to 뒤에서 확인해요. 글쓴이가 원인이라고 ‘판단한다’는 뜻을 살려 읽으세요.",
+    "examples": [
+      {
+        "en": "I attribute my better sleep to regular walks.",
+        "ko": "나는 꾸준히 산책한 덕분에 잠을 더 잘 자게 됐다고 본다.",
+        "flow": [
+          "나는 원인을 이렇게 본다",
+          "잠을 더 잘 자게 된 것은",
+          "꾸준한 산책 덕분이라고"
+        ]
+      },
+      {
+        "en": "Officials attribute the shorter queues to the new booking system.",
+        "ko": "담당자들은 새 예약 시스템 덕분에 대기 줄이 짧아졌다고 본다.",
+        "flow": [
+          "담당자들은 원인을 찾는다",
+          "대기 줄이 짧아진 까닭을",
+          "새 예약 시스템에서"
+        ]
+      },
+      {
+        "en": "The delay was attributed to a shortage of drivers.",
+        "ko": "운전자 부족이 지연 원인으로 지목되었다.",
+        "flow": [
+          "지연의 원인으로 지목되었다",
+          "운전자 부족이"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "The report attributes the decline ___ lower demand.",
+      "ko": "보고서는 감소의 원인을 수요 하락에서 찾는다.",
+      "answer": "to"
+    },
+    "refs": [
+      {
+        "paper": "0afed00509",
+        "number": 15
+      }
+    ],
+    "wordIds": [
+      "due-to"
+    ]
+  },
+  {
+    "id": "blame-for",
+    "title": "blame A for B",
+    "category": "원인·책임 밝히기",
+    "meaning": "B의 책임을 A에게 돌리다",
+    "roleA": "책임을 묻는 사람이나 원인으로 탓하는 것",
+    "roleB": "잘못된 일이나 결과",
+    "tip": "사건을 먼저 놓는 blame B on A도 있어요. for 앞뒤와 on 앞뒤의 순서를 비교해 보세요.",
+    "examples": [
+      {
+        "en": "Leo blamed his alarm clock for the late start.",
+        "ko": "리오는 늦게 출발한 것을 알람 시계 탓으로 돌렸다.",
+        "flow": [
+          "리오는 탓했다",
+          "알람 시계를",
+          "출발이 늦은 데 대해"
+        ]
+      },
+      {
+        "en": "Several callers blamed the new menu for the confusion.",
+        "ko": "전화한 사람 몇몇은 혼란을 새 안내 메뉴 탓으로 돌렸다.",
+        "flow": [
+          "전화한 몇몇 사람이 탓했다",
+          "새 메뉴를",
+          "혼란이 생긴 데 대해"
+        ]
+      },
+      {
+        "en": "The clerk should not be blamed for the printing error.",
+        "ko": "그 인쇄 오류를 창구 직원 탓으로 돌려서는 안 된다.",
+        "flow": [
+          "창구 직원을 탓하면 안 된다",
+          "인쇄 오류를 두고"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "Do not blame the driver ___ a fault in the brakes.",
+      "ko": "브레이크 고장을 운전자 탓으로 돌리지 마세요.",
+      "answer": "for"
+    },
+    "refs": [],
+    "wordIds": [
+      "blame-for"
+    ]
+  },
+  {
+    "id": "credit-with",
+    "title": "credit A with B",
+    "category": "원인·책임 밝히기",
+    "meaning": "B를 해낸 공로를 A에게 돌리다",
+    "roleA": "공로를 인정받는 사람이나 집단",
+    "roleB": "그 사람이 이룬 성과나 한 행동",
+    "tip": "with 뒤에는 성과를 나타내는 명사나 -ing형이 올 수 있어요.",
+    "examples": [
+      {
+        "en": "I credit my sister with finding our lost cat.",
+        "ko": "잃어버린 고양이를 찾은 건 내 여동생 덕분이다.",
+        "flow": [
+          "나는 공로를 인정한다",
+          "내 여동생에게",
+          "잃어버린 고양이를 찾은"
+        ]
+      },
+      {
+        "en": "The mayor credited local clubs with restoring the trail.",
+        "ko": "시장은 산책로를 복원한 공로가 지역 동호회들에 있다고 말했다.",
+        "flow": [
+          "시장은 공을 돌렸다",
+          "지역 동호회들에",
+          "산책로를 복원한"
+        ]
+      },
+      {
+        "en": "Two volunteers were credited with designing the new sign.",
+        "ko": "새 표지판을 디자인한 공은 자원봉사자 두 사람에게 돌아갔다.",
+        "flow": [
+          "자원봉사자 두 사람이 공을 인정받았다",
+          "새 표지판을 디자인한"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "The article credits the librarian ___ starting the program.",
+      "ko": "기사는 그 프로그램을 시작한 공로를 사서에게 돌린다.",
+      "answer": "with"
+    },
+    "refs": [],
+    "wordIds": [
+      "credit-with"
+    ]
+  },
+  {
+    "id": "thank-for",
+    "title": "thank A for B",
+    "category": "대가·이유 말하기",
+    "meaning": "B에 대해 A에게 감사하다",
+    "roleA": "감사를 받는 사람",
+    "roleB": "고마운 일이나 행동",
+    "tip": "for 뒤에 행동을 넣으면 helping처럼 -ing형이 와요. 무엇 때문에 고마운지 뒤에서 보충해요.",
+    "examples": [
+      {
+        "en": "I thanked my cousin for sharing her lunch.",
+        "ko": "나는 점심을 나눠 준 사촌에게 고맙다고 했다.",
+        "flow": [
+          "나는 고마워했다",
+          "사촌에게",
+          "점심을 나눠 준 것에 대해"
+        ]
+      },
+      {
+        "en": "The director thanked residents for returning the survey.",
+        "ko": "담당 국장은 설문지를 돌려보내 준 주민들에게 감사 인사를 했다.",
+        "flow": [
+          "국장이 감사했다",
+          "주민들에게",
+          "설문지를 돌려보내 준 데 대해"
+        ]
+      },
+      {
+        "en": "Who would you like to thank for helping with the move?",
+        "ko": "이사를 도와준 사람 중 누구에게 감사를 전하고 싶나요?",
+        "flow": [
+          "누구에게 감사를 전하고 싶나요",
+          "도와준 일로",
+          "이사를"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "We thanked the guide ___ waiting in the rain.",
+      "ko": "우리는 빗속에서 기다려 준 안내원에게 감사했다.",
+      "answer": "for"
+    },
+    "refs": [
+      {
+        "paper": "1222745f17",
+        "number": 14
+      },
+      {
+        "paper": "e0b1769dda",
+        "number": 10
+      }
+    ],
+    "wordIds": [
+      "thank-for"
+    ]
+  },
+  {
+    "id": "charge-for",
+    "title": "charge A for B",
+    "category": "대가·이유 말하기",
+    "meaning": "A에게 B의 요금을 청구하다",
+    "roleA": "돈을 내야 하는 사람",
+    "roleB": "대금을 받는 물건이나 서비스",
+    "tip": "charge A ten dollars for B처럼 사람과 for 사이에 금액도 들어갈 수 있어요.",
+    "examples": [
+      {
+        "en": "The cafe charged me for two drinks.",
+        "ko": "카페에서 내게 음료 두 잔 값을 청구했다.",
+        "flow": [
+          "카페가 돈을 청구했다",
+          "나에게",
+          "음료 두 잔 값으로"
+        ]
+      },
+      {
+        "en": "The center charges visitors a small fee for parking.",
+        "ko": "센터는 방문객에게 소액의 주차 요금을 받는다.",
+        "flow": [
+          "센터가 받는다",
+          "방문객에게 소액을",
+          "주차 요금으로"
+        ]
+      },
+      {
+        "en": "Will I be charged for a replacement card?",
+        "ko": "카드를 다시 발급받으면 요금을 내야 하나요?",
+        "flow": [
+          "내게 요금이 청구될까요",
+          "대체 카드에 대해"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "The store charged us ___ delivery.",
+      "ko": "가게는 우리에게 배송료를 청구했다.",
+      "answer": "for"
+    },
+    "refs": [],
+    "wordIds": [
+      "charge-for"
+    ]
+  },
+  {
+    "id": "exchange-for",
+    "title": "exchange A for B",
+    "category": "대가·이유 말하기",
+    "meaning": "A를 주고 B로 바꾸다",
+    "roleA": "처음에 가지고 있다가 내놓는 것",
+    "roleB": "대신 받는 것",
+    "tip": "무엇을 잃고 무엇을 얻는지 살펴보세요. 두 사람이 서로 선물을 주고받는 exchange gifts with someone과 구별해요.",
+    "examples": [
+      {
+        "en": "I exchanged my red scarf for a blue one.",
+        "ko": "나는 빨간 목도리를 파란 목도리로 바꿨다.",
+        "flow": [
+          "나는 바꿨다",
+          "빨간 목도리를 내고",
+          "파란 목도리를 받았다"
+        ]
+      },
+      {
+        "en": "Residents may exchange paper coupons for bus passes.",
+        "ko": "주민들은 종이 쿠폰을 버스 이용권으로 교환할 수 있다.",
+        "flow": [
+          "주민은 교환할 수 있다",
+          "종이 쿠폰을 내고",
+          "버스 이용권을 받는다"
+        ]
+      },
+      {
+        "en": "Can these tokens be exchanged for a meal?",
+        "ko": "이 토큰들로 식사 한 끼를 받을 수 있나요?",
+        "flow": [
+          "이 토큰들을 교환할 수 있나요",
+          "식사 한 끼로"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "Visitors can exchange a voucher ___ one drink.",
+      "ko": "방문객은 교환권을 내고 음료 한 잔을 받을 수 있다.",
+      "answer": "for"
+    },
+    "refs": [
+      {
+        "paper": "f130b418ba",
+        "number": 12
+      }
+    ],
+    "wordIds": [
+      "exchange-for"
+    ]
+  },
+  {
+    "id": "substitute-for",
+    "title": "substitute A for B",
+    "category": "대가·이유 말하기",
+    "meaning": "B 대신 A를 쓰다",
+    "roleA": "새로 넣는 것",
+    "roleB": "원래 쓰던 것",
+    "tip": "A가 새로 들어와요. replace B with A로 바꾸어 말하면 원래 쓰던 B가 앞으로 가요.",
+    "examples": [
+      {
+        "en": "I substituted yogurt for cream in the sauce.",
+        "ko": "나는 소스를 만들 때 크림 대신 요구르트를 썼다.",
+        "flow": [
+          "나는 대신 넣었다",
+          "요구르트를",
+          "크림 자리에, 소스에"
+        ]
+      },
+      {
+        "en": "The library substituted digital notices for printed flyers.",
+        "ko": "도서관은 인쇄 전단 대신 디지털 안내문을 사용했다.",
+        "flow": [
+          "도서관이 대신 썼다",
+          "디지털 안내문을",
+          "인쇄 전단 자리에"
+        ]
+      },
+      {
+        "en": "Can rice be substituted for bread in this meal?",
+        "ko": "이 식사에서 빵 대신 밥을 넣어도 될까요?",
+        "flow": [
+          "밥을 대신 쓸 수 있나요",
+          "빵 자리에",
+          "이 식사에서"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "We substituted a phone call ___ the usual meeting.",
+      "ko": "우리는 평소처럼 회의하는 대신 전화로 이야기했다.",
+      "answer": "for"
+    },
+    "refs": [],
+    "wordIds": [
+      "substitute-for",
+      "daily-substitute"
+    ]
+  },
+  {
+    "id": "replace-with",
+    "title": "replace A with B",
+    "category": "바꾸기·분류하기",
+    "meaning": "A를 B로 대체하다",
+    "roleA": "빼거나 교체할 기존 대상",
+    "roleB": "새로 들어오는 대상",
+    "tip": "기존 것이 먼저 와요. ‘우유 대신 물’을 쓴다면 replace milk with water예요.",
+    "examples": [
+      {
+        "en": "I replaced the broken handle with a leather strap.",
+        "ko": "나는 부러진 손잡이 대신 가죽 끈을 달았다.",
+        "flow": [
+          "나는 교체했다",
+          "부러진 손잡이를 빼고",
+          "가죽 끈으로"
+        ]
+      },
+      {
+        "en": "The office will replace paper forms with an online application.",
+        "ko": "사무실은 종이 양식을 온라인 신청서로 대체할 예정이다.",
+        "flow": [
+          "사무실은 교체할 것이다",
+          "종이 양식을",
+          "온라인 신청서로"
+        ]
+      },
+      {
+        "en": "The two old lifts were replaced with a single larger one.",
+        "ko": "오래된 승강기 두 대가 더 큰 승강기 한 대로 교체되었다.",
+        "flow": [
+          "오래된 승강기 두 대가 교체됐다",
+          "더 큰 한 대로"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "Please ___ the worn batteries with fresh ones.",
+      "ko": "다 쓴 건전지를 새것으로 교체해 주세요.",
+      "answer": "replace"
+    },
+    "refs": [
+      {
+        "paper": "d044a0b175",
+        "number": 15
+      }
+    ],
+    "wordIds": [
+      "daily-replacement",
+      "substitute-for"
+    ]
+  },
+  {
+    "id": "convert-into",
+    "title": "convert A into B",
+    "category": "바꾸기·분류하기",
+    "meaning": "A를 B로 바꾸다",
+    "roleA": "변화하기 전의 대상",
+    "roleB": "바뀐 뒤의 결과물이나 용도",
+    "tip": "into 뒤에는 바꾸고 난 결과가 와요. 무엇의 모양이나 쓰임이 변했는지 떠올려 보세요.",
+    "examples": [
+      {
+        "en": "We converted the cupboard into a reading nook.",
+        "ko": "우리는 벽장을 작은 독서 공간으로 바꿨다.",
+        "flow": [
+          "우리는 바꿨다",
+          "벽장을",
+          "작은 독서 공간으로"
+        ]
+      },
+      {
+        "en": "The city converted a warehouse into a shelter.",
+        "ko": "시는 창고 하나를 대피소로 개조했다.",
+        "flow": [
+          "시는 바꿨다",
+          "창고 하나를",
+          "대피소로"
+        ]
+      },
+      {
+        "en": "Can this table be converted into a bed?",
+        "ko": "이 탁자를 침대로 바꿔 쓸 수 있나요?",
+        "flow": [
+          "이 탁자가 바뀔 수 있나요",
+          "침대로"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "The builders converted the attic ___ a studio.",
+      "ko": "시공팀이 다락을 작업실로 개조했다.",
+      "answer": "into"
+    },
+    "refs": [
+      {
+        "paper": "61f379a488",
+        "number": 4
+      },
+      {
+        "paper": "2fd16c8f2f",
+        "number": 18
+      }
+    ],
+    "wordIds": [
+      "converted-into"
+    ]
+  },
+  {
+    "id": "translate-into",
+    "title": "translate A into B",
+    "category": "바꾸기·분류하기",
+    "meaning": "A를 B로 번역하거나 옮기다",
+    "roleA": "원래의 말·글 또는 아이디어",
+    "roleB": "도착 언어나 구체적인 결과",
+    "tip": "into 뒤에서 번역될 언어를 찾아요. ideas into action처럼 생각을 실천으로 옮긴다는 비유에도 써요.",
+    "examples": [
+      {
+        "en": "My cousin translated the recipe into Korean.",
+        "ko": "사촌이 그 조리법을 한국어로 번역했다.",
+        "flow": [
+          "사촌이 옮겼다",
+          "그 조리법을",
+          "한국어로"
+        ]
+      },
+      {
+        "en": "The team translated survey findings into concrete proposals.",
+        "ko": "팀은 설문 조사 결과를 구체적인 제안으로 발전시켰다.",
+        "flow": [
+          "팀은 옮겼다",
+          "설문 결과를",
+          "구체적인 제안으로"
+        ]
+      },
+      {
+        "en": "The safety leaflet has been translated into five languages.",
+        "ko": "안전 안내 책자가 다섯 개 언어로 번역되었다.",
+        "flow": [
+          "안전 안내 책자가 번역되었다",
+          "다섯 개 언어로"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "Could you translate the note ___ Spanish?",
+      "ko": "그 메모를 스페인어로 번역해 줄 수 있나요?",
+      "answer": "into"
+    },
+    "refs": [
+      {
+        "paper": "66862acd60",
+        "number": 10
+      },
+      {
+        "paper": "32acc7b2d0",
+        "number": 16
+      }
+    ],
+    "wordIds": [
+      "translate-into"
+    ]
+  },
+  {
+    "id": "classify-as",
+    "title": "classify A as B",
+    "category": "바꾸기·분류하기",
+    "meaning": "A를 B로 분류하다",
+    "roleA": "분류하려는 대상",
+    "roleB": "분류 기준에 따른 범주",
+    "tip": "as 뒤에는 어떤 부류에 속한다고 판단하는지가 나와요. 물건 자체의 모양이 바뀌지는 않아요.",
+    "examples": [
+      {
+        "en": "The game classifies whales as mammals.",
+        "ko": "그 게임은 고래를 포유류로 분류한다.",
+        "flow": [
+          "그 게임은 분류한다",
+          "고래를",
+          "포유류로"
+        ]
+      },
+      {
+        "en": "The office classifies minor leaks as routine repairs.",
+        "ko": "사무실은 작은 누수를 일반 수리 항목으로 분류한다.",
+        "flow": [
+          "사무실은 분류한다",
+          "작은 누수를",
+          "일반 수리로"
+        ]
+      },
+      {
+        "en": "Which documents are classified as confidential?",
+        "ko": "어떤 문서가 기밀로 분류되나요?",
+        "flow": [
+          "어떤 문서가 분류되나요",
+          "기밀로"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "The center classifies this material ___ reusable.",
+      "ko": "센터는 이 자재를 재사용 가능 품목으로 분류한다.",
+      "answer": "as"
+    },
+    "refs": [
+      {
+        "paper": "d9df438f4f",
+        "number": 16
+      },
+      {
+        "paper": "ce65fc9c66",
+        "number": 17
+      }
+    ],
+    "wordIds": [
+      "daily-hazard"
+    ]
+  },
+  {
+    "id": "refer-to-as",
+    "title": "refer to A as B",
+    "category": "바꾸기·분류하기",
+    "meaning": "A를 B라고 부르다",
+    "roleA": "말하고 있는 대상",
+    "roleB": "대상을 일컫는 이름이나 표현",
+    "tip": "refer to에서 to까지 읽고 대상을 찾아요. 이어지는 as 뒤에는 그 대상을 무엇이라 부르는지 나와요.",
+    "examples": [
+      {
+        "en": "We refer to the little room as the den.",
+        "ko": "우리는 그 작은 방을 아지트라고 부른다.",
+        "flow": [
+          "우리는 일컫는다",
+          "그 작은 방을",
+          "아지트라고"
+        ]
+      },
+      {
+        "en": "The report refers to first-time applicants as new users.",
+        "ko": "보고서는 처음 신청하는 사람을 신규 이용자라고 부른다.",
+        "flow": [
+          "보고서는 일컫는다",
+          "처음 신청하는 사람을",
+          "신규 이용자라고"
+        ]
+      },
+      {
+        "en": "The square is often referred to as the heart of the town.",
+        "ko": "그 광장은 종종 마을의 심장부라 불린다.",
+        "flow": [
+          "그 광장은 종종 불린다",
+          "마을의 심장부라고"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "Staff refer to this service ___ the night line.",
+      "ko": "직원들은 이 서비스를 야간 전용 전화라고 부른다.",
+      "answer": "as"
+    },
+    "refs": [
+      {
+        "paper": "d044a0b175",
+        "number": 18
+      }
+    ],
+    "wordIds": [
+      "refer-to"
+    ]
+  },
+  {
+    "id": "attach-to",
+    "title": "attach A to B",
+    "category": "제공·연결하기",
+    "meaning": "A를 B에 붙이거나 첨부하다",
+    "roleA": "붙일 물건이나 파일",
+    "roleB": "붙이는 위치나 첨부할 문서",
+    "tip": "첨부할 파일을 먼저 말해요. A를 주어로 옮긴 수동형에서도 to 뒤에는 붙이는 곳이 와요.",
+    "examples": [
+      {
+        "en": "I attached a tag to my bag.",
+        "ko": "나는 가방에 이름표를 달았다.",
+        "flow": [
+          "나는 달았다",
+          "이름표를",
+          "내 가방에"
+        ]
+      },
+      {
+        "en": "Please attach a receipt to the expense form.",
+        "ko": "경비 청구서에 영수증을 첨부해 주세요.",
+        "flow": [
+          "첨부해 주세요",
+          "영수증을",
+          "경비 청구서에"
+        ]
+      },
+      {
+        "en": "The floor plan is attached to the confirmation email.",
+        "ko": "확인 메일에 평면도가 첨부되어 있다.",
+        "flow": [
+          "평면도가 첨부되어 있다",
+          "확인 메일에"
+        ]
+      }
+    ],
+    "gap": {
+      "en": "The clerk attached a photo ___ the file.",
+      "ko": "직원은 서류철에 사진을 붙였다.",
+      "answer": "to"
+    },
+    "refs": [
+      {
+        "paper": "ce65fc9c66",
+        "number": 19
+      },
+      {
+        "paper": "ae29293299",
+        "number": 15
+      }
+    ],
+    "wordIds": [
+      "daily-attach",
+      "daily-attachment"
+    ]
+  }
+]

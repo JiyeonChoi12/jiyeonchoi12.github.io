@@ -1,0 +1,2343 @@
+[
+  {
+    "id": "remind-of",
+    "title": "remind A of B",
+    "meaning": "A에게 B를 떠올리게 하다",
+    "category": "동사와 전치사",
+    "tip": "of 뒤에 떠오르는 대상이 와요. remind A to do라면 앞으로 할 일을 잊지 않도록 알려 주는 말이에요.",
+    "examples": [
+      {
+        "en": "This soap reminds me of my grandmother's kitchen.",
+        "ko": "이 비누 냄새를 맡으면 할머니 댁 부엌이 떠오른다.",
+        "focus": [
+          "reminds me of"
+        ]
+      },
+      {
+        "en": "The empty swing reminded Jisu of her childhood.",
+        "ko": "빈 그네를 보니 지수는 어린 시절이 생각났다."
+      }
+    ],
+    "gap": {
+      "en": "Your handwriting reminds me ___ my brother's.",
+      "answer": "of",
+      "ko": "네 글씨체를 보면 내 형의 글씨가 떠오른다."
+    },
+    "refs": []
+  },
+  {
+    "id": "notify-of",
+    "title": "notify A of B",
+    "meaning": "A에게 B를 알리다",
+    "category": "동사와 전치사",
+    "tip": "notify 뒤에 소식을 받는 사람을 먼저 놓아요. of 뒤에는 변경이나 결과처럼 알릴 내용이 와요.",
+    "examples": [
+      {
+        "en": "The school notified parents of the closure.",
+        "ko": "학교는 학부모에게 휴교를 알렸다.",
+        "focus": [
+          "notified parents of"
+        ]
+      },
+      {
+        "en": "Please notify the office of any change in your address.",
+        "ko": "주소가 바뀌면 사무실에 알려 주세요."
+      }
+    ],
+    "gap": {
+      "en": "The carrier notified us ___ the delivery delay.",
+      "answer": "of",
+      "ko": "배송업체가 우리에게 배송 지연을 알렸다."
+    },
+    "refs": []
+  },
+  {
+    "id": "credit-with",
+    "title": "credit A with B",
+    "meaning": "B를 해낸 공로가 A에게 있다고 인정하다",
+    "category": "동사와 전치사",
+    "tip": "with 뒤에 공적이나 성과를 놓아요. 수동형 be credited with도 ‘~한 공로를 인정받다’로 읽어요.",
+    "examples": [
+      {
+        "en": "The coach credited Mina with the winning idea.",
+        "ko": "감독은 승리로 이어진 아이디어가 미나에게서 나왔다고 인정했다.",
+        "focus": [
+          "credited Mina with"
+        ]
+      },
+      {
+        "en": "Two local gardeners are credited with saving the old pear tree.",
+        "ko": "그 오래된 배나무를 살린 공로는 지역 정원사 두 사람에게 돌아간다."
+      }
+    ],
+    "gap": {
+      "en": "The report credits a volunteer ___ finding the missing ledger.",
+      "answer": "with",
+      "ko": "보고서에는 사라진 장부를 찾아낸 사람이 자원봉사자라고 쓰여 있다."
+    },
+    "refs": []
+  },
+  {
+    "id": "blame-for",
+    "title": "blame A for B",
+    "meaning": "B를 A의 탓으로 돌리다",
+    "category": "동사와 전치사",
+    "tip": "A는 비난을 받는 쪽, B는 잘못됐다고 보는 일이에요. 책임이 실제로 입증됐는지는 문맥을 봐야 해요. blame B on A로도 같은 책임 관계를 표현해요.",
+    "examples": [
+      {
+        "en": "At first we blamed the map for the detour.",
+        "ko": "처음에 우리는 우회한 것이 지도 탓이라고 생각했다.",
+        "focus": [
+          "blamed the map for"
+        ]
+      },
+      {
+        "en": "Some residents blamed the noise on the new pumps.",
+        "ko": "일부 주민은 소음이 새 펌프 탓이라고 했다."
+      }
+    ],
+    "gap": {
+      "en": "The crowd blamed the referee ___ the long delay.",
+      "answer": "for",
+      "ko": "관중은 경기가 오래 지연된 것을 심판 탓으로 돌렸다."
+    },
+    "refs": []
+  },
+  {
+    "id": "charge-for",
+    "title": "charge A for B",
+    "meaning": "A에게 B의 요금을 청구하다",
+    "category": "동사와 전치사",
+    "tip": "for 뒤에는 돈을 받는 이유가 와요. 금액은 charge ten dollars처럼 charge 바로 뒤에도 올 수 있어요.",
+    "examples": [
+      {
+        "en": "The café doesn't charge customers for tap water.",
+        "ko": "그 카페는 손님에게 수돗물 값을 받지 않는다.",
+        "focus": [
+          "charge customers for"
+        ]
+      },
+      {
+        "en": "They charged me five dollars for a replacement key.",
+        "ko": "그들은 대체 열쇠 값으로 내게 5달러를 청구했다."
+      }
+    ],
+    "gap": {
+      "en": "Does the hotel charge extra ___ late checkout?",
+      "answer": "for",
+      "ko": "호텔은 늦은 퇴실에 추가 요금을 받나요?"
+    },
+    "refs": []
+  },
+  {
+    "id": "thank-for",
+    "title": "thank A for B",
+    "meaning": "B에 대해 A에게 고마움을 전하다",
+    "category": "동사와 전치사",
+    "tip": "고마운 상대를 thank 바로 뒤에 놓아요. for 뒤가 행동이면 helping처럼 -ing형을 써요.",
+    "examples": [
+      {
+        "en": "I thanked the driver for waiting.",
+        "ko": "나는 기다려 준 기사에게 고맙다고 했다.",
+        "focus": [
+          "thanked the driver for"
+        ]
+      },
+      {
+        "en": "We should thank Sora for the chairs she lent us.",
+        "ko": "의자를 빌려 준 소라에게 고마움을 전해야겠다."
+      }
+    ],
+    "gap": {
+      "en": "She thanked her neighbor ___ feeding the cat.",
+      "answer": "for",
+      "ko": "그녀는 고양이 밥을 준 이웃에게 고마움을 전했다."
+    },
+    "refs": []
+  },
+  {
+    "id": "protect-from",
+    "title": "protect A from B",
+    "meaning": "B로부터 A를 보호하다",
+    "category": "동사와 전치사",
+    "tip": "먼저 무엇을 지키는지 보고 from 뒤에서 위험한 대상을 찾아요.",
+    "examples": [
+      {
+        "en": "The cloth protects the fruit from strong sunlight.",
+        "ko": "천이 강한 햇빛으로부터 과일을 보호한다.",
+        "focus": [
+          "protects the fruit from"
+        ]
+      },
+      {
+        "en": "We wrapped the bowls in towels to protect them from scratches.",
+        "ko": "우리는 그릇에 흠집이 나지 않도록 수건으로 감쌌다."
+      }
+    ],
+    "gap": {
+      "en": "The password protects the folder ___ unauthorized access.",
+      "answer": "from",
+      "ko": "비밀번호가 허가받지 않은 접근으로부터 폴더를 보호한다."
+    },
+    "refs": []
+  },
+  {
+    "id": "equip-with",
+    "title": "equip A with B",
+    "meaning": "A에 B를 갖추어 주다",
+    "category": "동사와 전치사",
+    "tip": "A는 장비를 갖추는 대상이에요. B에는 도구뿐 아니라 기술도 올 수 있어요.",
+    "examples": [
+      {
+        "en": "We equipped each cart with a small brake.",
+        "ko": "우리는 각 수레에 작은 브레이크를 달았다.",
+        "focus": [
+          "equipped each cart with"
+        ]
+      },
+      {
+        "en": "The workshop equips new staff with basic editing skills.",
+        "ko": "그 워크숍은 신입 직원에게 기본적인 편집 기술을 익히게 한다."
+      }
+    ],
+    "gap": {
+      "en": "All rental bikes are equipped ___ lights.",
+      "answer": "with",
+      "ko": "모든 대여 자전거에는 등이 달려 있다."
+    },
+    "refs": []
+  },
+  {
+    "id": "compare-with",
+    "title": "compare A with B",
+    "meaning": "A와 B를 비교하다",
+    "category": "동사와 전치사",
+    "tip": "둘을 나란히 놓고 공통점이나 차이를 찾는 장면이에요. 이 비교 의미에는 with와 to가 모두 쓰여요.",
+    "examples": [
+      {
+        "en": "The nurse compared today's result with last week's.",
+        "ko": "간호사는 오늘 결과를 지난주 결과와 비교했다.",
+        "focus": [
+          "compared today's result with"
+        ]
+      },
+      {
+        "en": "I compared the two labels before choosing a detergent.",
+        "ko": "나는 세제를 고르기 전에 두 제품의 표시를 비교했다."
+      }
+    ],
+    "gap": {
+      "en": "We compared the new map ___ last year's map. (w로 시작)",
+      "answer": "with",
+      "ko": "우리는 새 지도를 작년 지도와 비교했다."
+    },
+    "refs": []
+  },
+  {
+    "id": "exchange-for",
+    "title": "exchange A for B",
+    "meaning": "A를 B로 교환하다",
+    "category": "동사와 전치사",
+    "tip": "내놓은 것과 얻은 것을 차례로 읽어요. 사람끼리 주고받는 상대는 exchange messages with a friend처럼 with로 나타내요.",
+    "examples": [
+      {
+        "en": "She exchanged her ticket for a later one.",
+        "ko": "그녀는 표를 더 늦은 시간대의 표로 바꿨다.",
+        "focus": [
+          "exchanged her ticket for"
+        ]
+      },
+      {
+        "en": "Can I exchange these coins for a single bill?",
+        "ko": "이 동전들을 지폐 한 장으로 바꿀 수 있나요?"
+      }
+    ],
+    "gap": {
+      "en": "He exchanged the blue mug ___ a green one.",
+      "answer": "for",
+      "ko": "그는 파란 머그잔을 초록색 머그잔으로 교환했다."
+    },
+    "refs": []
+  },
+  {
+    "id": "substitute-for",
+    "title": "substitute A for B",
+    "meaning": "B 대신 A를 쓰다",
+    "category": "동사와 전치사",
+    "tip": "먼저 나온 A가 새로 쓰는 것이고 for 뒤의 B는 원래 쓰던 것이에요.",
+    "examples": [
+      {
+        "en": "Try substituting yogurt for cream.",
+        "ko": "크림 대신 요구르트를 넣어 보세요.",
+        "focus": [
+          "substituting yogurt for"
+        ]
+      },
+      {
+        "en": "The teacher substituted a walk outside for the usual warm-up.",
+        "ko": "선생님은 평소 하던 준비 운동 대신 바깥 산책을 시켰다."
+      }
+    ],
+    "gap": {
+      "en": "We substituted cardboard ___ plastic in the display.",
+      "answer": "for",
+      "ko": "우리는 전시물에서 플라스틱 대신 판지를 사용했다."
+    },
+    "refs": []
+  },
+  {
+    "id": "translate-into",
+    "title": "translate A into B",
+    "meaning": "A를 B로 번역하다 · 구체적인 형태로 바꾸다",
+    "category": "동사와 전치사",
+    "tip": "into 뒤에서 바뀐 언어나 결과를 찾아요. 생각을 실제 행동으로 옮길 때도 써요.",
+    "examples": [
+      {
+        "en": "Could you translate the sign into Korean?",
+        "ko": "그 표지판의 문구를 한국어로 옮겨 주시겠어요?",
+        "focus": [
+          "translate the sign into"
+        ]
+      },
+      {
+        "en": "The designer translated our rough sketch into a working model.",
+        "ko": "디자이너는 우리의 밑그림을 작동하는 모형으로 구현했다."
+      }
+    ],
+    "gap": {
+      "en": "She translated the instructions ___ plain English.",
+      "answer": "into",
+      "ko": "그녀는 안내를 쉬운 영어로 풀어 썼다."
+    },
+    "refs": []
+  },
+  {
+    "id": "borrow-from",
+    "title": "borrow A from B",
+    "meaning": "B에게서 A를 빌리다",
+    "category": "동사와 전치사",
+    "tip": "borrow의 주어는 받아 쓰는 사람이에요. 빌려주는 쪽을 주어로 하면 lend를 써요.",
+    "examples": [
+      {
+        "en": "I borrowed a ladder from the shop next door.",
+        "ko": "나는 옆 가게에서 사다리를 빌렸다.",
+        "focus": [
+          "borrowed a ladder from"
+        ]
+      },
+      {
+        "en": "You can borrow up to six books from this branch.",
+        "ko": "이 분관에서는 책을 여섯 권까지 빌릴 수 있다."
+      }
+    ],
+    "gap": {
+      "en": "Could I borrow a pen ___ you for a moment?",
+      "answer": "from",
+      "ko": "잠시 펜 하나 빌려도 될까요?"
+    },
+    "refs": []
+  },
+  {
+    "id": "lend-to",
+    "title": "lend A to B",
+    "meaning": "A를 B에게 빌려주다",
+    "category": "동사와 전치사",
+    "tip": "lend의 주어가 물건을 내줘요. lent는 lend의 과거형과 과거분사예요.",
+    "examples": [
+      {
+        "en": "The museum lent the painting to a local gallery.",
+        "ko": "박물관은 지역 미술관에 그림을 빌려줬다.",
+        "focus": [
+          "lent the painting to"
+        ]
+      },
+      {
+        "en": "I'll lend you my bike if you bring it back by six.",
+        "ko": "여섯 시까지 돌려준다면 내 자전거를 빌려줄게."
+      }
+    ],
+    "gap": {
+      "en": "We lent our spare chairs ___ the choir.",
+      "answer": "to",
+      "ko": "우리는 여분의 의자를 합창단에 빌려줬다."
+    },
+    "refs": []
+  },
+  {
+    "id": "apologize-to-for",
+    "title": "apologize to A for B",
+    "meaning": "B에 대해 A에게 사과하다",
+    "category": "동사와 전치사",
+    "tip": "to 뒤에는 사과받는 사람, for 뒤에는 사과하는 이유를 놓아요.",
+    "examples": [
+      {
+        "en": "The guide apologized to us for the mix-up.",
+        "ko": "안내원은 혼선이 생긴 데 대해 우리에게 사과했다.",
+        "focus": [
+          "apologized to us for"
+        ]
+      },
+      {
+        "en": "I apologized for stepping on her shoe.",
+        "ko": "나는 그녀의 신발을 밟은 것에 대해 사과했다."
+      }
+    ],
+    "gap": {
+      "en": "He apologized ___ the caller for putting her on hold.",
+      "answer": "to",
+      "ko": "그는 전화를 건 사람을 기다리게 한 것에 대해 그 사람에게 사과했다."
+    },
+    "refs": []
+  },
+  {
+    "id": "belong-to",
+    "title": "belong to",
+    "meaning": "~의 것이다 · ~에 소속되다",
+    "category": "동사와 전치사",
+    "tip": "물건을 주어로 두면 to 뒤에서 주인을, 사람을 주어로 두면 소속을 찾을 수 있어요.",
+    "examples": [
+      {
+        "en": "These gloves belong to the stage manager.",
+        "ko": "이 장갑은 무대 감독의 것이다.",
+        "focus": [
+          "belong to"
+        ]
+      },
+      {
+        "en": "Both players belong to the same local club.",
+        "ko": "두 선수는 같은 지역 클럽에 소속되어 있다."
+      }
+    ],
+    "gap": {
+      "en": "Does the suitcase by the counter belong ___ anyone here?",
+      "answer": "to",
+      "ko": "계산대 옆 여행 가방은 여기 계신 분의 것인가요?"
+    },
+    "refs": []
+  },
+  {
+    "id": "rely-on",
+    "title": "rely on",
+    "meaning": "~을 믿고 의지하다",
+    "category": "동사와 전치사",
+    "tip": "사람에게도, 버스나 자료 같은 수단에도 쓸 수 있어요. rely on A to do는 A가 그 일을 해 줄 것을 믿는 거예요.",
+    "examples": [
+      {
+        "en": "The village relies on one ferry in winter.",
+        "ko": "그 마을은 겨울에 배 한 척에 의존한다.",
+        "focus": [
+          "relies on"
+        ]
+      },
+      {
+        "en": "I rely on my sister to check the house when I travel.",
+        "ko": "나는 여행할 때 언니가 집을 살펴 줄 거라고 믿고 맡긴다."
+      }
+    ],
+    "gap": {
+      "en": "Our team relies ___ measurements taken every hour.",
+      "answer": "on",
+      "ko": "우리 팀은 시간마다 잰 측정값에 의존한다."
+    },
+    "refs": []
+  },
+  {
+    "id": "object-to",
+    "title": "object to",
+    "meaning": "~에 반대하다",
+    "category": "동사와 전치사",
+    "tip": "이때 to는 전치사여서 제안 같은 명사나 paying 같은 -ing형이 이어져요.",
+    "examples": [
+      {
+        "en": "The tenants objected to the rent increase.",
+        "ko": "세입자들은 임대료 인상에 반대했다.",
+        "focus": [
+          "objected to"
+        ]
+      },
+      {
+        "en": "I don't object to sharing a desk if the room is quiet.",
+        "ko": "방이 조용하다면 책상을 함께 쓰는 데 반대하지 않는다."
+      }
+    ],
+    "gap": {
+      "en": "Residents objected to ___ the park early. (close)",
+      "answer": "closing",
+      "ko": "주민들은 공원 문을 일찍 닫는 데 반대했다."
+    },
+    "refs": []
+  },
+  {
+    "id": "respond-to",
+    "title": "respond to",
+    "meaning": "~에 응답하거나 반응하다",
+    "category": "동사와 전치사",
+    "tip": "메시지에 답하는 일에도, 상황이 바뀌자 행동을 조정하는 일에도 써요.",
+    "examples": [
+      {
+        "en": "No one responded to the first invitation.",
+        "ko": "첫 초대에는 아무도 답하지 않았다.",
+        "focus": [
+          "responded to"
+        ]
+      },
+      {
+        "en": "The lights respond to movement in the hallway.",
+        "ko": "그 조명은 복도에서 움직임이 감지되면 반응한다."
+      }
+    ],
+    "gap": {
+      "en": "Please respond ___ the survey by Thursday.",
+      "answer": "to",
+      "ko": "목요일까지 설문에 응답해 주세요."
+    },
+    "refs": []
+  },
+  {
+    "id": "recover-from",
+    "title": "recover from",
+    "meaning": "~에서 회복하다",
+    "category": "동사와 전치사",
+    "tip": "from 뒤에는 회복 전의 어려움이나 충격이 와요. recover a file처럼 목적어를 바로 붙이면 파일을 복구한다는 뜻이에요.",
+    "examples": [
+      {
+        "en": "The market is recovering from the winter slowdown.",
+        "ko": "시장은 겨울철 침체에서 회복하고 있다.",
+        "focus": [
+          "recovering from"
+        ]
+      },
+      {
+        "en": "It took the garden a month to recover from the frost.",
+        "ko": "정원이 서리 피해에서 회복하는 데 한 달이 걸렸다."
+      }
+    ],
+    "gap": {
+      "en": "The sound system recovered ___ the brief power cut.",
+      "answer": "from",
+      "ko": "음향 장비가 잠깐의 정전 이후 정상으로 돌아왔다."
+    },
+    "refs": []
+  },
+  {
+    "id": "succeed-in",
+    "title": "succeed in",
+    "meaning": "~에 성공하다",
+    "category": "동사와 전치사",
+    "tip": "in 뒤에 달성한 일을 -ing형으로 붙여요. 성공하고 싶다는 계획이 아니라 실제 성과를 나타내요.",
+    "examples": [
+      {
+        "en": "Jin succeeded in finding the rare map.",
+        "ko": "진은 마침내 희귀한 지도를 찾았다.",
+        "focus": [
+          "succeeded in finding"
+        ]
+      },
+      {
+        "en": "The team succeeded in cutting the wait to ten minutes.",
+        "ko": "팀은 대기 시간을 십 분으로 줄이는 데 성공했다."
+      }
+    ],
+    "gap": {
+      "en": "The printer succeeded ___ matching the original colors.",
+      "answer": "in",
+      "ko": "인쇄업자는 원래 색을 재현하는 데 성공했다."
+    },
+    "refs": []
+  },
+  {
+    "id": "insist-on",
+    "title": "insist on",
+    "meaning": "~을 고집하다 · 꼭 ~하겠다고 하다",
+    "category": "동사와 전치사",
+    "tip": "on 뒤에서 양보하지 않는 내용을 읽어요. 요구하는 행동을 넣으면 seeing 같은 -ing형이 와요.",
+    "examples": [
+      {
+        "en": "My aunt insisted on paying for lunch.",
+        "ko": "이모는 꼭 자신이 점심 값을 내겠다고 했다.",
+        "focus": [
+          "insisted on paying"
+        ]
+      },
+      {
+        "en": "The editor insists on a second fact check before publication.",
+        "ko": "편집자는 출판 전 사실 확인을 한 번 더 하라고 요구한다."
+      }
+    ],
+    "gap": {
+      "en": "The driver insisted ___ checking every seat before leaving.",
+      "answer": "on",
+      "ko": "기사는 출발하기 전에 모든 좌석을 꼭 확인하겠다고 했다."
+    },
+    "refs": []
+  },
+  {
+    "id": "consist-of",
+    "title": "consist of",
+    "meaning": "~로 이루어지다",
+    "category": "동사와 전치사",
+    "tip": "전체를 주어로 두고 of 뒤에 구성 요소를 나열해요. 보통 능동형 consists of로 써요.",
+    "examples": [
+      {
+        "en": "The kit consists of a lamp and two batteries.",
+        "ko": "세트는 램프 하나와 건전지 두 개로 이루어져 있다.",
+        "focus": [
+          "consists of"
+        ]
+      },
+      {
+        "en": "Our morning routine consists of a walk followed by breakfast.",
+        "ko": "우리의 아침 일과는 산책을 한 뒤 아침을 먹는 것이다."
+      }
+    ],
+    "gap": {
+      "en": "The panel consists ___ five elected members.",
+      "answer": "of",
+      "ko": "위원회는 선출된 위원 다섯 명으로 구성된다."
+    },
+    "refs": []
+  },
+  {
+    "id": "result-in",
+    "title": "result in",
+    "meaning": "~라는 결과를 낳다",
+    "category": "동사와 전치사",
+    "tip": "출발점에서 결론으로 읽어요. ‘비가 와서 지연됐다’면 비가 result in 앞에, 지연이 뒤에 와요.",
+    "examples": [
+      {
+        "en": "The extra stop resulted in a longer trip.",
+        "ko": "정류장이 하나 더 생겨 이동 시간이 길어졌다.",
+        "focus": [
+          "resulted in"
+        ]
+      },
+      {
+        "en": "A clearer label may result in fewer returns.",
+        "ko": "표시를 더 명확히 하면 반품이 줄어들 수 있다."
+      }
+    ],
+    "gap": {
+      "en": "The valve failure resulted ___ a temporary shutdown.",
+      "answer": "in",
+      "ko": "밸브 고장으로 시설 가동이 잠시 중단되었다."
+    },
+    "refs": []
+  },
+  {
+    "id": "result-from",
+    "title": "result from",
+    "meaning": "~에서 비롯되다",
+    "category": "동사와 전치사",
+    "tip": "결과를 먼저 읽고 from 뒤에서 원인을 찾아요. 같은 두 사건도 result in으로 말하면 순서가 바뀌어요.",
+    "examples": [
+      {
+        "en": "The delay resulted from a missing signature.",
+        "ko": "서명이 빠져서 지연이 생겼다.",
+        "focus": [
+          "resulted from"
+        ]
+      },
+      {
+        "en": "Some errors result from copying numbers by hand.",
+        "ko": "일부 오류는 숫자를 손으로 옮기는 과정에서 생긴다."
+      }
+    ],
+    "gap": {
+      "en": "The puddle resulted ___ a leak above the window.",
+      "answer": "from",
+      "ko": "창문 위쪽에서 물이 새서 웅덩이가 생겼다."
+    },
+    "refs": []
+  },
+  {
+    "id": "contribute-to",
+    "title": "contribute to",
+    "meaning": "~에 기여하다 · 한 원인이 되다",
+    "category": "동사와 전치사",
+    "tip": "to 뒤에 좋은 성과도, 나쁜 결과도 올 수 있어요. contributing factor는 여러 원인 가운데 하나예요.",
+    "examples": [
+      {
+        "en": "The new path contributed to a rise in cycling.",
+        "ko": "새 도로가 자전거 이용 증가에 한몫했다.",
+        "focus": [
+          "contributed to"
+        ]
+      },
+      {
+        "en": "Several families contributed tools to the garden project.",
+        "ko": "여러 가정이 정원 사업에 도구를 보탰다."
+      }
+    ],
+    "gap": {
+      "en": "Poor lighting contributed ___ the mix-up.",
+      "answer": "to",
+      "ko": "어두운 조명도 혼선의 원인 중 하나였다."
+    },
+    "refs": []
+  },
+  {
+    "id": "adapt-to",
+    "title": "adapt to",
+    "meaning": "~에 적응하다",
+    "category": "동사와 전치사",
+    "tip": "사람이나 생물이 달라진 조건에 스스로 맞춰 가는 거예요. adapt a room for children은 공간을 아이들에 맞게 바꾸는 표현이에요.",
+    "examples": [
+      {
+        "en": "The puppies soon adapted to the new house.",
+        "ko": "강아지들은 곧 새집에 적응했다.",
+        "focus": [
+          "adapted to"
+        ]
+      },
+      {
+        "en": "She adapted quickly to working nights.",
+        "ko": "그녀는 야간 근무에 빠르게 적응했다."
+      }
+    ],
+    "gap": {
+      "en": "It took me a week to adapt ___ the new shift pattern.",
+      "answer": "to",
+      "ko": "새 교대 일정에 적응하는 데 일주일이 걸렸다."
+    },
+    "refs": []
+  },
+  {
+    "id": "depend-on",
+    "title": "depend on",
+    "meaning": "~에 달려 있다 · 의지하다",
+    "category": "동사와 전치사",
+    "tip": "조건을 나타내면 on 뒤에 따라 결과가 달라져요. 사람을 믿고 맡긴다는 뜻으로도 써요.",
+    "examples": [
+      {
+        "en": "The date depends on the weather.",
+        "ko": "날짜는 날씨에 따라 정해진다.",
+        "focus": [
+          "depends on"
+        ]
+      },
+      {
+        "en": "Many students depend on the early bus to reach class on time.",
+        "ko": "많은 학생이 수업에 늦지 않기 위해 이른 버스를 이용한다."
+      }
+    ],
+    "gap": {
+      "en": "The fee depends ___ how many days you stay.",
+      "answer": "on",
+      "ko": "요금은 며칠 숙박하느냐에 따라 달라진다."
+    },
+    "refs": []
+  },
+  {
+    "id": "refer-to",
+    "title": "refer to",
+    "meaning": "~을 가리키다 · ~을 참고하다",
+    "category": "동사와 전치사",
+    "tip": "말이나 기호가 대상을 가리킬 때도 쓰고 안내에서 자료를 참고하라고 할 때도 써요.",
+    "examples": [
+      {
+        "en": "The blue dots refer to stops with elevators.",
+        "ko": "파란 점들은 엘리베이터가 있는 정류장을 가리킨다.",
+        "focus": [
+          "refer to"
+        ]
+      },
+      {
+        "en": "If the screen is blank, refer to page nine of the manual.",
+        "ko": "화면이 비어 있으면 사용 설명서 9쪽을 참고하세요."
+      }
+    ],
+    "gap": {
+      "en": "The pronoun they refers ___ the volunteers in this sentence.",
+      "answer": "to",
+      "ko": "이 문장에서 대명사 they는 자원봉사자들을 가리킨다."
+    },
+    "refs": []
+  },
+  {
+    "id": "concentrate-on",
+    "title": "concentrate on",
+    "meaning": "~에 집중하다",
+    "category": "동사와 전치사",
+    "tip": "attention처럼 관심을 모으는 대상을 on 뒤에 놓아요. concentrate on doing은 한 행동에 힘을 쏟는 거예요.",
+    "examples": [
+      {
+        "en": "Today we will concentrate on the two busiest crossings.",
+        "ko": "오늘은 가장 붐비는 횡단보도 두 곳에 집중하겠다.",
+        "focus": [
+          "concentrate on"
+        ]
+      },
+      {
+        "en": "I concentrate better on my work when the radio is off.",
+        "ko": "라디오를 끄면 내 일에 더 잘 집중할 수 있다."
+      }
+    ],
+    "gap": {
+      "en": "The class concentrated ___ making the instructions shorter.",
+      "answer": "on",
+      "ko": "수업에서는 지시문을 더 짧게 만드는 데 집중했다."
+    },
+    "refs": []
+  },
+  {
+    "id": "aware-of",
+    "title": "be aware of",
+    "meaning": "~을 알고 있다 · 의식하다",
+    "category": "형용사·명사와 전치사",
+    "tip": "of 뒤에는 알고 있는 사실이나 대상이 와요. become aware of는 몰랐던 사실을 알게 되는 순간이에요.",
+    "examples": [
+      {
+        "en": "Were you aware of the change in hours?",
+        "ko": "운영 시간이 바뀐 것을 알고 계셨나요?",
+        "focus": [
+          "aware of"
+        ]
+      },
+      {
+        "en": "I became aware of a faint smell of smoke.",
+        "ko": "나는 옅은 연기 냄새를 알아차렸다."
+      }
+    ],
+    "gap": {
+      "en": "Drivers should be aware ___ children near the gate.",
+      "answer": "of",
+      "ko": "운전자는 입구 주변에 아이들이 있다는 것을 유념해야 한다."
+    },
+    "refs": []
+  },
+  {
+    "id": "familiar-with",
+    "title": "be familiar with",
+    "meaning": "~을 잘 알다 · ~에 익숙하다",
+    "category": "형용사·명사와 전치사",
+    "tip": "아는 사람이 주어이고 그가 아는 대상이 with 뒤에 와요. I am familiar with the route라면 내가 길을 잘 안다는 뜻이에요.",
+    "examples": [
+      {
+        "en": "Our guide is familiar with the narrow lanes.",
+        "ko": "안내원은 그 좁은 골목들을 잘 안다.",
+        "focus": [
+          "familiar with"
+        ]
+      },
+      {
+        "en": "Are you familiar with the return procedure?",
+        "ko": "반품 절차에 익숙하신가요?"
+      }
+    ],
+    "gap": {
+      "en": "Someone familiar ___ the equipment should stay nearby.",
+      "answer": "with",
+      "ko": "장비를 잘 아는 사람이 가까이 있어야 한다."
+    },
+    "refs": []
+  },
+  {
+    "id": "familiar-to",
+    "title": "be familiar to",
+    "meaning": "~에게 낯익다 · 귀에 익다",
+    "category": "형용사·명사와 전치사",
+    "tip": "익숙하게 느껴지는 대상이 주어이고, 느끼는 사람이 to 뒤에 와요.",
+    "examples": [
+      {
+        "en": "The caller's voice was familiar to me.",
+        "ko": "전화를 건 사람의 목소리가 내게 귀에 익었다.",
+        "focus": [
+          "familiar to"
+        ]
+      },
+      {
+        "en": "These symbols will be familiar to anyone who hikes.",
+        "ko": "등산하는 사람이라면 이 기호들이 낯익을 것이다."
+      }
+    ],
+    "gap": {
+      "en": "The tune sounded familiar ___ several visitors.",
+      "answer": "to",
+      "ko": "방문객 몇 사람은 그 곡조가 귀에 익었다."
+    },
+    "refs": []
+  },
+  {
+    "id": "capable-of",
+    "title": "be capable of",
+    "meaning": "~할 능력이 있다",
+    "category": "형용사·명사와 전치사",
+    "tip": "of 뒤에서 실제로 해낼 수 있는 일을 찾아요. 행동은 lifting처럼 -ing형으로 이어요.",
+    "examples": [
+      {
+        "en": "This lift is capable of carrying two wheelchairs.",
+        "ko": "이 승강기는 휠체어 두 대를 실을 수 있다.",
+        "focus": [
+          "capable of carrying"
+        ]
+      },
+      {
+        "en": "She's capable of leading the tour on her own.",
+        "ko": "그녀는 혼자서도 견학을 이끌 능력이 있다."
+      }
+    ],
+    "gap": {
+      "en": "The tank is capable ___ holding fifty liters.",
+      "answer": "of",
+      "ko": "그 물탱크에는 50리터를 담을 수 있다."
+    },
+    "refs": []
+  },
+  {
+    "id": "suitable-for",
+    "title": "be suitable for",
+    "meaning": "~에 적합하다",
+    "category": "형용사·명사와 전치사",
+    "tip": "for 뒤에는 물건을 쓸 사람이나 용도가 와요. 실용문에서는 참가 대상이나 사용 범위를 결정하는 말이에요.",
+    "examples": [
+      {
+        "en": "The short trail is suitable for young children.",
+        "ko": "짧은 산책로는 어린아이에게 알맞다.",
+        "focus": [
+          "suitable for"
+        ]
+      },
+      {
+        "en": "This pan is suitable for use on an induction stove.",
+        "ko": "이 냄비는 인덕션에서 사용하기에 적합하다."
+      }
+    ],
+    "gap": {
+      "en": "Is the recording suitable ___ beginners?",
+      "answer": "for",
+      "ko": "이 녹음 자료가 초보자에게 알맞나요?"
+    },
+    "refs": []
+  },
+  {
+    "id": "similar-to",
+    "title": "be similar to",
+    "meaning": "~와 비슷하다",
+    "category": "형용사·명사와 전치사",
+    "tip": "to 뒤에 비교 대상을 붙여요. similar만으로 두 대상이 완전히 똑같다고 단정할 수는 없어요.",
+    "examples": [
+      {
+        "en": "The rental agreement is similar to last year's.",
+        "ko": "임대 계약서는 작년 것과 비슷하다.",
+        "focus": [
+          "similar to"
+        ]
+      },
+      {
+        "en": "The two uniforms look similar from a distance.",
+        "ko": "두 유니폼은 멀리서 보면 비슷하다."
+      }
+    ],
+    "gap": {
+      "en": "This route is similar ___ the one we walked yesterday.",
+      "answer": "to",
+      "ko": "이 경로는 어제 걸은 길과 비슷하다."
+    },
+    "refs": []
+  },
+  {
+    "id": "different-from",
+    "title": "be different from",
+    "meaning": "~와 다르다",
+    "category": "형용사·명사와 전치사",
+    "tip": "차이를 비교하는 대상을 from 뒤에 둬요. 미국 영어에서는 different than도 쓰여요.",
+    "examples": [
+      {
+        "en": "The timetable online is different from the printed one.",
+        "ko": "온라인 시간표가 인쇄된 시간표와 다르다.",
+        "focus": [
+          "different from"
+        ]
+      },
+      {
+        "en": "Fresh figs taste quite different from dried ones.",
+        "ko": "생무화과는 말린 무화과와 맛이 꽤 다르다."
+      }
+    ],
+    "gap": {
+      "en": "The new pass looks different ___ the old one. (f로 시작)",
+      "answer": "from",
+      "ko": "새 이용권은 예전 것과 모양이 다르다."
+    },
+    "refs": []
+  },
+  {
+    "id": "concerned-about",
+    "title": "be concerned about",
+    "meaning": "~을 걱정하다",
+    "category": "형용사·명사와 전치사",
+    "tip": "걱정의 내용은 about 뒤에 와요. a notice concerned with safety라면 안전을 다루는 안내문이라는 뜻이 될 수 있어요.",
+    "examples": [
+      {
+        "en": "Neighbors are concerned about the cracked wall.",
+        "ko": "이웃들은 금이 간 벽을 걱정한다.",
+        "focus": [
+          "concerned about"
+        ]
+      },
+      {
+        "en": "The organizers were concerned about running out of water.",
+        "ko": "주최 측은 식수가 떨어질까 봐 걱정했다."
+      }
+    ],
+    "gap": {
+      "en": "Parents were concerned ___ the long walk home. (a로 시작)",
+      "answer": "about",
+      "ko": "부모들은 집까지 걸어가는 길이 멀어 걱정했다."
+    },
+    "refs": []
+  },
+  {
+    "id": "pleased-with",
+    "title": "be pleased with",
+    "meaning": "~에 만족하다 · 기뻐하다",
+    "category": "형용사·명사와 전치사",
+    "tip": "with 뒤에는 만족하는 대상이나 결과가 와요. pleased to hear는 ‘들으니 반갑다’처럼 이어져요.",
+    "examples": [
+      {
+        "en": "The chef was pleased with the first batch.",
+        "ko": "요리사는 처음 만든 한 판의 결과에 만족했다.",
+        "focus": [
+          "pleased with"
+        ]
+      },
+      {
+        "en": "We were pleased to hear that the shop would stay open.",
+        "ko": "가게가 계속 영업한다는 소식이 반가웠다."
+      }
+    ],
+    "gap": {
+      "en": "Are you pleased ___ the final design? (w로 시작)",
+      "answer": "with",
+      "ko": "최종 디자인에 만족하시나요?"
+    },
+    "refs": []
+  },
+  {
+    "id": "proud-of",
+    "title": "be proud of",
+    "meaning": "~을 자랑스럽게 여기다",
+    "category": "형용사·명사와 전치사",
+    "tip": "of 뒤에는 자랑스러워하는 사람이나 성취가 와요. be proud to do는 어떤 일을 하게 되어 자랑스럽다는 뜻이에요.",
+    "examples": [
+      {
+        "en": "The town is proud of its volunteer fire crew.",
+        "ko": "그 마을은 자원 소방대를 자랑스럽게 여긴다.",
+        "focus": [
+          "proud of"
+        ]
+      },
+      {
+        "en": "I was proud of my sister for speaking up.",
+        "ko": "나는 용기 내어 의견을 낸 여동생이 자랑스러웠다."
+      }
+    ],
+    "gap": {
+      "en": "We're proud ___ what the students built together.",
+      "answer": "of",
+      "ko": "우리는 학생들이 함께 만든 것을 자랑스럽게 여긴다."
+    },
+    "refs": []
+  },
+  {
+    "id": "afraid-of",
+    "title": "be afraid of",
+    "meaning": "~을 두려워하다",
+    "category": "형용사·명사와 전치사",
+    "tip": "of 뒤에는 두려움의 대상이 와요. afraid to ask는 두려워서 질문하기를 망설인다는 뜻이에요.",
+    "examples": [
+      {
+        "en": "The puppy is afraid of the vacuum cleaner.",
+        "ko": "강아지는 진공청소기를 무서워한다.",
+        "focus": [
+          "afraid of"
+        ]
+      },
+      {
+        "en": "I'm afraid of leaving my passport behind.",
+        "ko": "여권을 두고 갈까 봐 걱정된다."
+      }
+    ],
+    "gap": {
+      "en": "He used to be afraid ___ deep water.",
+      "answer": "of",
+      "ko": "그는 예전에 깊은 물을 무서워했다."
+    },
+    "refs": []
+  },
+  {
+    "id": "sensitive-to",
+    "title": "be sensitive to",
+    "meaning": "~에 민감하다",
+    "category": "형용사·명사와 전치사",
+    "tip": "사소한 변화에도 영향을 받거나 미묘한 차이를 알아채는 대상이 to 뒤에 와요.",
+    "examples": [
+      {
+        "en": "The film is sensitive to bright light.",
+        "ko": "그 필름은 밝은 빛에 민감하다.",
+        "focus": [
+          "sensitive to"
+        ]
+      },
+      {
+        "en": "This microphone is sensitive to the hum of the fridge.",
+        "ko": "이 마이크는 냉장고의 웅웅거리는 소리에도 민감하다."
+      }
+    ],
+    "gap": {
+      "en": "Young plants are sensitive ___ sudden temperature changes.",
+      "answer": "to",
+      "ko": "어린 식물은 급격한 온도 변화에 민감하다."
+    },
+    "refs": []
+  },
+  {
+    "id": "accustomed-to",
+    "title": "be accustomed to",
+    "meaning": "~에 익숙하다",
+    "category": "형용사·명사와 전치사",
+    "tip": "to가 전치사라서 뒤에는 명사나 -ing형이 들어가요. get accustomed to는 점차 익숙해지는 과정이에요.",
+    "examples": [
+      {
+        "en": "The baker is accustomed to getting up before dawn.",
+        "ko": "제빵사는 동트기 전에 일어나는 데 익숙하다.",
+        "focus": [
+          "accustomed to getting up"
+        ]
+      },
+      {
+        "en": "It took us a while to get accustomed to the new bells.",
+        "ko": "우리가 새 종소리에 익숙해지기까지 시간이 좀 걸렸다."
+      }
+    ],
+    "gap": {
+      "en": "The crew is accustomed to ___ outdoors. (work)",
+      "answer": "working",
+      "ko": "그 팀은 야외에서 일하는 데 익숙하다."
+    },
+    "refs": []
+  },
+  {
+    "id": "grateful-for",
+    "title": "be grateful for",
+    "meaning": "~에 고마워하다",
+    "category": "형용사·명사와 전치사",
+    "tip": "for 뒤에는 받은 도움이나 기회가 와요. 고마운 사람은 grateful to someone으로 나타내요.",
+    "examples": [
+      {
+        "en": "We're grateful for the extra rehearsal time.",
+        "ko": "우리는 연습 시간이 더 주어진 데 감사한다.",
+        "focus": [
+          "grateful for"
+        ]
+      },
+      {
+        "en": "I'm grateful to the neighbor who found my keys.",
+        "ko": "열쇠를 찾아 준 이웃에게 감사한다."
+      }
+    ],
+    "gap": {
+      "en": "She was grateful ___ a quiet place to study.",
+      "answer": "for",
+      "ko": "그녀는 조용히 공부할 곳이 있는 것이 고마웠다."
+    },
+    "refs": []
+  },
+  {
+    "id": "open-to",
+    "title": "be open to",
+    "meaning": "~을 받아들일 의향이 있다 · ~에게 열려 있다",
+    "category": "형용사·명사와 전치사",
+    "tip": "new ideas가 뒤에 오면 받아들일 의향, all residents가 오면 참가 가능 대상을 나타내요.",
+    "examples": [
+      {
+        "en": "The editor is open to new ideas.",
+        "ko": "편집자는 새 아이디어를 기꺼이 받아들이려 한다.",
+        "focus": [
+          "open to"
+        ]
+      },
+      {
+        "en": "The workshop is open to residents of all ages.",
+        "ko": "그 워크숍은 모든 연령의 주민이 참여할 수 있다."
+      }
+    ],
+    "gap": {
+      "en": "We're open ___ moving the session to Friday.",
+      "answer": "to",
+      "ko": "우리는 수업을 금요일로 옮기는 방안도 받아들일 의향이 있다."
+    },
+    "refs": []
+  },
+  {
+    "id": "eager-for",
+    "title": "be eager for",
+    "meaning": "~을 몹시 바라다",
+    "category": "형용사·명사와 전치사",
+    "tip": "for 뒤에는 원하는 소식이나 기회가 와요. 행동으로 말할 때는 eager to start처럼 to와 동사원형을 써요.",
+    "examples": [
+      {
+        "en": "The villagers were eager for news of the rescue.",
+        "ko": "마을 사람들은 구조 소식을 간절히 기다렸다.",
+        "focus": [
+          "eager for"
+        ]
+      },
+      {
+        "en": "After months of practice, I was eager to perform.",
+        "ko": "여러 달 연습하고 나니 무대에 서고 싶어 견딜 수 없었다."
+      }
+    ],
+    "gap": {
+      "en": "Our readers are eager ___ the next issue.",
+      "answer": "for",
+      "ko": "독자들은 다음 호를 몹시 기다린다."
+    },
+    "refs": []
+  },
+  {
+    "id": "committed-to",
+    "title": "be committed to",
+    "meaning": "~에 전념하다 · ~하겠다는 의지가 확고하다",
+    "category": "형용사·명사와 전치사",
+    "tip": "to 뒤에는 목표나 -ing형이 와요. 계획을 중요하게 여기고 계속 힘을 쏟겠다는 태도예요.",
+    "examples": [
+      {
+        "en": "The café is committed to reducing waste.",
+        "ko": "그 카페는 쓰레기를 줄이는 데 힘을 쏟고 있다.",
+        "focus": [
+          "committed to reducing"
+        ]
+      },
+      {
+        "en": "Everyone on the team is committed to a fair vote.",
+        "ko": "팀원 모두가 공정한 투표를 하겠다는 의지가 확고하다."
+      }
+    ],
+    "gap": {
+      "en": "The board is committed to ___ the archive open. (keep)",
+      "answer": "keeping",
+      "ko": "이사회는 기록 보관소가 계속 문을 열도록 힘쓰고 있다."
+    },
+    "refs": []
+  },
+  {
+    "id": "short-of",
+    "title": "be short of",
+    "meaning": "~이 부족하다",
+    "category": "형용사·명사와 전치사",
+    "tip": "뒤에 필요한 자원을 놓아요. short of time은 시간이 모자란 상태예요.",
+    "examples": [
+      {
+        "en": "We are short of folding tables for the fair.",
+        "ko": "우리는 장터에 쓸 접이식 탁자가 부족하다.",
+        "focus": [
+          "short of"
+        ]
+      },
+      {
+        "en": "The shelter was short of volunteers during the holiday.",
+        "ko": "연휴 동안 쉼터에 자원봉사자가 부족했다."
+      }
+    ],
+    "gap": {
+      "en": "We are short ___ space in the waiting room. (o로 시작)",
+      "answer": "of",
+      "ko": "대기실 공간이 부족하다."
+    },
+    "refs": []
+  },
+  {
+    "id": "full-of",
+    "title": "be full of",
+    "meaning": "~로 가득하다",
+    "category": "형용사·명사와 전치사",
+    "tip": "내용물이 공간을 채우는 장면과 글이나 사람이 어떤 성질로 가득한 장면에 모두 써요.",
+    "examples": [
+      {
+        "en": "The notebook is full of ideas for the festival.",
+        "ko": "공책에 축제 아이디어가 가득하다.",
+        "focus": [
+          "full of"
+        ]
+      },
+      {
+        "en": "The entrance hall was full of people waiting for shelter.",
+        "ko": "입구 홀에는 대피 장소를 기다리는 사람이 가득했다."
+      }
+    ],
+    "gap": {
+      "en": "The old drawer was full ___ bus tickets.",
+      "answer": "of",
+      "ko": "오래된 서랍에는 버스표가 가득했다."
+    },
+    "refs": []
+  },
+  {
+    "id": "beneficial-to",
+    "title": "be beneficial to",
+    "meaning": "~에 이롭다",
+    "category": "형용사·명사와 전치사",
+    "tip": "to 뒤에는 혜택을 받는 대상이 와요. beneficial for도 문맥에 따라 쓸 수 있어요.",
+    "examples": [
+      {
+        "en": "Rest breaks are beneficial to new drivers.",
+        "ko": "쉬는 시간은 초보 운전자에게 도움이 된다.",
+        "focus": [
+          "beneficial to"
+        ]
+      },
+      {
+        "en": "The new footpath has been beneficial to nearby shops.",
+        "ko": "새 보행로는 인근 상점에 도움이 되었다."
+      }
+    ],
+    "gap": {
+      "en": "Fresh air is beneficial ___ the seedlings. (t로 시작)",
+      "answer": "to",
+      "ko": "신선한 공기는 어린 묘목에 이롭다."
+    },
+    "refs": []
+  },
+  {
+    "id": "demand-for",
+    "title": "demand for",
+    "meaning": "~에 대한 수요",
+    "category": "형용사·명사와 전치사",
+    "tip": "명사 demand 뒤에서 수요의 대상을 잇는 말이 for예요. 동사로 명령하거나 요구할 때는 demand an explanation처럼 목적어가 바로 와요.",
+    "examples": [
+      {
+        "en": "Demand for night classes rose in June.",
+        "ko": "6월에는 야간 수업 수요가 늘었다.",
+        "focus": [
+          "Demand for"
+        ]
+      },
+      {
+        "en": "We added a shelf to meet demand for larger shoes.",
+        "ko": "큰 치수 신발의 수요를 맞추기 위해 진열대를 하나 더 놓았다."
+      }
+    ],
+    "gap": {
+      "en": "There is growing demand ___ weekend appointments.",
+      "answer": "for",
+      "ko": "주말 예약에 대한 수요가 늘고 있다."
+    },
+    "refs": []
+  },
+  {
+    "id": "solution-to",
+    "title": "a solution to",
+    "meaning": "~에 대한 해결책",
+    "category": "형용사·명사와 전치사",
+    "tip": "to 뒤에 해결할 문제를 붙여요. 같은 생각을 동사로 표현하면 solve the problem이에요.",
+    "examples": [
+      {
+        "en": "We found a simple solution to the booking problem.",
+        "ko": "우리는 예약 문제에 대한 간단한 해결책을 찾았다.",
+        "focus": [
+          "solution to"
+        ]
+      },
+      {
+        "en": "A second entrance could be a solution to the long queues.",
+        "ko": "출입구를 하나 더 만들면 줄 서는 문제를 해결할 수 있다."
+      }
+    ],
+    "gap": {
+      "en": "They need a lasting solution ___ the shortage.",
+      "answer": "to",
+      "ko": "그들에게는 부족 문제를 지속적으로 해결할 방안이 필요하다."
+    },
+    "refs": []
+  },
+  {
+    "id": "reason-for",
+    "title": "a reason for",
+    "meaning": "~의 이유",
+    "category": "형용사·명사와 전치사",
+    "tip": "for 뒤에는 이유를 설명할 일이 와요. 이유의 실제 내용은 The reason was heavy rain처럼 다음에 제시할 수 있어요.",
+    "examples": [
+      {
+        "en": "Did they give a reason for the closure?",
+        "ko": "문을 닫은 이유를 알려 줬나요?",
+        "focus": [
+          "reason for"
+        ]
+      },
+      {
+        "en": "The note explains the reason for changing the route.",
+        "ko": "그 안내문에는 경로를 바꾸는 이유가 설명되어 있다."
+      }
+    ],
+    "gap": {
+      "en": "What was the main reason ___ the price increase?",
+      "answer": "for",
+      "ko": "가격을 올린 주된 이유는 무엇이었나요?"
+    },
+    "refs": []
+  },
+  {
+    "id": "attitude-toward",
+    "title": "an attitude toward",
+    "meaning": "~에 대한 태도",
+    "category": "형용사·명사와 전치사",
+    "tip": "toward 뒤의 대상에 대해 어떻게 생각하고 행동하는지 나타내요. towards라는 형태도 써요.",
+    "examples": [
+      {
+        "en": "His attitude toward early shifts changed.",
+        "ko": "이른 시간 근무에 대한 그의 태도가 달라졌다.",
+        "focus": [
+          "attitude toward"
+        ]
+      },
+      {
+        "en": "The survey measured public attitudes toward repair cafés.",
+        "ko": "설문은 수리 카페에 대한 대중의 태도를 조사했다."
+      }
+    ],
+    "gap": {
+      "en": "Her attitude ___ the new rule softened. (toward / through)",
+      "answer": "toward",
+      "ko": "새 규정에 대한 그녀의 태도가 누그러졌다."
+    },
+    "refs": []
+  },
+  {
+    "id": "increase-in",
+    "title": "an increase in",
+    "meaning": "~의 증가",
+    "category": "형용사·명사와 전치사",
+    "tip": "in 뒤에는 증가한 항목이 와요. an increase of ten percent의 of 뒤에는 얼마나 늘었는지가 와요.",
+    "examples": [
+      {
+        "en": "We saw an increase in repeat visits.",
+        "ko": "다시 찾아오는 방문이 늘어난 것을 확인했다.",
+        "focus": [
+          "increase in"
+        ]
+      },
+      {
+        "en": "The new count shows an increase of twelve families.",
+        "ko": "새 집계에서는 열두 가구가 늘었다."
+      }
+    ],
+    "gap": {
+      "en": "There has been an increase ___ demand for maps.",
+      "answer": "in",
+      "ko": "지도 수요가 증가했다."
+    },
+    "refs": []
+  },
+  {
+    "id": "difference-between",
+    "title": "the difference between A and B",
+    "meaning": "A와 B의 차이",
+    "category": "형용사·명사와 전치사",
+    "tip": "between 다음에 비교할 둘을 and로 이어요. a difference of five minutes는 차이가 얼마나 나는지 말해요.",
+    "examples": [
+      {
+        "en": "Do you know the difference between a receipt and an invoice?",
+        "ko": "영수증과 청구서의 차이를 아시나요?",
+        "focus": [
+          "difference between",
+          "and"
+        ]
+      },
+      {
+        "en": "There's a five-minute difference between the two clocks.",
+        "ko": "두 시계의 시간은 오 분 차이가 난다."
+      }
+    ],
+    "gap": {
+      "en": "Please explain the difference ___ the two fares.",
+      "answer": "between",
+      "ko": "두 요금이 어떻게 다른지 설명해 주세요."
+    },
+    "refs": []
+  },
+  {
+    "id": "effect-on",
+    "title": "an effect on",
+    "meaning": "~에 미치는 영향",
+    "category": "형용사·명사와 전치사",
+    "tip": "effect는 결과나 영향을 가리키는 명사예요. on 뒤에는 영향을 받는 대상이 와요. 동사 affect는 목적어를 바로 받아요.",
+    "examples": [
+      {
+        "en": "The hedge had a calming effect on the busy street.",
+        "ko": "생울타리를 심자 붐비던 거리의 분위기가 한결 차분해졌다.",
+        "focus": [
+          "effect on"
+        ]
+      },
+      {
+        "en": "We measured the effect of shade on the outdoor seats.",
+        "ko": "우리는 그늘이 야외 좌석에 미치는 영향을 측정했다."
+      }
+    ],
+    "gap": {
+      "en": "Will the repair have any effect ___ tomorrow's service?",
+      "answer": "on",
+      "ko": "수리가 내일 운행에 영향을 줄까요?"
+    },
+    "refs": []
+  },
+  {
+    "id": "permission-for",
+    "title": "permission for",
+    "meaning": "~에 대한 허가",
+    "category": "형용사·명사와 전치사",
+    "tip": "for 뒤에는 행사처럼 허가 대상인 명사를, permission to 뒤에는 enter처럼 허가된 행동을 써요.",
+    "examples": [
+      {
+        "en": "The group obtained permission for an outdoor concert.",
+        "ko": "그 단체는 야외 공연 허가를 받았다.",
+        "focus": [
+          "permission for"
+        ]
+      },
+      {
+        "en": "Do we have permission to display the photographs?",
+        "ko": "우리가 그 사진을 전시해도 된다는 허가를 받았나요?"
+      }
+    ],
+    "gap": {
+      "en": "The club requested permission ___ a street parade. (f로 시작)",
+      "answer": "for",
+      "ko": "동아리는 거리 행진을 할 수 있게 허가를 요청했다."
+    },
+    "refs": []
+  },
+  {
+    "id": "exception-to",
+    "title": "an exception to",
+    "meaning": "~의 예외",
+    "category": "형용사·명사와 전치사",
+    "tip": "to 뒤에는 보통 적용되는 규칙을 놓아요. 예외가 생기면 그 규칙을 해당 사례에 다르게 적용해요.",
+    "examples": [
+      {
+        "en": "There is one exception to the no-bags rule.",
+        "ko": "가방 반입 금지 규정에는 한 가지 예외가 있다.",
+        "focus": [
+          "exception to"
+        ]
+      },
+      {
+        "en": "We cannot make an exception to the limit for a single entry.",
+        "ko": "한 건만을 위해 한도 규정에 예외를 둘 수는 없다."
+      }
+    ],
+    "gap": {
+      "en": "Saturday is an exception ___ our usual opening hours.",
+      "answer": "to",
+      "ko": "토요일에는 평소 운영 시간이 적용되지 않는다."
+    },
+    "refs": []
+  },
+  {
+    "id": "risk-of",
+    "title": "a risk of",
+    "meaning": "~할 위험",
+    "category": "형용사·명사와 전치사",
+    "tip": "of 뒤에는 원치 않는 결과나 행동이 와요. at risk of flooding은 침수될 위험에 놓인 상태예요.",
+    "examples": [
+      {
+        "en": "The forecast mentions a risk of icy roads.",
+        "ko": "예보는 도로가 얼 위험이 있다고 전한다.",
+        "focus": [
+          "risk of"
+        ]
+      },
+      {
+        "en": "These old files are at risk of being lost.",
+        "ko": "이 오래된 파일들은 사라질 위험이 있다."
+      }
+    ],
+    "gap": {
+      "en": "The warning describes the risk ___ slipping on wet tiles.",
+      "answer": "of",
+      "ko": "경고문은 젖은 타일에서 미끄러질 위험을 설명한다."
+    },
+    "refs": []
+  },
+  {
+    "id": "leave-out",
+    "title": "leave out",
+    "meaning": "빠뜨리다 · 제외하다",
+    "category": "구동사·숙어",
+    "tip": "목록과 완성된 결과를 비교해요. 대명사를 쓰면 leave it out처럼 가운데에 넣어요.",
+    "examples": [
+      {
+        "en": "The first draft leaves out the return address.",
+        "ko": "첫 초안에는 회신 주소가 빠져 있다.",
+        "focus": [
+          "leaves out"
+        ]
+      },
+      {
+        "en": "You can leave the nuts out of this recipe.",
+        "ko": "이 조리법에서는 견과류를 빼도 된다."
+      }
+    ],
+    "gap": {
+      "en": "Her name was left ___ of the printed list.",
+      "answer": "out",
+      "ko": "인쇄된 명단에서 그녀의 이름이 빠졌다."
+    },
+    "refs": []
+  },
+  {
+    "id": "rule-out",
+    "title": "rule out",
+    "meaning": "가능성을 배제하다",
+    "category": "구동사·숙어",
+    "tip": "가능한 설명 가운데 조사 후 제외하는 것이에요. can't rule out이라면 아직 가능성이 남아 있어요.",
+    "examples": [
+      {
+        "en": "The mechanic ruled out a flat battery.",
+        "ko": "정비사는 배터리 방전 가능성을 배제했다.",
+        "focus": [
+          "ruled out"
+        ]
+      },
+      {
+        "en": "We cannot rule it out until the second test is complete.",
+        "ko": "두 번째 검사가 끝날 때까지 그 가능성을 배제할 수 없다."
+      }
+    ],
+    "gap": {
+      "en": "The clear recording ruled ___ a fault in the microphone.",
+      "answer": "out",
+      "ko": "녹음이 선명해서 마이크 결함 가능성을 배제할 수 있었다."
+    },
+    "refs": []
+  },
+  {
+    "id": "point-out",
+    "title": "point out",
+    "meaning": "짚어 주다 · 알려 주다",
+    "category": "구동사·숙어",
+    "tip": "정보를 상대가 알아차리도록 짚어 주는 거예요. point at a sign은 표지판을 손으로 가리키는 장면이에요.",
+    "examples": [
+      {
+        "en": "The usher pointed out the quieter entrance.",
+        "ko": "안내원이 덜 붐비는 입구를 알려 줬다.",
+        "focus": [
+          "pointed out"
+        ]
+      },
+      {
+        "en": "I should point out that the fee covers only one person.",
+        "ko": "요금이 한 명에게만 적용된다는 점을 말씀드려야겠어요."
+      }
+    ],
+    "gap": {
+      "en": "Thank you for pointing ___ the missing date.",
+      "answer": "out",
+      "ko": "날짜가 빠진 것을 알려 주셔서 감사합니다."
+    },
+    "refs": []
+  },
+  {
+    "id": "sort-out",
+    "title": "sort out",
+    "meaning": "문제를 해결하다 · 뒤섞인 것을 정리하다",
+    "category": "구동사·숙어",
+    "tip": "섞이거나 엉킨 상태에서 질서가 생기는 장면을 떠올려요. 예약 착오도 sort out할 수 있어요.",
+    "examples": [
+      {
+        "en": "We sorted out the booking mix-up before noon.",
+        "ko": "우리는 정오 전에 예약 착오를 해결했다.",
+        "focus": [
+          "sorted out"
+        ]
+      },
+      {
+        "en": "Can you help me sort out these receipts by month?",
+        "ko": "이 영수증들을 월별로 정리하는 것을 도와줄래요?"
+      }
+    ],
+    "gap": {
+      "en": "The help desk sorted the problem ___ in minutes.",
+      "answer": "out",
+      "ko": "안내 창구에서 몇 분 만에 그 문제를 해결했다."
+    },
+    "refs": []
+  },
+  {
+    "id": "find-out",
+    "title": "find out",
+    "meaning": "알아내다 · 알게 되다",
+    "category": "구동사·숙어",
+    "tip": "처음에 모르던 사실을 알게 되는 장면이에요. find a key는 잃어버린 물건을 찾는 장면이에요.",
+    "examples": [
+      {
+        "en": "I called to find out when the gate closes.",
+        "ko": "나는 문을 언제 닫는지 알아보려고 전화했다.",
+        "focus": [
+          "find out"
+        ]
+      },
+      {
+        "en": "We found out about the free class through a neighbor.",
+        "ko": "우리는 이웃을 통해 무료 수업을 알게 되었다."
+      }
+    ],
+    "gap": {
+      "en": "Please find ___ how much a replacement costs.",
+      "answer": "out",
+      "ko": "대체품 가격이 얼마인지 알아봐 주세요."
+    },
+    "refs": []
+  },
+  {
+    "id": "figure-out",
+    "title": "figure out",
+    "meaning": "생각해서 이해하거나 해결하다",
+    "category": "구동사·숙어",
+    "tip": "단서를 맞춰 이유나 방법을 알아내는 장면이에요. figure it out에서는 목적어 it이 가운데에 와요.",
+    "examples": [
+      {
+        "en": "Mina figured out why the lamp kept blinking.",
+        "ko": "미나는 전등이 계속 깜박이는 이유를 알아냈다.",
+        "focus": [
+          "figured out"
+        ]
+      },
+      {
+        "en": "The controls looked strange, but Leo soon figured them out.",
+        "ko": "조작 장치가 낯설어 보였지만 레오는 곧 사용법을 이해했다."
+      }
+    ],
+    "gap": {
+      "en": "Can you figure ___ which cable goes here?",
+      "answer": "out",
+      "ko": "어느 케이블을 여기에 꽂아야 하는지 알아낼 수 있나요?"
+    },
+    "refs": []
+  },
+  {
+    "id": "turn-down",
+    "title": "turn down",
+    "meaning": "제안을 거절하다 · 소리나 세기를 낮추다",
+    "category": "구동사·숙어",
+    "tip": "뒤에 offer가 오면 거절하고, volume이 오면 소리를 줄여요. 대상을 보고 뜻을 고르세요.",
+    "examples": [
+      {
+        "en": "The group turned down the offer of a larger stage.",
+        "ko": "그 단체는 더 큰 무대를 쓰라는 제안을 거절했다.",
+        "focus": [
+          "turned down"
+        ]
+      },
+      {
+        "en": "Please turn the heater down before you leave.",
+        "ko": "나가기 전에 난방 세기를 낮춰 주세요."
+      }
+    ],
+    "gap": {
+      "en": "Jin turned ___ the invitation because he was on duty.",
+      "answer": "down",
+      "ko": "진은 근무 중이라 초대를 거절했다."
+    },
+    "refs": []
+  },
+  {
+    "id": "turn-up",
+    "title": "turn up",
+    "meaning": "나타나다 · 소리나 세기를 높이다",
+    "category": "구동사·숙어",
+    "tip": "사람이 turn up하면 그 자리에 나타나요. turn the sound up에서는 소리가 커져요.",
+    "examples": [
+      {
+        "en": "Only six people turned up for the early tour.",
+        "ko": "이른 시간 투어에 여섯 명만 나타났다.",
+        "focus": [
+          "turned up"
+        ]
+      },
+      {
+        "en": "Could you turn the sound up during the interview?",
+        "ko": "인터뷰가 나오는 동안 소리를 좀 키워 주시겠어요?"
+      }
+    ],
+    "gap": {
+      "en": "My missing ruler turned ___ in the supply box.",
+      "answer": "up",
+      "ko": "잃어버렸던 자가 비품 상자에서 나왔다."
+    },
+    "refs": []
+  },
+  {
+    "id": "put-off",
+    "title": "put off",
+    "meaning": "일이나 행사를 뒤로 미루다",
+    "category": "구동사·숙어",
+    "tip": "예정된 일을 나중에 하기로 하는 거예요. put off doing처럼 미루는 행동을 -ing형으로도 이어요.",
+    "examples": [
+      {
+        "en": "We put off the picnic until the wind died down.",
+        "ko": "우리는 바람이 잦아들 때까지 소풍을 미뤘다.",
+        "focus": [
+          "put off"
+        ]
+      },
+      {
+        "en": "I kept putting off replacing the worn strap.",
+        "ko": "나는 낡은 끈 교체를 계속 미뤘다."
+      }
+    ],
+    "gap": {
+      "en": "The board put the vote ___ until next Tuesday.",
+      "answer": "off",
+      "ko": "이사회는 표결을 다음 화요일까지 미뤘다."
+    },
+    "refs": []
+  },
+  {
+    "id": "call-off",
+    "title": "call off",
+    "meaning": "예정된 일을 취소하다",
+    "category": "구동사·숙어",
+    "tip": "행사를 진행하지 않기로 한다는 뜻이에요. 다른 날에 하기로 미루는 것은 put off라고 해요.",
+    "examples": [
+      {
+        "en": "The club called off the match after the pitch flooded.",
+        "ko": "경기장이 물에 잠기자 동호회는 경기를 취소했다.",
+        "focus": [
+          "called off"
+        ]
+      },
+      {
+        "en": "We had planned a search, but the owner called it off.",
+        "ko": "수색할 계획이었지만 주인이 취소했다."
+      }
+    ],
+    "gap": {
+      "en": "The outdoor show was called ___ because of lightning.",
+      "answer": "off",
+      "ko": "번개 때문에 야외 공연이 취소되었다."
+    },
+    "refs": []
+  },
+  {
+    "id": "put-up-with",
+    "title": "put up with",
+    "meaning": "불편한 일을 견디다",
+    "category": "구동사·숙어",
+    "tip": "짜증 나거나 힘든 대상이 with 뒤에 와요. put up a tent처럼 텐트를 세우는 말과 뜻이 달라요.",
+    "examples": [
+      {
+        "en": "We put up with the drilling while the roof was repaired.",
+        "ko": "지붕 수리 중에 우리는 드릴 소음을 견뎠다.",
+        "focus": [
+          "put up with"
+        ]
+      },
+      {
+        "en": "I can't put up with being kept on hold for an hour.",
+        "ko": "한 시간이나 통화 대기를 해야 하는 건 참기 어렵다."
+      }
+    ],
+    "gap": {
+      "en": "Thanks for putting up ___ the mess during our move.",
+      "answer": "with",
+      "ko": "이사하는 동안 어수선한 상태를 참아 줘서 고마워요."
+    },
+    "refs": []
+  },
+  {
+    "id": "come-up-with",
+    "title": "come up with",
+    "meaning": "아이디어나 해결책을 생각해 내다",
+    "category": "구동사·숙어",
+    "tip": "누가 어떤 제안이나 답을 내놓는지 읽어요. with 다음이 생각해 낸 내용이에요.",
+    "examples": [
+      {
+        "en": "A student came up with the title for the exhibition.",
+        "ko": "한 학생이 전시 제목을 생각해 냈다.",
+        "focus": [
+          "came up with"
+        ]
+      },
+      {
+        "en": "We have until Friday to come up with a cheaper route.",
+        "ko": "금요일까지 더 저렴한 경로를 고안해야 한다."
+      }
+    ],
+    "gap": {
+      "en": "Can we come up ___ a name that fits on the sign?",
+      "answer": "with",
+      "ko": "표지판 안에 들어갈 만한 이름을 지어 볼 수 있을까요?"
+    },
+    "refs": []
+  },
+  {
+    "id": "run-out-of",
+    "title": "run out of",
+    "meaning": "~을 다 써서 떨어지다",
+    "category": "구동사·숙어",
+    "tip": "주어는 물건을 쓰는 쪽이고 of 뒤는 다 떨어진 자원이에요. The ink ran out이면 잉크 자체가 바닥났다는 뜻이에요.",
+    "examples": [
+      {
+        "en": "The kiosk ran out of change before lunch.",
+        "ko": "매점은 점심 전에 거스름돈이 바닥났다.",
+        "focus": [
+          "ran out of"
+        ]
+      },
+      {
+        "en": "My phone ran out of power on the train.",
+        "ko": "기차에서 내 휴대전화 배터리가 다 닳았다."
+      }
+    ],
+    "gap": {
+      "en": "The printer has run out ___ paper.",
+      "answer": "of",
+      "ko": "프린터에 용지가 떨어졌다."
+    },
+    "refs": []
+  },
+  {
+    "id": "run-into",
+    "title": "run into",
+    "meaning": "우연히 만나다 · 뜻밖의 문제에 부딪히다",
+    "category": "구동사·숙어",
+    "tip": "뒤에 사람이면 우연한 만남, trouble이나 a delay면 예상 밖에 생긴 어려움이에요.",
+    "examples": [
+      {
+        "en": "I ran into my music teacher at the market.",
+        "ko": "나는 시장에서 음악 선생님을 우연히 만났다.",
+        "focus": [
+          "ran into"
+        ]
+      },
+      {
+        "en": "We ran into trouble when the spare key broke.",
+        "ko": "여분 열쇠가 부러져서 우리는 곤란을 겪었다."
+      }
+    ],
+    "gap": {
+      "en": "The project ran ___ an unexpected delay. (i로 시작)",
+      "answer": "into",
+      "ko": "사업이 예상치 못하게 지연되었다."
+    },
+    "refs": []
+  },
+  {
+    "id": "look-up",
+    "title": "look up",
+    "meaning": "사전이나 자료에서 찾아보다",
+    "category": "구동사·숙어",
+    "tip": "무슨 뜻인지 알고 싶을 때 look a word up이라고 해요. look up at the ceiling은 고개를 들어 천장을 보는 동작이에요.",
+    "examples": [
+      {
+        "en": "Let's look up the bus number on the city website.",
+        "ko": "시청 웹사이트에서 버스 번호를 찾아보자.",
+        "focus": [
+          "look up"
+        ]
+      },
+      {
+        "en": "I couldn't spell the word, so I looked it up.",
+        "ko": "나는 그 단어의 철자를 몰라서 찾아봤다."
+      }
+    ],
+    "gap": {
+      "en": "Could you look the opening hours ___ for me?",
+      "answer": "up",
+      "ko": "운영 시간을 좀 찾아봐 줄 수 있나요?"
+    },
+    "refs": []
+  },
+  {
+    "id": "look-over",
+    "title": "look over",
+    "meaning": "살펴보다 · 훑어 점검하다",
+    "category": "구동사·숙어",
+    "tip": "보내기 전 문서나 구입 전 물건을 한번 살피는 장면이에요. overlook a mistake는 실수를 못 보고 지나치는 뜻이에요.",
+    "examples": [
+      {
+        "en": "Would you look over my reply before I send it?",
+        "ko": "답장을 보내기 전에 한번 살펴봐 주실래요?",
+        "focus": [
+          "look over"
+        ]
+      },
+      {
+        "en": "The renter looked the bicycle over before signing.",
+        "ko": "대여자는 서명하기 전에 자전거를 살펴봤다."
+      }
+    ],
+    "gap": {
+      "en": "Please look the guest list ___ for duplicate names.",
+      "answer": "over",
+      "ko": "명단에 중복된 이름이 있는지 훑어봐 주세요."
+    },
+    "refs": []
+  },
+  {
+    "id": "go-over",
+    "title": "go over",
+    "meaning": "내용을 되짚거나 함께 검토하다",
+    "category": "구동사·숙어",
+    "tip": "문장·규칙·계획을 하나씩 다시 짚는 장면이에요. go over a wall은 실제 담을 넘어가는 동작이 될 수 있어요.",
+    "examples": [
+      {
+        "en": "Let's go over the exit procedure once more.",
+        "ko": "대피 절차를 한 번 더 짚어 봅시다.",
+        "focus": [
+          "go over"
+        ]
+      },
+      {
+        "en": "We went over the numbers together before calling the client.",
+        "ko": "우리는 고객에게 전화하기 전에 수치를 함께 검토했다."
+      }
+    ],
+    "gap": {
+      "en": "Could we go ___ the last paragraph again? (o로 시작)",
+      "answer": "over",
+      "ko": "마지막 문단을 다시 한번 짚어 볼 수 있을까요?"
+    },
+    "refs": []
+  },
+  {
+    "id": "fill-out",
+    "title": "fill out",
+    "meaning": "서식의 빈칸을 작성하다",
+    "category": "구동사·숙어",
+    "tip": "form이 뒤에 오면 이름이나 연락처 등을 적어 완성하는 장면이에요. 같은 뜻으로 fill in a form도 써요.",
+    "examples": [
+      {
+        "en": "Please fill out one form for each child.",
+        "ko": "아이 한 명당 양식 한 장씩 작성해 주세요.",
+        "focus": [
+          "fill out"
+        ]
+      },
+      {
+        "en": "I filled the questionnaire out on the train.",
+        "ko": "나는 기차에서 설문지를 작성했다."
+      }
+    ],
+    "gap": {
+      "en": "Visitors must fill ___ this card before entering. (o로 시작)",
+      "answer": "out",
+      "ko": "방문객은 입장 전에 이 카드를 작성해야 한다."
+    },
+    "refs": []
+  },
+  {
+    "id": "hand-in",
+    "title": "hand in",
+    "meaning": "과제나 서류 등을 제출하다",
+    "category": "구동사·숙어",
+    "tip": "받는 쪽에 내는 동작이에요. hand out은 여러 사람에게 나누어 주는 반대 방향의 장면이에요.",
+    "examples": [
+      {
+        "en": "You may hand in the signed sheet at reception.",
+        "ko": "서명한 서류를 접수대에 제출하시면 됩니다.",
+        "focus": [
+          "hand in"
+        ]
+      },
+      {
+        "en": "I found a wallet and handed it in at the station.",
+        "ko": "나는 지갑을 주워 역에 맡겼다."
+      }
+    ],
+    "gap": {
+      "en": "The students handed ___ their projects on Friday. (i로 시작)",
+      "answer": "in",
+      "ko": "학생들은 금요일에 과제를 제출했다."
+    },
+    "refs": []
+  },
+  {
+    "id": "hand-out",
+    "title": "hand out",
+    "meaning": "여럿에게 나누어 주다",
+    "category": "구동사·숙어",
+    "tip": "줄을 선 사람들에게 안내문을 한 장씩 주는 장면을 떠올려요. 명사 handout은 나눠 주는 유인물이에요.",
+    "examples": [
+      {
+        "en": "The volunteers handed out route maps.",
+        "ko": "자원봉사자들이 경로 지도를 나누어 주었다.",
+        "focus": [
+          "handed out"
+        ]
+      },
+      {
+        "en": "We had twelve name badges, so I handed them out at the door.",
+        "ko": "명찰이 열두 개라서 내가 입구에서 하나씩 나눠 줬다."
+      }
+    ],
+    "gap": {
+      "en": "The guide handed ___ headphones to the group.",
+      "answer": "out",
+      "ko": "안내원이 일행에게 헤드폰을 나누어 주었다."
+    },
+    "refs": []
+  },
+  {
+    "id": "pass-on",
+    "title": "pass on",
+    "meaning": "다른 사람에게 전달하다",
+    "category": "구동사·숙어",
+    "tip": "소식이나 물건이 다음 사람에게 넘어가는 장면이에요. pass on an offer는 문맥에 따라 제안을 사양한다는 뜻도 있어요.",
+    "examples": [
+      {
+        "en": "I'll pass on your message to the chair.",
+        "ko": "의장에게 말씀을 전해 드릴게요.",
+        "focus": [
+          "pass on"
+        ]
+      },
+      {
+        "en": "When you finish the magazine, pass it on to Dae.",
+        "ko": "잡지를 다 읽으면 대에게 넘겨 줘."
+      }
+    ],
+    "gap": {
+      "en": "Can you pass the new address ___ to our driver?",
+      "answer": "on",
+      "ko": "새 주소를 기사님에게 전해 주시겠어요?"
+    },
+    "refs": []
+  },
+  {
+    "id": "set-up",
+    "title": "set up",
+    "meaning": "설치하다 · 마련하다 · 조직하다",
+    "category": "구동사·숙어",
+    "tip": "장비는 작동하도록 설치하고, 일정은 잡고, 단체는 설립해요. 뒤에 오는 대상을 먼저 확인하세요.",
+    "examples": [
+      {
+        "en": "We set up the projector before the guests arrived.",
+        "ko": "손님들이 오기 전에 프로젝터를 설치했다.",
+        "focus": [
+          "set up"
+        ]
+      },
+      {
+        "en": "Two parents set up a group to share school supplies.",
+        "ko": "학부모 두 명이 학용품을 나누어 쓰는 모임을 만들었다."
+      }
+    ],
+    "gap": {
+      "en": "The clerk set ___ a meeting with the building owner.",
+      "answer": "up",
+      "ko": "직원이 건물주와의 면담을 잡았다."
+    },
+    "refs": []
+  },
+  {
+    "id": "take-over",
+    "title": "take over",
+    "meaning": "일이나 권한을 넘겨받다",
+    "category": "구동사·숙어",
+    "tip": "원래 해 오던 사람이 있고, 다른 사람이 이어서 맡는 장면이에요. take on은 새로운 일을 맡는 데도 써요.",
+    "examples": [
+      {
+        "en": "A night crew took over the repair work at nine.",
+        "ko": "아홉 시에 야간 작업반이 수리 작업을 이어받았다.",
+        "focus": [
+          "took over"
+        ]
+      },
+      {
+        "en": "Who will take over for the host during her break?",
+        "ko": "진행자가 쉬는 동안 누가 대신 진행할까요?"
+      }
+    ],
+    "gap": {
+      "en": "Jae took ___ as captain when Sujin moved abroad.",
+      "answer": "over",
+      "ko": "수진이 해외로 이사하자 재가 주장을 이어 맡았다."
+    },
+    "refs": []
+  },
+  {
+    "id": "get-back-to",
+    "title": "get back to someone",
+    "meaning": "상대에게 나중에 다시 연락하다",
+    "category": "구동사·숙어",
+    "tip": "바로 답할 수 없을 때 확인한 뒤 답하겠다는 뜻으로 써요. to 뒤에 연락받을 사람을 붙여요.",
+    "examples": [
+      {
+        "en": "I'll get back to you after I check the dates.",
+        "ko": "날짜를 확인한 뒤 다시 연락드릴게요.",
+        "focus": [
+          "get back to"
+        ]
+      },
+      {
+        "en": "The supplier got back to us with a lower estimate.",
+        "ko": "공급업체가 더 낮은 견적을 제시하며 다시 연락해 왔다."
+      }
+    ],
+    "gap": {
+      "en": "When can you get back ___ me about the room?",
+      "answer": "to",
+      "ko": "그 방에 대해 언제 다시 연락 주실 수 있나요?"
+    },
+    "refs": []
+  },
+  {
+    "id": "catch-up-on",
+    "title": "catch up on",
+    "meaning": "밀린 일이나 놓친 내용을 따라잡다",
+    "category": "구동사·숙어",
+    "tip": "on 뒤에 이메일이나 읽을거리처럼 밀린 것이 와요. catch up with a runner는 앞서 가는 주자를 따라잡는 말이에요.",
+    "examples": [
+      {
+        "en": "I used the quiet hour to catch up on my emails.",
+        "ko": "나는 조용한 한 시간 동안 밀린 이메일을 처리했다.",
+        "focus": [
+          "catch up on"
+        ]
+      },
+      {
+        "en": "She caught up on the news during the ferry ride.",
+        "ko": "그녀는 배를 타고 가는 동안 놓친 뉴스를 챙겨 봤다."
+      }
+    ],
+    "gap": {
+      "en": "We need to catch up ___ the reading before Monday.",
+      "answer": "on",
+      "ko": "월요일 전에 밀린 읽기 과제를 따라잡아야 한다."
+    },
+    "refs": []
+  },
+  {
+    "id": "check-in",
+    "title": "check in",
+    "meaning": "도착을 알리고 등록 수속을 하다",
+    "category": "구동사·숙어",
+    "tip": "호텔이나 행사장에서 왔음을 알리는 장면이에요. 장소는 check in at the desk처럼 at 뒤에 붙여요.",
+    "examples": [
+      {
+        "en": "Guests can check in after three.",
+        "ko": "손님은 세 시 이후에 입실 수속을 할 수 있다.",
+        "focus": [
+          "check in"
+        ]
+      },
+      {
+        "en": "We checked in at the entrance and received our badges.",
+        "ko": "우리는 입구에서 등록하고 명찰을 받았다."
+      }
+    ],
+    "gap": {
+      "en": "Please check ___ at the front table before the session.",
+      "answer": "in",
+      "ko": "수업 전에 앞쪽 탁자에서 도착 확인을 해 주세요."
+    },
+    "refs": []
+  },
+  {
+    "id": "drop-off",
+    "title": "drop off",
+    "meaning": "사람을 내려 주다 · 물건을 갖다 놓다",
+    "category": "구동사·숙어",
+    "tip": "사람이나 물건을 목적지에 남겨 두고 가는 장면이에요. 대명사는 drop it off처럼 가운데 놓아요.",
+    "examples": [
+      {
+        "en": "I can drop off the spare cable on my way home.",
+        "ko": "집에 가는 길에 여분 케이블을 갖다 놓을 수 있어요.",
+        "focus": [
+          "drop off"
+        ]
+      },
+      {
+        "en": "The bus dropped us off beside the fountain.",
+        "ko": "버스가 분수 옆에 우리를 내려 줬다."
+      }
+    ],
+    "gap": {
+      "en": "Please drop the keys ___ at the hotel desk.",
+      "answer": "off",
+      "ko": "열쇠는 호텔 데스크에 맡겨 주세요."
+    },
+    "refs": []
+  },
+  {
+    "id": "pick-up",
+    "title": "pick up",
+    "meaning": "사람을 데리러 가다 · 물건을 찾으러 가다",
+    "category": "구동사·숙어",
+    "tip": "사람이나 물건을 데리고 또는 가지고 오는 장면이에요. 맞은편 방향인 drop off와 한 쌍으로 떠올려요.",
+    "examples": [
+      {
+        "en": "Can you pick up the parcel on your way back?",
+        "ko": "돌아오는 길에 소포를 찾아와 줄래요?",
+        "focus": [
+          "pick up"
+        ]
+      },
+      {
+        "en": "Her uncle picked her up outside the theater.",
+        "ko": "삼촌이 극장 밖으로 그녀를 데리러 왔다."
+      }
+    ],
+    "gap": {
+      "en": "You can pick your pass ___ after lunch.",
+      "answer": "up",
+      "ko": "점심 식사 후에 이용권을 찾아가실 수 있다."
+    },
+    "refs": []
+  },
+  {
+    "id": "take-part-in",
+    "title": "take part in",
+    "meaning": "~에 참가하다",
+    "category": "구동사·숙어",
+    "tip": "in 뒤에 행사나 활동을 붙여요. take a part in a play라면 연극에서 특정 배역을 맡는 뜻도 가능해요.",
+    "examples": [
+      {
+        "en": "Children can take part in the lantern walk.",
+        "ko": "아이들은 등불 행진에 참가할 수 있다.",
+        "focus": [
+          "take part in"
+        ]
+      },
+      {
+        "en": "Forty shops took part in last year's market.",
+        "ko": "지난해 장터에는 상점 마흔 곳이 참여했다."
+      }
+    ],
+    "gap": {
+      "en": "No ticket is needed to take part ___ the cleanup.",
+      "answer": "in",
+      "ko": "청소 활동에는 표 없이 참가할 수 있다."
+    },
+    "refs": []
+  },
+  {
+    "id": "make-up-for",
+    "title": "make up for",
+    "meaning": "부족함·손실을 메우다 · 잘못을 만회하다",
+    "category": "구동사·숙어",
+    "tip": "for 뒤에는 잃었거나 아쉬운 것이 와요. 시간을 보충하거나 누군가에게 실수를 만회할 때도 써요.",
+    "examples": [
+      {
+        "en": "The extra class will make up for Tuesday's cancellation.",
+        "ko": "보강 수업으로 화요일 휴강분을 보충할 것이다.",
+        "focus": [
+          "make up for"
+        ]
+      },
+      {
+        "en": "I brought lunch to make up for missing your birthday.",
+        "ko": "네 생일을 놓친 걸 만회하려고 점심을 가져왔다."
+      }
+    ],
+    "gap": {
+      "en": "A warm welcome made up ___ the long wait.",
+      "answer": "for",
+      "ko": "따뜻한 환대 덕분에 오래 기다린 아쉬움이 가셨다."
+    },
+    "refs": []
+  }
+]

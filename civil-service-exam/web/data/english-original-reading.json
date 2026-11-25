@@ -1,0 +1,1054 @@
+[
+  {
+    "id": "lost-card",
+    "title": "주소가 바뀐 회원증",
+    "type": "생활 대화",
+    "level": "기초",
+    "passage": [
+      "Mina: I need a new library card. Is my old one enough to show who I am?",
+      "Clerk: It tells me your name, but we need identification with a photo as well.",
+      "Mina: I have my student card. It has my picture on it.",
+      "Clerk: That will do. Now, what is your new address?"
+    ],
+    "flow": [
+      "미나의 옛 회원증으로 이름은 알 수 있어요.",
+      "but 뒤에서 사진이 있는 신분증도 필요하다고 해요. 학생증에 사진이 있어 다음 단계로 넘어가요."
+    ],
+    "quiz": {
+      "prompt": "직원이 학생증을 받아들인 이유는?",
+      "choices": [
+        "새 주소가 적혀 있어서",
+        "옛 회원증을 대신 발급해 줘서",
+        "본인 사진이 있어서",
+        "학생 할인을 받으려고 해서"
+      ],
+      "answer": 2,
+      "why": "직원이 추가로 요구한 것은 사진이에요. 주소는 학생증을 확인한 다음 따로 물어요."
+    },
+    "words": [
+      "identification"
+    ]
+  },
+  {
+    "id": "repair-stand",
+    "title": "자전거 수리대 앞에서",
+    "type": "생활 대화",
+    "level": "기초",
+    "passage": [
+      "Owen: I booked the repair stand for ten. Is it available now?",
+      "Rae: The stand is free, but the tire pump is still in the other room.",
+      "Owen: I only need to tighten a seat. Can I start without it?",
+      "Rae: Certainly. The tools for that are on the shelf beside you."
+    ],
+    "flow": [
+      "수리대는 비었고 타이어 펌프만 다른 방에 있어요.",
+      "오언이 고칠 것은 안장이에요. 필요한 도구는 바로 옆에 있어요."
+    ],
+    "quiz": {
+      "prompt": "오언이 바로 작업을 시작할 수 있는 이유는?",
+      "choices": [
+        "그의 작업에는 펌프가 필요 없어서",
+        "펌프가 이미 선반에 있어서",
+        "다른 사람이 안장을 고쳐 줘서",
+        "예약 시간이 지났기 때문에"
+      ],
+      "answer": 0,
+      "why": "오언은 안장을 조이기만 하면 된다고 했어요. 펌프가 없어도 가능한 작업이에요."
+    },
+    "words": [
+      "available"
+    ]
+  },
+  {
+    "id": "photo-credit",
+    "title": "사진 뒤에 남길 이름",
+    "type": "생활 대화",
+    "level": "기초",
+    "passage": [
+      "Ari: This picture would look perfect on our class calendar. Who is it by?",
+      "Sam: My aunt took it. My brother printed it for me.",
+      "Ari: I'd like to put the photographer's name under the picture. Could you ask her how she wants it written?",
+      "Sam: Sure. I'll call her tonight."
+    ],
+    "flow": [
+      "사진을 찍은 사람은 샘의 이모이고, 인화한 사람은 샘의 형제예요.",
+      "her는 사진을 찍은 이모를 받아요. 어떤 이름으로 소개할지 확인하려고 해요."
+    ],
+    "quiz": {
+      "prompt": "샘이 오늘 밤 이모에게 물을 것은?",
+      "choices": [
+        "사진을 어디서 인화했는지",
+        "사진을 몇 장 더 주문할지",
+        "달력의 판매 가격이 얼마인지",
+        "사진 밑에 이름을 어떻게 적을지"
+      ],
+      "answer": 3,
+      "why": "사진가의 이름을 표기하려고 how she wants it written이라고 묻고 있어요."
+    },
+    "words": [
+      "who-by"
+    ]
+  },
+  {
+    "id": "packed-lunch",
+    "title": "답사 전날 온 메일",
+    "type": "이메일",
+    "level": "기초",
+    "passage": [
+      "Hello everyone,",
+      "The cafe beside the bird center will be closed on the day of our visit. Please bring lunch instead of money for a meal there. We can eat at the tables behind the center. Drinking water will still be available inside, so bring an empty bottle if you like.",
+      "Nora"
+    ],
+    "flow": [
+      "방문일에 문을 닫는 곳은 옆 카페예요. 그래서 점심을 가져오래요.",
+      "센터 안에는 마실 물이 있어 빈 물병을 가져와도 돼요."
+    ],
+    "quiz": {
+      "prompt": "답사 참가자에게 꼭 챙겨 달라고 한 것은?",
+      "choices": [
+        "카페 식사비",
+        "도시락",
+        "물이 가득 든 병",
+        "야외 테이블"
+      ],
+      "answer": 1,
+      "why": "bring lunch가 직접적인 요청이에요. 물병 뒤의 if you like는 선택 사항임을 알려 줘요."
+    },
+    "words": [
+      "instead-of",
+      "available"
+    ]
+  },
+  {
+    "id": "music-folder",
+    "title": "합창단의 악보 봉투",
+    "type": "이메일",
+    "level": "기초",
+    "passage": [
+      "Hi Daniel,",
+      "I found a blue folder under my chair after practice. It has your name on it. I can look after it until Friday, when we meet again. If you need your music before then, send me a message and I'll leave it with the front desk.",
+      "Ana"
+    ],
+    "flow": [
+      "파란 봉투를 금요일까지 보관해 준대요.",
+      "금요일 전에 악보가 필요하면 메시지를 보내야 안내 데스크에 맡겨 줘요."
+    ],
+    "quiz": {
+      "prompt": "대니얼이 수요일에 악보를 찾으려면 먼저 무엇을 해야 하나요?",
+      "choices": [
+        "금요일 연습에 참석한다.",
+        "안내 데스크에 새 봉투를 산다.",
+        "아나에게 메시지를 보낸다.",
+        "의자 아래를 다시 살펴본다."
+      ],
+      "answer": 2,
+      "why": "before then은 금요일 전을 가리켜요. 그때는 아나에게 연락해야 보관 장소가 바뀌어요."
+    },
+    "words": [
+      "look-after"
+    ]
+  },
+  {
+    "id": "booking-time",
+    "title": "예약 시간을 확인하는 메일",
+    "type": "이메일",
+    "level": "기초",
+    "passage": [
+      "Dear Mr. Park,",
+      "Your appointment is at eleven on Tuesday. The time printed on the green card is correct. An older message on your phone may say ten. You can ignore that message. Please keep the green card and show it to the receptionist when you arrive.",
+      "Best wishes,",
+      "May"
+    ],
+    "flow": [
+      "먼저 화요일 열한 시라는 시간을 확인해요.",
+      "휴대전화 메시지는 예전 것이고, 도착해서 보여 줄 것은 녹색 카드예요."
+    ],
+    "quiz": {
+      "prompt": "메일에 맞게 행동한 사람은?",
+      "choices": [
+        "화요일 열한 시에 녹색 카드를 가져온다.",
+        "화요일 열 시에 휴대전화 메시지만 보여 준다.",
+        "예약을 새로 잡고 카드를 버린다.",
+        "열한 시에 도착한 뒤 휴대전화를 맡긴다."
+      ],
+      "answer": 0,
+      "why": "녹색 카드에 적힌 시간이 맞고, 접수할 때 그 카드를 보여 달라고 했어요."
+    },
+    "words": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "basket-rules",
+    "title": "장바구니 보관대 안내",
+    "type": "공공 안내",
+    "level": "기초",
+    "passage": [
+      "You may borrow a shopping basket at the entrance. Please leave it by the exit when you finish. From now on, baskets with yellow handles must stay on the ground floor. You may take a blue-handled basket upstairs. Both kinds are free to use while you shop."
+    ],
+    "flow": [
+      "먼저 입구에서 빌리고 출구에 돌려줘요.",
+      "새 규칙은 손잡이 색에 따라 달라져요. 노란색은 아래층에 두고 파란색은 위층까지 가져가요."
+    ],
+    "quiz": {
+      "prompt": "위층에서도 장바구니를 쓰려면 어느 것을 골라야 하나요?",
+      "choices": [
+        "유료 바구니",
+        "노란 손잡이 바구니",
+        "출구에 놓인 개인 바구니",
+        "파란 손잡이 바구니"
+      ],
+      "answer": 3,
+      "why": "위층으로 가져갈 수 있다고 명시된 것은 파란 손잡이 바구니예요."
+    },
+    "words": [
+      "from-now-on"
+    ]
+  },
+  {
+    "id": "pottery-class",
+    "title": "흙 수업 등록 안내",
+    "type": "공공 안내",
+    "level": "기초",
+    "passage": [
+      "Anyone aged twelve or older can participate in Saturday's clay class. Please wear clothes that can get dirty. We have enough tools for everyone, but places at the worktables are limited. To save a seat, write your name on the list at the front desk by Thursday evening."
+    ],
+    "flow": [
+      "열두 살부터 참가할 수 있어요. 도구는 충분해요.",
+      "부족한 것은 작업대 자리라서 목요일 저녁까지 이름을 적어야 해요."
+    ],
+    "quiz": {
+      "prompt": "참가 신청 명단을 받는 이유는?",
+      "choices": [
+        "도구를 따로 주문하려고",
+        "작업대 자리가 한정돼 있어서",
+        "옷의 크기를 조사하려고",
+        "모든 참가자가 정확히 열두 살이라서"
+      ],
+      "answer": 1,
+      "why": "but 뒤에 나오는 places at the worktables are limited가 좌석 예약을 받는 이유예요."
+    },
+    "words": [
+      "participate-in"
+    ]
+  },
+  {
+    "id": "paint-bin",
+    "title": "페인트통 반납 장소",
+    "type": "공공 안내",
+    "level": "기초",
+    "passage": [
+      "Please do not put half-full paint cans in the paper bin. To dispose of leftover paint, bring the can to the desk by the side gate. Keep the lid on. A worker will take the can from you. This service is open on Wednesday mornings only."
+    ],
+    "flow": [
+      "남은 페인트를 버릴 때는 종이 수거함 대신 옆문 데스크로 가요.",
+      "뚜껑을 닫은 채 가져가야 하고, 운영 시간은 수요일 오전이에요."
+    ],
+    "quiz": {
+      "prompt": "이 안내에 맞는 행동은?",
+      "choices": [
+        "수요일 오전 옆문 데스크에 뚜껑 닫은 통을 가져간다.",
+        "수요일 저녁 종이 수거함에 통을 넣는다.",
+        "뚜껑을 열어 둔 채 정문에 놓는다.",
+        "매일 아침 옆문에 페인트를 붓는다."
+      ],
+      "answer": 0,
+      "why": "시점·장소·처리 방법을 모두 충족하는 행동은 수요일 오전에 닫힌 통을 옆문 데스크로 가져가는 것이에요."
+    },
+    "words": [
+      "dispose-of"
+    ]
+  },
+  {
+    "id": "two-bells",
+    "title": "가게 문에 달린 종",
+    "type": "설명·의견",
+    "level": "기초",
+    "passage": [
+      "Our small shop has two doors and a bell above each one. The front bell sounds high and the back bell sounds low. I can distinguish one door from the other without looking up. Even when I am wrapping a box, I know which way to turn to greet a visitor."
+    ],
+    "flow": [
+      "문마다 종이 있고 두 종의 음이 달라요.",
+      "그래서 물건을 포장하면서 고개를 들지 않고도 어느 문을 봐야 할지 알아요."
+    ],
+    "quiz": {
+      "prompt": "두 종의 높낮이를 다르게 한 효과는?",
+      "choices": [
+        "두 문이 동시에 열리지 않는다.",
+        "손님이 포장을 도울 수 있다.",
+        "소리만 듣고 손님이 들어온 쪽을 안다.",
+        "가게 안이 전보다 조용해진다."
+      ],
+      "answer": 2,
+      "why": "음이 높은 쪽은 앞문이고 낮은 쪽은 뒷문이라 소리가 위치를 알려 줘요."
+    },
+    "words": [
+      "distinguish-from"
+    ]
+  },
+  {
+    "id": "chart",
+    "title": "창문 옆의 작은 표",
+    "type": "설명·의견",
+    "level": "기초",
+    "passage": [
+      "Jae used to water the classroom plant every morning. Then he noticed that the soil was sometimes still wet. From now on, he plans to check the soil first and water the plant only when it feels dry. A small chart by the window will help him remember to check."
+    ],
+    "flow": [
+      "예전에는 흙 상태와 상관없이 매일 물을 줬어요.",
+      "이제 매일 할 일은 확인이고, 물은 흙이 말랐을 때만 줘요."
+    ],
+    "quiz": {
+      "prompt": "창가 표를 보고 재가 기억하려는 일은?",
+      "choices": [
+        "매일 물의 양을 두 배로 늘리기",
+        "햇빛이 들 때마다 창문 열기",
+        "식물을 창문에서 멀리 옮기기",
+        "물을 주기 전에 흙 상태 확인하기"
+      ],
+      "answer": 3,
+      "why": "마지막 문장의 check는 앞에 나온 check the soil을 가리켜요."
+    },
+    "words": [
+      "from-now-on"
+    ]
+  },
+  {
+    "id": "volunteer-job",
+    "title": "작은 일을 맡은 날",
+    "type": "설명·의견",
+    "level": "기초",
+    "passage": [
+      "When I offered to help at the street fair, I wanted to take on a big job. The organizer asked me to write names on paper cups. At first it seemed unimportant. By lunchtime, however, everyone could find their own cup, and hardly anyone needed a second one."
+    ],
+    "flow": [
+      "처음에는 큰 일을 맡고 싶어서 컵에 이름 적는 일을 시시하게 여겨요.",
+      "점심때는 자기 컵을 쉽게 찾아서 새 컵이 거의 필요 없어요. 작은 일의 효과가 보여요."
+    ],
+    "quiz": {
+      "prompt": "마지막 문장이 보여 주는 결과는?",
+      "choices": [
+        "이름을 적어 새 컵을 쓰는 일이 줄었다.",
+        "조직자가 종이컵을 모두 없앴다.",
+        "직원들이 점심을 나중에 먹었다.",
+        "행사에 온 사람이 예상보다 적었다."
+      ],
+      "answer": 0,
+      "why": "각자 쓰던 컵을 찾을 수 있게 되었고 두 번째 컵이 필요한 사람이 거의 없었다고 해요."
+    },
+    "words": [
+      "take-on"
+    ]
+  },
+  {
+    "id": "desk-swap",
+    "title": "신문사 책상 배치",
+    "type": "생활 대화",
+    "level": "중급",
+    "passage": [
+      "Lena: The desk by the window is empty. Could I move there? I'm responsible for checking the photographs, and I need more light.",
+      "Ed: You could, but the afternoon sun makes the screen hard to see. The photographer who used that desk kept the curtains closed after lunch.",
+      "Lena: Then moving wouldn't solve my problem. Do we have a lamp I could try at my own desk?",
+      "Ed: Yes. Take the one beside the printer for today."
+    ],
+    "flow": [
+      "레나의 목적은 사진을 확인할 때 빛을 더 확보하는 거예요.",
+      "창가 자리는 밝아도 오후에는 화면이 잘 보이지 않아요. 예전 사용자도 커튼을 닫았어요.",
+      "그래서 자리를 옮기는 대신 자기 책상에서 램프를 시험해요."
+    ],
+    "quiz": {
+      "prompt": "레나가 창가 자리를 다시 생각하게 된 이유는?",
+      "choices": [
+        "사진 확인 업무가 다른 사람에게 넘어가서",
+        "오후 햇빛이 화면을 보기 어렵게 해서",
+        "빈 책상에 프린터를 놓기로 해서",
+        "커튼을 열 수 없도록 고정해서"
+      ],
+      "answer": 1,
+      "why": "에드는 오후 햇빛 때문에 화면을 보기 어렵다고 해요. 이전 사용자가 커튼을 닫은 일은 그 설명의 예예요."
+    },
+    "words": [
+      "responsible-for"
+    ]
+  },
+  {
+    "id": "ticket-machine",
+    "title": "역 앞 기계의 영수증",
+    "type": "생활 대화",
+    "level": "중급",
+    "passage": [
+      "Visitor: I paid at the machine outside, but no ticket came out. Should I pay again?",
+      "Clerk: Let me look into it first. Do you have the receipt that the machine printed?",
+      "Visitor: Here it is. I thought it was the ticket until I saw the words at the bottom.",
+      "Clerk: This shows that we received your payment. I'll print the ticket here, so please keep your money. I'll check the machine after helping you."
+    ],
+    "flow": [
+      "표가 나오지 않았지만 결제가 됐는지는 먼저 확인해야 해요.",
+      "영수증으로 결제 사실을 확인했으니 직원이 창구에서 표를 인쇄해요. 기계 점검은 그다음이에요."
+    ],
+    "quiz": {
+      "prompt": "방문객이 추가로 결제할 필요가 없는 근거는?",
+      "choices": [
+        "표를 사지 않아도 역에 들어갈 수 있다.",
+        "직원이 기계를 이미 고쳤다.",
+        "영수증에서 기존 결제가 확인됐다.",
+        "영수증이 바로 입장권 역할을 한다."
+      ],
+      "answer": 2,
+      "why": "영수증은 결제 증명이에요. 실제 표는 직원이 창구에서 새로 인쇄할 예정이에요."
+    },
+    "words": [
+      "look-into",
+      "daily-receipt"
+    ]
+  },
+  {
+    "id": "boat-list",
+    "title": "뱃길 봉사 접수",
+    "type": "생활 대화",
+    "level": "중급",
+    "passage": [
+      "Jo: Can I sign up for the river cleanup even though I've never been in a boat?",
+      "Pat: Yes. You can participate in the cleanup from the bank. Only the people collecting bags from the boats need training.",
+      "Jo: Good. My brother told me to register in advance. Is that because you charge more on the day?",
+      "Pat: No, the event is free. We need the numbers early so that each group gets enough gloves."
+    ],
+    "flow": [
+      "배를 타 본 적이 없어도 강둑에서 참가할 수 있어요.",
+      "보트를 타는 팀에만 훈련 조건이 붙어요. 미리 인원을 받는 이유는 비용이 아니라 장갑 수량이에요."
+    ],
+    "quiz": {
+      "prompt": "팻의 설명과 일치하는 것은?",
+      "choices": [
+        "강둑 팀은 보트 훈련 없이 참여할 수 있다.",
+        "모든 참가자가 당일 장갑을 사야 한다.",
+        "사전 등록자만 무료다.",
+        "배에서 봉투를 모으는 사람은 훈련이 필요 없다."
+      ],
+      "answer": 0,
+      "why": "강둑에서 하는 일과 배에서 하는 일을 나누세요. 훈련이 필요한 쪽은 배에서 봉투를 모으는 팀이에요."
+    },
+    "words": [
+      "participate-in",
+      "in-advance",
+      "daily-register"
+    ]
+  },
+  {
+    "id": "fish-map",
+    "title": "강의 격자 지도",
+    "type": "이메일",
+    "level": "중급",
+    "passage": [
+      "Dear field team,",
+      "Last year's map showed one dot for every fish we counted. At busy sites the dots covered the river completely. My proposal is to use one square for each section of river and print the total inside it. I have attached a trial page. Please check whether you can read the numbers when the map is printed in black and white. We will choose the final colors later.",
+      "Sofia"
+    ],
+    "flow": [
+      "물고기가 많은 지점에서는 점이 강을 가릴 정도였어요. 새 방식은 구간마다 사각형 하나에 합계를 적어요.",
+      "지금 시험할 것은 흑백 인쇄에서도 숫자를 읽을 수 있는지예요. 색 선정은 나중 일이에요."
+    ],
+    "quiz": {
+      "prompt": "소피아가 이번에 팀에게 해 달라는 일은?",
+      "choices": [
+        "물고기마다 다른 색의 점을 찍기",
+        "강을 다시 방문해 물고기 세기",
+        "최종 지도 색을 정하기",
+        "시안의 숫자를 흑백으로 읽을 수 있는지 확인하기"
+      ],
+      "answer": 3,
+      "why": "Please check whether 다음이 바로 요청이고, final colors 뒤의 later가 색 선정 시점을 구분해요."
+    },
+    "words": [
+      "proposal",
+      "daily-attach"
+    ]
+  },
+  {
+    "id": "missed-deadline",
+    "title": "기록 보관소 사진 사용",
+    "type": "이메일",
+    "level": "중급",
+    "passage": [
+      "Dear Archive Team,",
+      "Our school would like to use one of your old street photographs on a poster. I know the deadline for the printed festival guide has passed. Our poster, however, will appear only in the school hall next month. Could you tell me whether I should use the same form for a poster as for the guide? I can send the photograph number as soon as I hear from you.",
+      "Robin"
+    ],
+    "flow": [
+      "지난 것은 축제 인쇄 안내책자의 마감이에요. 학교가 만들 것은 다음 달 학교 안에 붙일 포스터예요.",
+      "글쓴이는 포스터에도 안내책자와 같은 서식을 써야 하는지 알고 싶어 해요."
+    ],
+    "quiz": {
+      "prompt": "받는 사람이 답해 주기를 기대하는 질문은?",
+      "choices": [
+        "축제 안내책자 인쇄를 연기할 수 있는가?",
+        "포스터용 사진 사용에도 같은 서식이 필요한가?",
+        "학교가 고른 사진 번호는 몇 번인가?",
+        "사진을 다른 거리에서 다시 찍어 줄 수 있는가?"
+      ],
+      "answer": 1,
+      "why": "Could you tell me whether 뒤에서 두 용도의 신청 서식이 같은지 물어요. 사진 번호는 회신을 받은 뒤 보낼 거래요."
+    },
+    "words": [
+      "deadline"
+    ]
+  },
+  {
+    "id": "script-ceremony",
+    "title": "낭독회 대본의 두 판본",
+    "type": "이메일",
+    "level": "중급",
+    "passage": [
+      "Hi Mei,",
+      "I have compared the two copies of the ceremony script. The one with the green cover lists Priya as the first reader, while the copy on our website lists Leo. Before I request a change to the website, could you check the order with the readers themselves? If Leo is going first, the website is already correct and we only need to print a new cover sheet for the green copy.",
+      "Thanks,",
+      "Ben"
+    ],
+    "flow": [
+      "초록 대본과 홈페이지에서 첫 낭독자의 이름이 달라요.",
+      "홈페이지 수정을 부탁하기 전에 참가자에게 순서를 확인해 달래요.",
+      "레오가 먼저라면 웹은 그대로 두고 종이 자료만 고쳐요."
+    ],
+    "quiz": {
+      "prompt": "레오가 먼저 낭독하는 것으로 확인되면 필요한 일은?",
+      "choices": [
+        "홈페이지에 프리야 이름을 먼저 넣는다.",
+        "행사를 취소하고 순서를 다시 정한다.",
+        "종이 대본용 표지를 다시 인쇄한다.",
+        "두 사람의 낭독을 모두 홈페이지에서 삭제한다."
+      ],
+      "answer": 2,
+      "why": "If Leo is going first 뒤의 결과는 종이 대본용 표지를 다시 만드는 것이에요."
+    },
+    "words": [
+      "request"
+    ]
+  },
+  {
+    "id": "theatre-seats",
+    "title": "야외 공연의 좌석 안내",
+    "type": "공공 안내",
+    "level": "중급",
+    "passage": [
+      "Friday's concert will go ahead regardless of light rain. Holders of numbered tickets may take their seats from six. Visitors without tickets may wait by the east gate. At six thirty we will offer them any seats whose ticket holders have not arrived. A numbered ticket still lets you enter after that time, but it no longer guarantees the seat printed on it. Please keep the paths clear while you wait."
+    ],
+    "flow": [
+      "가벼운 비에도 공연은 진행해요. 번호표가 있으면 여섯 시부터 들어가요.",
+      "여섯 시 반부터는 오지 않은 사람의 자리를 대기자에게 줘요. 이후 번호표로 입장은 되지만 지정석 보장은 끝나요."
+    ],
+    "quiz": {
+      "prompt": "번호표를 가진 사람이 6시 40분에 도착하면?",
+      "choices": [
+        "입장할 수 있지만 지정된 자리는 이미 배정됐을 수 있다.",
+        "지정석 보장이 공연 끝까지 그대로 유지된다.",
+        "무조건 새 표를 사야 한다.",
+        "동쪽 문에서 다음 날 공연을 예약해야 한다."
+      ],
+      "answer": 0,
+      "why": "after that time이 가리키는 시각은 여섯 시 반이에요. 그 뒤의 입장 자격과 지정석 보장을 구분하세요."
+    },
+    "words": [
+      "regardless-of"
+    ]
+  },
+  {
+    "id": "runner-route",
+    "title": "달리기 행사 길 안내",
+    "type": "공공 안내",
+    "level": "중급",
+    "passage": [
+      "Due to work on the stone bridge, Sunday's five-kilometer walk will start in the market square rather than at the sports center. The finish line will stay at the center. Anyone who left a jacket there on Saturday can collect it after the walk. A small bus will carry empty water containers between the two sites. It will not carry walkers or their bags."
+    ],
+    "flow": [
+      "다리 공사 때문에 출발점은 시장 광장으로 옮겨요.",
+      "도착점은 체육센터 그대로여서 그곳에 남긴 재킷은 걷기가 끝난 뒤 찾아요. 두 장소를 오가는 버스에는 빈 물통만 실어요."
+    ],
+    "quiz": {
+      "prompt": "토요일에 체육센터에 재킷을 두고 간 참가자의 올바른 계획은?",
+      "choices": [
+        "체육센터에서 출발해 시장에서 재킷을 받는다.",
+        "작은 버스에 타서 광장으로 이동한다.",
+        "가방을 버스에 맡기고 새 다리를 건넌다.",
+        "시장 광장에서 출발해 도착 후 체육센터에서 재킷을 찾는다."
+      ],
+      "answer": 3,
+      "why": "출발지는 변경됐지만 결승선은 센터예요. 안내의 버스는 참가자나 짐을 운반하지 않아요."
+    },
+    "words": [
+      "due-to"
+    ]
+  },
+  {
+    "id": "hearing-room",
+    "title": "회의실 사용 지침",
+    "type": "공공 안내",
+    "level": "중급",
+    "passage": [
+      "Groups that use the listening room must abide by its quiet hours, which begin at seven in the evening. You may finish a discussion after seven in the cafe downstairs. If you leave written notes in the listening room, put them in the blue folder for your group. Staff collect loose sheets at closing time, and papers without a name may be impossible to return."
+    ],
+    "flow": [
+      "방을 쓰는 모든 모임은 저녁 일곱 시부터 조용히 해야 해요. 계속 대화하려면 아래층 카페로 옮겨요.",
+      "방에 남길 메모는 자기 모임의 파란 폴더에 넣어요. 낱장으로 두면 마감 때 수거돼요."
+    ],
+    "quiz": {
+      "prompt": "일곱 시가 지나도 대화가 끝나지 않은 모임에 알맞은 행동은?",
+      "choices": [
+        "청취실에 그대로 머물러 큰 소리로 마친다.",
+        "아래층 카페로 옮겨 대화를 마친다.",
+        "이름 없는 종이를 책상 위에 흩어 놓는다.",
+        "직원에게 조용한 시간의 폐지를 요구한다."
+      ],
+      "answer": 1,
+      "why": "after seven에 대화를 마칠 수 있는 장소로 the cafe downstairs를 안내해요."
+    },
+    "words": [
+      "abide-by"
+    ]
+  },
+  {
+    "id": "cool-cups",
+    "title": "컵 두 개로 한 실험",
+    "type": "설명·의견",
+    "level": "중급",
+    "passage": [
+      "Two pupils wanted to assess a thick paper sleeve for hot drinks. They filled two cups with water from the same pot, but they put the covered cup by an open window and the other one near a warm oven. When the first cup cooled faster, they blamed the sleeve. Their teacher asked them to repeat the test with the cups side by side. This time, only one difference would remain."
+    ],
+    "flow": [
+      "보호 덮개를 평가하려고 물은 같은 냄비에서 따랐어요.",
+      "그런데 덮개 유무뿐 아니라 컵을 둔 장소도 달랐어요. 선생님은 컵을 나란히 놓자고 해요."
+    ],
+    "quiz": {
+      "prompt": "두 번째 실험에서 컵을 나란히 두는 목적은?",
+      "choices": [
+        "물을 서로 다른 온도에서 따르려고",
+        "첫 실험의 결과를 그대로 만들려고",
+        "장소 차이의 영향을 줄이고 덮개 효과를 보려고",
+        "두 컵 모두에 덮개를 씌우려고"
+      ],
+      "answer": 2,
+      "why": "첫 실험에서는 창가와 오븐 옆의 온도 차이도 결과에 영향을 줄 수 있었어요. 나란히 두면 비교할 차이를 하나로 줄여요."
+    },
+    "words": [
+      "assess"
+    ]
+  },
+  {
+    "id": "word-box",
+    "title": "마을 소식지의 작은 상자",
+    "type": "설명·의견",
+    "level": "중급",
+    "passage": [
+      "Our village paper used to explain every unfamiliar word in the middle of an article. Readers often forgot what the sentence had been about by the time they reached its end. We now put short explanations in a box beside the article instead of adding them inside sentences. Readers who already know a word can keep going. Those who need the explanation can still find it without turning the page."
+    ],
+    "flow": [
+      "예전에는 설명이 문장 한가운데 있어서 독자가 문장 흐름을 놓쳤어요.",
+      "이제 바로 옆 상자로 옮겨, 아는 사람은 계속 읽고 필요한 사람만 뜻을 볼 수 있어요."
+    ],
+    "quiz": {
+      "prompt": "새 편집 방식의 장점은?",
+      "choices": [
+        "모든 독자가 같은 순서로 설명을 전부 읽는다.",
+        "낯선 단어를 기사에서 완전히 없앤다.",
+        "기사와 설명을 서로 다른 쪽에 실을 수 있다.",
+        "본문 독서 흐름을 보존하면서도 설명을 가까이 둔다."
+      ],
+      "answer": 3,
+      "why": "필요한 때만 상자를 보고 쉽게 본문으로 돌아올 수 있어요. turning the page 없이 가능하다는 말도 근거예요."
+    },
+    "words": [
+      "instead-of"
+    ]
+  },
+  {
+    "id": "lamp-log",
+    "title": "복도 등의 점검 기록",
+    "type": "설명·의견",
+    "level": "중급",
+    "passage": [
+      "A caretaker who checks the hall lamps on a regular basis used to write down only the number of broken bulbs. The number told her how many to order but not where to go first. Now she adds the location beside each number. A dark stairway can be repaired before an empty storage room, even if the storage room lost its light a day earlier."
+    ],
+    "flow": [
+      "고장 개수만 알면 전구 주문량은 알지만 어느 곳을 먼저 고칠지 판단하기 어려워요.",
+      "위치를 함께 적자 빈 창고보다 어두운 계단을 먼저 고칠 근거가 생겨요."
+    ],
+    "quiz": {
+      "prompt": "추가한 정보가 바꾼 것은?",
+      "choices": [
+        "수리의 우선순위를 정하는 방식",
+        "복도를 점검하는 사람의 수",
+        "전구 한 개의 주문 가격",
+        "창고의 조명이 고장 난 날짜"
+      ],
+      "answer": 0,
+      "why": "개수는 주문에, 위치는 우선순위에 쓰여요. 어두운 계단과 빈 창고의 비교가 그 차이를 보여 줘요."
+    },
+    "words": [
+      "on-a-regular-basis"
+    ]
+  },
+  {
+    "id": "caption-trial",
+    "title": "박물관 음성 안내 시범 운영",
+    "type": "생활 대화",
+    "level": "도전",
+    "passage": [
+      "Curator: We can provide visitors with a written copy of the audio guide. Would that solve the problem you saw in yesterday's trial?",
+      "Guide: For some people, yes. But one visitor who could hear every word still missed the end of the story about the clock.",
+      "Curator: Did she move to the next display too early?",
+      "Guide: She stayed by the clock. The guide started the next story when a group beside her moved on. They were all using one device.",
+      "Curator: Then let's test a pause button before we print more copies. That should help groups whose members want to stop at different points."
+    ],
+    "flow": [
+      "학예사는 글로 옮긴 안내를 제안해요. 하지만 사례 속 관람객은 모든 단어를 잘 들었어요.",
+      "그녀는 시계 곁에 그대로 있었는데 같은 기기를 쓰는 일행이 이동하자 다음 이야기가 시작됐어요.",
+      "그래서 인쇄물을 늘리기 전에 멈춤 버튼부터 시험해요."
+    ],
+    "quiz": {
+      "prompt": "일시 정지 기능을 먼저 시험하려는 직접적인 이유는?",
+      "choices": [
+        "안내 대본에 시계 이야기의 결말이 빠져 있어서",
+        "관람객들이 원하는 안내 속도가 서로 달라서",
+        "시계가 전시실에서 자꾸 옮겨져서",
+        "모든 방문객이 오디오보다 인쇄물을 선호해서"
+      ],
+      "answer": 1,
+      "why": "문제는 말소리의 크기나 대본이 아니라 한 기기에서 함께 듣는 사람들의 속도 차이예요."
+    },
+    "words": [
+      "provide-with"
+    ]
+  },
+  {
+    "id": "bus-survey",
+    "title": "버스 승객 설문 회의",
+    "type": "생활 대화",
+    "level": "도전",
+    "passage": [
+      "Marta: We asked people at the last stop to assess the evening bus. Nearly everyone we spoke to gave it a good score. Can we say the new service works well for all the villages?",
+      "Dev: Think about who was able to reach that stop. The bus turns back before it gets to Hill End, so the people there had little reason to be waiting for it.",
+      "Marta: I see. A larger survey at the same stop could leave out the same village again.",
+      "Dev: Exactly. We should visit the villages on foot, including the ones the bus doesn't serve yet, before we draw that conclusion."
+    ],
+    "flow": [
+      "종점 설문에선 평가가 좋았어요. 그러나 누가 그곳에서 응답할 수 있었는지를 보래요.",
+      "버스가 가지 않는 마을 주민은 종점에서 기다릴 이유가 거의 없어요. 같은 종점에서 응답자만 늘려도 이 집단은 또 빠져요.",
+      "그래서 실제 마을들을 찾아가자는 결론이에요."
+    ],
+    "quiz": {
+      "prompt": "데브의 지적이 타당하다면 가장 먼저 보완해야 할 것은?",
+      "choices": [
+        "좋은 점수를 준 응답자의 수를 줄인다.",
+        "같은 종점에서 같은 승객에게 다시 묻는다.",
+        "조사 장소를 넓혀 미이용 마을 주민도 포함한다.",
+        "조사 결과가 나올 때까지 저녁 운행을 중지한다."
+      ],
+      "answer": 2,
+      "why": "모든 마을의 경험을 말하려면 현재 서비스를 이용할 수 없는 곳의 주민도 만날 수 있는 조사 방식이 필요해요."
+    },
+    "words": [
+      "assess"
+    ]
+  },
+  {
+    "id": "transcript",
+    "title": "구술 기록의 마지막 문장",
+    "type": "생활 대화",
+    "level": "도전",
+    "passage": [
+      "Editor: The speaker stopped in the middle of her last sentence. For the public transcript, could we add the ending that seems most likely?",
+      "Archivist: Readers need to distinguish her words from ours. We can include a note saying that the recording ends there.",
+      "Editor: But someone reading only the printed page might think she chose to stop talking.",
+      "Archivist: Then the note should describe the recording, not her intention. The tape ran out; she may have gone on speaking. We can leave the sentence unfinished and put that fact in brackets. A reader will see both what we heard and what we cannot know."
+    ],
+    "flow": [
+      "연설 마지막 문장이 끊겼어요. 편집자는 그럴듯한 끝을 채워 넣고 싶어 해요.",
+      "기록 담당자가 확실히 아는 것은 테이프가 끝났다는 사실이에요. 화자가 의도적으로 멈췄는지는 몰라요.",
+      "문장을 미완성으로 두고 대괄호 안에 녹음 상태를 밝히자는 제안이에요."
+    ],
+    "quiz": {
+      "prompt": "담당자가 동의할 편집 방식은?",
+      "choices": [
+        "화자가 당황해서 멈췄다고 적는다.",
+        "편집자가 추정한 결말로 문장을 완성한다.",
+        "마지막 문장을 이유 없이 모두 삭제한다.",
+        "녹음이 끝났다는 확인 가능한 사실을 따로 표시한다."
+      ],
+      "answer": 3,
+      "why": "tape ran out과 she may have gone on을 함께 읽으면 확인된 사건과 화자의 알 수 없는 행동이 구별돼요."
+    },
+    "words": [
+      "distinguish-from"
+    ]
+  },
+  {
+    "id": "flood-mark",
+    "title": "오래된 다리의 표시",
+    "type": "이메일",
+    "level": "도전",
+    "passage": [
+      "Dear Planning Team,",
+      "I agree that the height marks cut into the old bridge should be recorded before repairs begin. I am writing about the date written beside the highest mark. A newspaper article that residents have sent us describes a flood in 1964, but it does not say that the mark was made that year.",
+      "Until we find a record making that connection, please list 1964 as a possible date. This small change would allow us to use the article without giving visitors the impression that it proves more than it does. I would welcome any additional photographs you can provide us with.",
+      "Helen"
+    ],
+    "flow": [
+      "보수 전에 표시를 기록하는 데는 동의해요. 쟁점은 가장 높은 표시의 연도예요.",
+      "기사는 1964년 홍수를 확인해 주지만, 바로 그때 표시를 새겼다는 문장은 없어요.",
+      "둘을 잇는 자료를 찾기 전까지 1964년을 가능한 날짜로 표시해 달래요."
+    ],
+    "quiz": {
+      "prompt": "헬렌의 요청을 가장 잘 반영한 안내문은?",
+      "choices": [
+        "1964년일 가능성이 있으나 이 표시와 그해 홍수의 연결은 확인 중이다.",
+        "가장 높은 표시는 1964년 홍수 때 새겼다.",
+        "1964년에는 홍수가 없었다.",
+        "다리의 모든 표시를 보수 작업 뒤에 기록할 예정이다."
+      ],
+      "answer": 0,
+      "why": "홍수의 연도와 표시의 연도를 구별해야 해요. 헬렌은 기사 사용을 허용하면서 두 사건의 연결만 유보해요."
+    },
+    "words": [
+      "provide-with",
+      "daily-resident"
+    ]
+  },
+  {
+    "id": "community-kitchen",
+    "title": "공동 주방 예약표",
+    "type": "이메일",
+    "level": "도전",
+    "passage": [
+      "Dear Cooks,",
+      "When we agreed to share the kitchen, we promised that no group would gain extra cooking time at the expense of the next group's preparation time. The sheet currently posted by the door gives each group a full hour at the stove. It leaves no time to wipe the counters or put the pans away.",
+      "Starting Monday, please treat the last ten minutes of your hour as cleaning time. The group booked after you may enter once your hour ends. Please do not ask them to arrive early to finish work that belongs to your group. The total length of each booking will stay the same.",
+      "Nell"
+    ],
+    "flow": [
+      "처음 합의는 한 팀의 추가 조리 때문에 다음 팀의 준비 시간이 줄지 않게 하자는 거예요.",
+      "현재 예약표에는 청소 시간이 없어요. 새 규칙에서는 각 팀이 자기 한 시간의 마지막 10분을 청소에 써요.",
+      "다음 팀은 정시에 입장하고, 예약 길이는 그대로예요."
+    ],
+    "quiz": {
+      "prompt": "새 규칙에 따라 2시부터 3시까지 예약한 팀이 할 일은?",
+      "choices": [
+        "3시에 조리를 마친 뒤 다음 팀에게 청소를 맡긴다.",
+        "2시 50분 무렵까지 조리하고 남은 예약 시간에 청소한다.",
+        "다음 팀을 2시 50분에 불러 함께 청소한다.",
+        "청소를 위해 예약 종료 시각을 3시 10분으로 미룬다."
+      ],
+      "answer": 1,
+      "why": "마지막 10분은 기존 한 시간 안에 포함되고, 다음 팀은 그 한 시간이 끝난 후 들어와요."
+    },
+    "words": [
+      "at-the-expense-of"
+    ]
+  },
+  {
+    "id": "local-award",
+    "title": "동네 상점 지원 안내 메일",
+    "type": "이메일",
+    "level": "도전",
+    "passage": [
+      "Dear Ms. Choi,",
+      "Thank you for asking whether your shop is eligible for the neighborhood repair award. Your business moved into the district only last spring, but the rule about two years applies to the building that needs repair, not to the business using it. The photographs you sent show the building on this street five years ago.",
+      "We still need a letter from the owner allowing the work. Because you rent the shop, your signature alone will not meet that condition. Please send the letter with your estimate. Receiving this message means that you may apply for the award; it is not yet a promise of funding.",
+      "Milo"
+    ],
+    "flow": [
+      "2년 기준이 적용되는 대상은 사업체가 아니라 보수할 건물이에요. 건물은 5년 전에도 이 거리에 있었어요.",
+      "신청자는 임차인이어서 소유주의 공사 허가서와 견적이 필요해요.",
+      "신청할 수 있다는 안내와 지원금 확정은 서로 다른 단계예요."
+    ],
+    "quiz": {
+      "prompt": "최 씨가 현재 할 수 있는 일은?",
+      "choices": [
+        "지원금 지급을 확정하여 공사를 발주한다.",
+        "입주한 지 2년이 될 때까지 반드시 기다린다.",
+        "소유주의 허가서와 견적을 갖춰 신청한다.",
+        "자기 서명만으로 소유주 동의 조건을 충족한다."
+      ],
+      "answer": 2,
+      "why": "건물의 연도 조건은 충족하지만 소유주의 허가서가 남았어요. 마지막 문장은 지금 가능한 행동이 신청임을 명시해요."
+    },
+    "words": [
+      "eligible-for",
+      "apply-for"
+    ]
+  },
+  {
+    "id": "reading-room",
+    "title": "책 수레가 있는 열람실",
+    "type": "공공 안내",
+    "level": "도전",
+    "passage": [
+      "To protect the fragile bindings in our reading room, visitors may consult one volume at a time. If you are comparing two books, a member of staff can provide you with a photograph of a single page from the first while you read the second. The photograph will remain on a room tablet and cannot be copied to a personal device.",
+      "Please request the photograph before returning the first book. Once it has been taken back to storage, staff may not be able to retrieve it again that afternoon. These arrangements give researchers access to the material while keeping the number of open volumes low."
+    ],
+    "flow": [
+      "책을 한 번에 한 권만 펼칠 수 있어요. 두 권을 비교하려면 첫 책 한 쪽의 사진을 열람실 태블릿으로 보며 두 번째 책을 읽어요.",
+      "첫 책을 돌려주기 전에 사진을 요청해야 해요. 보관소로 가면 그날 다시 꺼내기 어려울 수 있어요.",
+      "사진을 개인 기기로 옮기는 것은 허용되지 않아요."
+    ],
+    "quiz": {
+      "prompt": "두 책의 한 대목을 비교할 방문객의 적절한 순서는?",
+      "choices": [
+        "두 책을 동시에 연 뒤 개인 휴대전화로 찍는다.",
+        "첫 책을 반납하고 나중에 언제든 사진을 받는다.",
+        "첫 책의 전 쪽을 개인 기기에 먼저 복사한다.",
+        "첫 책 반납 전에 한 쪽의 사진을 요청한 뒤 태블릿과 두 번째 책을 함께 본다."
+      ],
+      "answer": 3,
+      "why": "before returning이 요청 시점을 정하고, room tablet이 허용되는 열람 수단을 정해요."
+    },
+    "words": [
+      "access-to",
+      "request",
+      "daily-fragile"
+    ]
+  },
+  {
+    "id": "crossing-time",
+    "title": "강변 산책로 통제 공지",
+    "type": "공공 안내",
+    "level": "도전",
+    "passage": [
+      "On the morning of the lantern race, the path across Mill Bridge will close at nine. People already on the bridge at that time may finish crossing. Anyone approaching it after the gate closes should use the tunnel beside the station, even if there are no runners in sight.",
+      "The gate will reopen when the last safety cart has passed. The time shown on the event map is an estimate and is subject to change. The first runners may finish well before the cart because the driver checks the route for dropped equipment. Please follow the signals at the gate rather than the clock on the map."
+    ],
+    "flow": [
+      "아홉 시에 이미 다리 위에 있던 사람은 마저 건너고, 문이 닫힌 뒤 도착한 사람은 터널로 가요.",
+      "다시 여는 기준은 마지막 안전 차량이 지나갔는지예요. 선수들이 사라져도 차량은 남은 물건을 확인해요.",
+      "지도 시각은 바뀔 수 있으므로 문에서 보내는 신호를 따라야 해요."
+    ],
+    "quiz": {
+      "prompt": "지도상의 예정 시간이 지났지만 문이 여전히 닫혀 있다면?",
+      "choices": [
+        "선수가 안 보이더라도 역 옆 터널을 이용한다.",
+        "지도에 적힌 시간을 근거로 문을 열고 건넌다.",
+        "첫 선수가 결승선을 통과하면 바로 다리에 들어간다.",
+        "다리 위에 있던 보행자에게 출입을 결정해 달라고 요청한다."
+      ],
+      "answer": 0,
+      "why": "통행 재개 조건은 예정 시각이 아니라 안전 차량 통과와 현장 신호예요."
+    },
+    "words": [
+      "subject-to"
+    ]
+  },
+  {
+    "id": "garden-seeds",
+    "title": "씨앗 교환대의 새 표기",
+    "type": "공공 안내",
+    "level": "도전",
+    "passage": [
+      "At the seed exchange, a red dot now marks packets whose contents were grown in our shared garden. A packet without a dot may still contain seeds of the same variety; its seeds simply came from another garden. Please do not use the dot to decide what will grow best on your windowsill.",
+      "To help visitors select seeds, volunteers have added a separate card describing how much light each variety needs. The cards were prepared in consultation with growers who have tried the plants indoors. If a packet and its card get separated, bring them to the desk rather than guessing which card belongs with it."
+    ],
+    "flow": [
+      "빨간 점은 씨앗의 출처를 알려 줘요. 점 없는 봉투에도 같은 품종이 들어 있을 수 있어요.",
+      "창가에 알맞은 품종을 고를 때 필요한 햇빛 정보는 별도 카드에 있어요.",
+      "카드와 봉투의 짝이 불분명하면 추측하지 말고 데스크로 가져가요."
+    ],
+    "quiz": {
+      "prompt": "빨간 점 하나만 보고 알 수 있는 사실은?",
+      "choices": [
+        "실내에서 가장 잘 자라는 품종이다.",
+        "공동 정원에서 길러진 씨앗이다.",
+        "이 품종은 다른 정원에 없다.",
+        "아주 적은 빛으로도 싹이 난다."
+      ],
+      "answer": 1,
+      "why": "점은 원산 정원, 별도 카드는 필요한 빛의 양을 표시해요. 두 표시가 담당하는 정보를 나눠 보세요."
+    },
+    "words": [
+      "in-consultation-with"
+    ]
+  },
+  {
+    "id": "umbrella-count",
+    "title": "우산 보관함 기록 읽기",
+    "type": "설명·의견",
+    "level": "도전",
+    "passage": [
+      "A busy station installed a second umbrella stand after its first one filled up on three rainy mornings. A month later the manager counted more umbrellas than before and took this as a sign that more people were visiting the station. Yet the number of passengers who passed through the gates had barely changed.",
+      "The extra space may account for the larger count in another way. People who once carried wet umbrellas onto the trains may now leave them in a stand. If so, the stands tell us about a change in passengers' habits. To estimate how many people came, the gate records would be the more useful source."
+    ],
+    "flow": [
+      "보관 우산 수는 늘었고 관리자는 방문객이 늘었다고 생각해요. 그런데 개찰구 통과 인원은 거의 그대로예요.",
+      "보관 공간이 늘자 들고 타던 사람이 맡기기 시작했을 수도 있어요. 우산 수는 행동 변화로도 설명돼요.",
+      "방문 인원 추정에는 개찰구 기록이 더 직접적인 근거예요."
+    ],
+    "quiz": {
+      "prompt": "글쓴이가 보관 우산 수에서 바로 방문객 수를 추론할 수 없다고 보는 이유는?",
+      "choices": [
+        "새 보관함은 우산을 보관할 수 없어서",
+        "역의 개찰구가 그달 내내 닫혀서",
+        "같은 수의 승객도 보관 습관을 바꾸면 우산 수가 늘 수 있어서",
+        "승객이 증가하면 보관 우산 수는 항상 감소해서"
+      ],
+      "answer": 2,
+      "why": "이 글은 우산 수 증가를 설명할 다른 가능성을 제시해요. 사람들이 실제로 습관을 바꿨다고 확정하지는 않아요."
+    },
+    "words": [
+      "account-for"
+    ]
+  },
+  {
+    "id": "translation-label",
+    "title": "길 안내판의 두 언어",
+    "type": "설명·의견",
+    "level": "도전",
+    "passage": [
+      "A designer shortened both lines of a bilingual sign so that the words would fit on a narrow post. The new sign looked neat on her screen. When visitors tried it in the courtyard, however, several walked into the delivery entrance. The shorter translation had dropped the word that told them which doorway was for the public.",
+      "The mistake does not show that every sign needs a longer text. It shows that a designer should focus on the choice a visitor must make at that spot. A single word that separates two possible doors may be more valuable than a whole sentence about the building's history."
+    ],
+    "flow": [
+      "좁은 기둥에 맞게 문구를 줄였더니 방문객 일부가 배달 출입구로 들어갔어요. 공용 출입구를 구별해 주던 단어가 빠졌어요.",
+      "글쓴이는 긴 표지판을 일괄 권하지 않아요. 그 자리에서 해야 할 선택에 어떤 정보가 필요한지 보라고 해요.",
+      "문 하나를 제대로 고르게 하는 한 단어가 긴 역사 설명보다 유용할 수 있어요."
+    ],
+    "quiz": {
+      "prompt": "디자이너에게 줄 조언으로 글쓴이의 주장에 가장 가까운 것은?",
+      "choices": [
+        "두 언어의 모든 문장을 같은 길이로 맞춘다.",
+        "방문객의 시행착오를 줄이려면 역사 설명을 늘린다.",
+        "설명이 짧을수록 어느 장소에서나 좋다.",
+        "방문객의 선택을 구분해 줄 핵심 단어를 남긴다."
+      ],
+      "answer": 3,
+      "why": "사례에서 문제였던 것은 줄인 글자 수 자체보다 두 문을 구별하던 정보를 지운 일이에요."
+    },
+    "words": [
+      "focus-on"
+    ]
+  },
+  {
+    "id": "night-record",
+    "title": "밤에 남긴 소리 기록",
+    "type": "설명·의견",
+    "level": "도전",
+    "passage": [
+      "Two students set up a recorder in the school garden to find out when the first bird sang each morning. The machine switched itself on only when a sound reached a certain level, thereby saving space on its memory card. After a week, the students announced that the birds never sang before six.",
+      "Their teacher played a very soft recording beside the machine. It did not switch on. That experiment did not prove that birds had sung earlier. It did, however, show why the absence of an early recording could not settle the question. A quiet song and no song at all would leave exactly the same empty file."
+    ],
+    "flow": [
+      "녹음기는 소리가 일정 크기에 도달해야 켜져요. 학생들은 여섯 시 전 녹음이 없다는 점에서 새가 안 울었다고 결론 내렸어요.",
+      "작은 소리를 들려줘도 기계가 켜지지 않았어요. 그래서 ‘작게 울었다’와 ‘울지 않았다’가 같은 기록을 남길 수 있어요.",
+      "실험은 일찍 울었음을 증명한 것이 아니라 기존 자료의 한계를 보여 줘요."
+    ],
+    "quiz": {
+      "prompt": "선생님의 실험으로 확인할 수 있는 것은?",
+      "choices": [
+        "녹음이 없다는 사실만으로 조용한 새소리의 가능성을 없앨 수 없다.",
+        "새는 실제로 매일 여섯 시 이전에 울었다.",
+        "메모리 카드가 부족하면 녹음기는 더 작은 소리에도 켜진다.",
+        "녹음된 첫 번째 소리는 언제나 그날의 첫 새소리다."
+      ],
+      "answer": 0,
+      "why": "기계에 남지 않는 작은 소리가 있다는 것이 실험의 관찰이에요. 이른 새소리가 실제로 있었는지는 여전히 열려 있어요."
+    },
+    "words": [
+      "thereby"
+    ]
+  }
+]

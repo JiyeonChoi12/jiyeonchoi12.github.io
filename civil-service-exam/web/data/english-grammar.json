@@ -1,0 +1,1014 @@
+[
+  {
+    "id": "g-core",
+    "title": "문장의 뼈대와 목적격 보어",
+    "rule": "주어가 누구인지 잡고 본동사에서 행동을 확인한다. have + 대상 + 과거분사는 그 대상에 어떤 일을 하게 하거나 그런 일을 겪는다는 뜻이다.",
+    "example": {
+      "en": "The librarian had the damaged map restored.",
+      "ko": "사서는 손상된 지도를 복원하게 했다."
+    },
+    "flow": [
+      "The librarian had … → 사서가 무언가를 맡겼다.",
+      "the damaged map → 손상된 지도다. 지도에 무슨 일을 했을까?",
+      "restored → 복원했다. 지도는 복원되는 대상이다."
+    ],
+    "quiz": {
+      "prompt": "The editor had the spelling errors ____ before publication. (오자를 고치게 했다.)",
+      "choices": [
+        "correct",
+        "correcting",
+        "corrected"
+      ],
+      "answer": 2,
+      "why": "고쳐지는 대상은 spelling errors다. have + 대상 + corrected로 ‘대상을 고치게 하다’가 된다."
+    },
+    "refs": [
+      {
+        "paper": "1ed7c1ebc3",
+        "number": 1
+      },
+      {
+        "paper": "0afed00509",
+        "number": 6
+      }
+    ],
+    "drills": [
+      {
+        "en": "I had my key copied.",
+        "ko": "나는 열쇠를 복제하게 했다.",
+        "cue": "my key에서 대상을 잡아요. copied가 그 열쇠에 무슨 일이 생겼는지 알려 줘요."
+      },
+      {
+        "en": "Before the exhibition opened, the curator had the labels on three borrowed paintings checked by a translator.",
+        "ko": "전시가 열리기 전에 학예사는 빌려 온 그림 세 점의 설명문을 번역가에게 확인받았다.",
+        "cue": "had the labels까지 읽고 ‘설명문을 어떻게 했지?’ 하고 기다려요. checked에서 답이 나와요."
+      }
+    ]
+  },
+  {
+    "id": "g-agreement",
+    "title": "주어와 동사의 수일치",
+    "rule": "동사의 수는 주어의 중심 명사에 맞춘다. the number of applicants의 중심은 number이고, a number of applicants는 ‘여러 지원자’다.",
+    "example": {
+      "en": "The list of volunteers for Saturday is on the desk.",
+      "ko": "토요일 자원봉사자 명단은 책상 위에 있다."
+    },
+    "flow": [
+      "The list → 일단 명단 하나를 떠올린다.",
+      "of volunteers for Saturday → 누구 명단인지 더한다.",
+      "is on the desk → 그 명단의 위치가 나왔다."
+    ],
+    "quiz": {
+      "prompt": "The number of calls from residents ____ increasing.",
+      "choices": [
+        "are",
+        "is",
+        "have been"
+      ],
+      "answer": 1,
+      "why": "늘어나는 것은 calls 하나하나가 아니라 전화의 수(number)다. 단수 is가 맞는다."
+    },
+    "refs": [
+      {
+        "paper": "0afed00509",
+        "number": 5
+      },
+      {
+        "paper": "475a004a85",
+        "number": 8
+      },
+      {
+        "paper": "2fd16c8f2f",
+        "number": 13
+      }
+    ],
+    "drills": [
+      {
+        "en": "The row of chairs blocks the door.",
+        "ko": "의자 한 줄이 문을 막고 있다.",
+        "cue": "The row는 한 줄이에요. chairs가 여러 개여도 문을 막는 주어는 무엇인가요?"
+      },
+      {
+        "en": "One of the boxes that arrived from the printer this morning contains invitations for the volunteers.",
+        "ko": "오늘 아침 인쇄소에서 온 상자들 중 하나에 자원봉사자용 초대장이 들어 있다.",
+        "cue": "One을 한 상자로 기억해요. arrived에서 배송 정보를 더하고 contains에서 그 상자 이야기로 이어 가요."
+      }
+    ]
+  },
+  {
+    "id": "g-tense",
+    "title": "단순·진행 시제와 시간 단서",
+    "rule": "반복되는 일은 단순현재, 지금 펼쳐지는 일은 현재진행, 끝난 과거 시점의 일은 단순과거로 나타낼 수 있다. 시간 표현과 동사를 함께 읽는다.",
+    "example": {
+      "en": "The clerk usually works downstairs, but today she is helping at the front desk.",
+      "ko": "그 직원은 보통 아래층에서 일하지만 오늘은 안내 창구에서 일을 돕고 있다."
+    },
+    "flow": [
+      "usually works → 평소 모습을 먼저 본다.",
+      "but today → 오늘만 다른 장면이다.",
+      "is helping → 지금 맡고 있는 일이 이어진다."
+    ],
+    "quiz": {
+      "prompt": "The office ____ the notice yesterday morning.",
+      "choices": [
+        "has posted",
+        "is posting",
+        "posted"
+      ],
+      "answer": 2,
+      "why": "yesterday morning이 이미 끝난 특정 과거 시점을 정해 준다. posted를 쓴다."
+    },
+    "refs": [
+      {
+        "paper": "475a004a85",
+        "number": 8
+      }
+    ],
+    "drills": [
+      {
+        "en": "The baker is slicing bread right now.",
+        "ko": "제빵사가 지금 빵을 자르고 있다.",
+        "cue": "is slicing에서 지금 눈앞에서 벌어지는 움직임을 떠올려요."
+      },
+      {
+        "en": "Our regular driver usually collects the parcels after lunch, but this week she is covering the morning route.",
+        "ko": "담당 기사는 대개 점심 뒤에 소포를 수거하지만 이번 주에는 오전 노선을 대신 맡고 있다.",
+        "cue": "usually까지는 평소 모습이에요. but this week부터 달라진 근무를 따라가 보세요."
+      }
+    ]
+  },
+  {
+    "id": "g-perfect",
+    "title": "완료와 완료진행",
+    "rule": "기준 시점부터 잡는다. have + 과거분사(p.p.)는 지금까지를, had + p.p.는 과거의 기준 시점까지를 돌아본다. have/had been -ing는 그때까지 이어진 활동에 초점을 둔다.",
+    "example": {
+      "en": "When the doors opened, Mina had been waiting for an hour.",
+      "ko": "문이 열렸을 때 미나는 벌써 한 시간째 기다리고 있었다."
+    },
+    "flow": [
+      "When the doors opened → 문이 열린 순간에 선다.",
+      "Mina had been waiting → 그때까지 미나가 계속 기다렸다.",
+      "for an hour → 한 시간 동안이었다."
+    ],
+    "quiz": {
+      "prompt": "When I reached the platform, the last train had already left. 먼저 일어난 일은?",
+      "choices": [
+        "마지막 열차 출발",
+        "내가 승강장에 도착",
+        "두 사건이 동시에 일어남"
+      ],
+      "answer": 0,
+      "why": "도착한 때가 과거의 기준이다. had already left는 그보다 앞선 출발을 가리킨다."
+    },
+    "refs": [
+      {
+        "paper": "e1d0ae9ae5",
+        "number": 6
+      },
+      {
+        "paper": "7f16521f63",
+        "number": 5
+      }
+    ],
+    "drills": [
+      {
+        "en": "The film had started when we arrived.",
+        "ko": "우리가 도착했을 때 영화는 이미 시작한 뒤였다.",
+        "cue": "had started에서는 앞선 일이 나와요. when 뒤에서 무엇보다 앞선 일인지 확인하세요."
+      },
+      {
+        "en": "By the time the second clerk came on duty, Hana had been answering calls on her own for nearly two hours.",
+        "ko": "두 번째 직원이 근무를 시작했을 때 하나는 거의 두 시간째 혼자 전화를 받고 있었다.",
+        "cue": "두 번째 직원이 온 순간에 서 보세요. had been answering이 그때까지 이어진 활동을 보여 줘요."
+      }
+    ]
+  },
+  {
+    "id": "g-passive",
+    "title": "능동·수동과 동사 묶음",
+    "rule": "주어가 동작을 받으면 be + 과거분사로 표현할 수 있다. be의 모양이 시제를 나타내며 look into처럼 전치사까지 포함한 동사 묶음은 수동태에서도 함께 읽는다.",
+    "example": {
+      "en": "All complaints will be looked into by Friday.",
+      "ko": "모든 민원은 금요일까지 조사할 예정이다."
+    },
+    "flow": [
+      "All complaints → 이야깃거리는 민원이다.",
+      "will be looked into → 민원이 조사를 받게 된다.",
+      "by Friday → 조사 기한은 금요일까지다."
+    ],
+    "quiz": {
+      "prompt": "The forms ____ yesterday by two clerks.",
+      "choices": [
+        "checked",
+        "were checked",
+        "have checked"
+      ],
+      "answer": 1,
+      "why": "양식을 확인한 사람은 직원이고 양식은 확인받은 대상이다. 어제 일이므로 were checked다."
+    },
+    "refs": [
+      {
+        "paper": "bbaea7c7d7",
+        "number": 7
+      },
+      {
+        "paper": "77b5daab18",
+        "number": 13
+      }
+    ],
+    "drills": [
+      {
+        "en": "The samples were weighed twice.",
+        "ko": "시료의 무게는 두 번 측정되었다.",
+        "cue": "The samples를 붙잡고 were weighed를 읽어요. 시료가 측정하는 쪽인가요, 측정되는 쪽인가요?"
+      },
+      {
+        "en": "Any bicycles left outside the side entrance after closing time will be moved to the covered rack by the caretaker.",
+        "ko": "폐관 후 옆문 밖에 남겨진 자전거는 관리인이 지붕이 있는 거치대로 옮길 예정이다.",
+        "cue": "자전거에 left outside라는 조건을 더해요. will be moved에서 그 자전거들이 어떻게 될지 알 수 있어요."
+      }
+    ]
+  },
+  {
+    "id": "g-modal",
+    "title": "조동사와 과거에 대한 판단",
+    "rule": "조동사 뒤에는 동사원형이 온다. may have + 과거분사는 과거에 그랬을 가능성, should have + 과거분사는 문맥에 따라 과거에 그랬어야 했다는 평가나 이미 그랬을 것이라는 기대를 나타낸다.",
+    "example": {
+      "en": "The email may have gone to your spam folder.",
+      "ko": "그 이메일이 스팸 폴더로 들어갔을 수도 있어요."
+    },
+    "flow": [
+      "The email may → 이메일에 대해 가능성을 말한다.",
+      "have gone → 이미 벌어졌을 수 있는 일이다.",
+      "to your spam folder → 가능한 도착지가 스팸 폴더다."
+    ],
+    "quiz": {
+      "prompt": "You should have called before you came. I was out. 화자가 전하는 뜻은?",
+      "choices": [
+        "지금 전화 중이다",
+        "다음 주 전화해도 된다",
+        "오기 전에 전화했어야 했다"
+      ],
+      "answer": 2,
+      "why": "화자가 집에 없었던 상황에서 should have called는 과거의 행동에 대한 아쉬움이나 충고다."
+    },
+    "refs": [
+      {
+        "paper": "2ec7c03c5e",
+        "number": 3
+      },
+      {
+        "paper": "bbaea7c7d7",
+        "number": 7
+      }
+    ],
+    "drills": [
+      {
+        "en": "Jin may have missed the bus.",
+        "ko": "진이 버스를 놓쳤을지도 모른다.",
+        "cue": "may를 만나면 가능성을 열어 둬요. have missed는 어느 때 일어난 일에 대한 추측일까요?"
+      },
+      {
+        "en": "The parcel should have been here by noon, but the shop says the driver is still making deliveries nearby.",
+        "ko": "소포는 정오쯤이면 도착해 있어야 했는데, 가게 말로는 기사가 아직 근처에서 배송 중이라고 한다.",
+        "cue": "should have been here에서 기대한 상황을 떠올리고, but 뒤에서 실제 상황과 맞는지 확인해요."
+      }
+    ]
+  },
+  {
+    "id": "g-nouns",
+    "title": "명사·관사·수량 표현",
+    "rule": "셀 수 있는 단수 보통명사는 보통 a/an, the, my 같은 말과 함께 쓴다. information, advice, homework는 보통 덩어리로 다루며 수량은 a piece of 같은 표현으로 센다.",
+    "example": {
+      "en": "A visitor asked for some information about the new bus route.",
+      "ko": "방문객 한 명이 새 버스 노선에 관한 정보를 요청했다."
+    },
+    "flow": [
+      "A visitor → 처음 등장한 방문객 한 명이다.",
+      "asked for some information → 정보를 좀 요청했다.",
+      "about the new bus route → 새 버스 노선에 관한 정보다."
+    ],
+    "quiz": {
+      "prompt": "The guide gave us two ____ about the application process.",
+      "choices": [
+        "pieces of advice",
+        "advices",
+        "pieces of advices"
+      ],
+      "answer": 0,
+      "why": "advice는 보통 불가산명사다. 두 가지 조언은 two pieces of advice로 센다."
+    },
+    "refs": [
+      {
+        "paper": "1ed7c1ebc3",
+        "number": 7
+      },
+      {
+        "paper": "328d832ddd",
+        "number": 5
+      }
+    ],
+    "drills": [
+      {
+        "en": "We need a piece of equipment.",
+        "ko": "우리는 장비 한 점이 필요하다.",
+        "cue": "a piece of가 수를 세어 줘요. 뒤의 equipment는 어떤 종류의 한 점인가요?"
+      },
+      {
+        "en": "The receptionist gave each visitor a brochure and some advice about the quieter hours to visit the gallery.",
+        "ko": "안내 직원은 방문객마다 안내 책자 한 권과 미술관이 한산한 시간대에 대한 조언을 건넸다.",
+        "cue": "a brochure는 책자 한 권이에요. and some advice가 나오면 이번엔 조언을 양으로 받아들이세요."
+      }
+    ]
+  },
+  {
+    "id": "g-pronouns",
+    "title": "대명사·지시어가 가리키는 것",
+    "rule": "반복을 피할 때 that은 앞의 단수 명사 또는 불가산명사, those는 앞의 복수 명사를 대신할 수 있다. 비교 대상이 뜻과 수에서 맞는지 확인한다.",
+    "example": {
+      "en": "The fees at this branch are lower than those at the main office.",
+      "ko": "이 지점의 수수료는 본점 수수료보다 낮다."
+    },
+    "flow": [
+      "The fees at this branch → 이 지점의 수수료들이다.",
+      "are lower than those → 더 낮다. 무엇보다? 앞서 나온 fees다.",
+      "at the main office → 이번에는 본점 수수료다."
+    ],
+    "quiz": {
+      "prompt": "The climate of the coast is milder than ____ of the mountains.",
+      "choices": [
+        "those",
+        "that",
+        "these"
+      ],
+      "answer": 1,
+      "why": "비교하는 대상은 해안의 기후와 산의 기후다. 앞의 단수 climate를 that으로 받는다."
+    },
+    "refs": [
+      {
+        "paper": "475a004a85",
+        "number": 6
+      }
+    ],
+    "drills": [
+      {
+        "en": "My boots are wetter than yours.",
+        "ko": "내 장화가 네 장화보다 더 젖었다.",
+        "cue": "yours가 앞에서 말한 어떤 물건을 가리키나요?"
+      },
+      {
+        "en": "The opening hours listed on the poster are different from those printed on the tickets we bought online.",
+        "ko": "포스터에 표시된 개장 시간은 우리가 온라인으로 산 표에 인쇄된 개장 시간과 다르다.",
+        "cue": "opening hours를 기억해요. from those를 만나면 ‘다른 쪽 시간표구나’ 하고 어디에 적혀 있는지 이어 읽으세요."
+      }
+    ]
+  },
+  {
+    "id": "g-modifiers",
+    "title": "형용사·부사와 감정 분사",
+    "rule": "형용사는 명사나 주어의 상태를, 부사는 동작의 방식이나 성질의 정도 등을 설명한다. confusing은 혼란을 주는 성질이고 confused는 혼란을 느끼는 상태다.",
+    "example": {
+      "en": "The revised notice looks clear, but visitors still look confused.",
+      "ko": "고친 안내문은 명확해 보이지만 방문객들은 여전히 어리둥절해 보인다."
+    },
+    "flow": [
+      "The revised notice looks clear → 안내문이 명확해 보인다.",
+      "but visitors still look → 그런데 방문객들 표정은 어떤가?",
+      "confused → 사람들이 혼란을 느끼고 있다."
+    ],
+    "quiz": {
+      "prompt": "The volunteer explained the change ____. Everyone understood.",
+      "choices": [
+        "clear",
+        "clarity",
+        "clearly"
+      ],
+      "answer": 2,
+      "why": "설명이 어떤 방식으로 이루어졌는지 나타내므로 동사 explained를 꾸미는 부사 clearly가 맞는다."
+    },
+    "refs": [
+      {
+        "paper": "77b5daab18",
+        "number": 12
+      },
+      {
+        "paper": "bbaea7c7d7",
+        "number": 8
+      }
+    ],
+    "drills": [
+      {
+        "en": "The soup tastes salty.",
+        "ko": "수프에서 짠맛이 난다.",
+        "cue": "tastes 다음의 salty는 수프의 어떤 성질을 알려 주나요?"
+      },
+      {
+        "en": "The intern seemed nervous before the demonstration, but she explained the settings calmly when a visitor asked for help.",
+        "ko": "실습생은 시연 전에 긴장한 듯했지만 방문객이 도움을 청하자 설정 방법을 침착하게 설명했다.",
+        "cue": "seemed 다음에는 사람의 상태가 나와요. explained 다음의 calmly는 무엇을 하는 방식인가요?"
+      }
+    ]
+  },
+  {
+    "id": "g-prep",
+    "title": "전치사가 잇는 덩어리와 시간 표현",
+    "rule": "전치사 뒤에는 명사 역할을 하는 덩어리가 온다. 시간의 by는 완료 기한, until은 상태나 활동이 지속되는 끝점을 알려 준다.",
+    "example": {
+      "en": "Send the form by noon. The counter stays open until four.",
+      "ko": "정오까지 양식을 보내세요. 창구는 네 시까지 계속 열려 있습니다."
+    },
+    "flow": [
+      "Send the form → 보내기를 완료해야 한다.",
+      "by noon → 정오가 마감이다.",
+      "stays open until four → 열려 있는 상태는 네 시까지 이어진다."
+    ],
+    "quiz": {
+      "prompt": "Please submit your claim ____ Friday at the latest.",
+      "choices": [
+        "until",
+        "by",
+        "during"
+      ],
+      "answer": 1,
+      "why": "한 번 제출하는 일의 마감이 금요일이다. by Friday는 금요일을 포함해 그때까지 완료한다는 뜻이다."
+    },
+    "refs": [
+      {
+        "paper": "0afed00509",
+        "number": 7
+      }
+    ],
+    "drills": [
+      {
+        "en": "Stay indoors until noon.",
+        "ko": "정오까지 실내에 머무세요.",
+        "cue": "Stay는 머무는 상태예요. until은 무엇이 정오까지 이어진다고 하나요?"
+      },
+      {
+        "en": "The service desk will hold your tickets until six, but you must pay for them by four to keep the booking.",
+        "ko": "안내 창구에서는 표를 여섯 시까지 보관하지만 예약을 유지하려면 네 시까지 표 값을 내야 한다.",
+        "cue": "hold와 until에서는 보관 기간을, pay와 by에서는 결제 마감을 잡아 보세요."
+      }
+    ]
+  },
+  {
+    "id": "g-infinitive",
+    "title": "to부정사·원형부정사",
+    "rule": "to + 동사원형은 계획하는 행동이나 목적 등을 나타낸다. want는 목적어 뒤에 to부정사를, 능동의 let·make는 목적어 뒤에 동사원형을 취한다. help 뒤에는 원형과 to부정사가 모두 올 수 있다.",
+    "example": {
+      "en": "We want residents to check the map before they leave.",
+      "ko": "주민들이 출발 전에 지도를 확인하면 좋겠다."
+    },
+    "flow": [
+      "We want → 바라는 일이 있다.",
+      "residents → 그 행동을 할 사람은 주민들이다.",
+      "to check the map before they leave → 출발 전에 지도를 확인하길 바란다."
+    ],
+    "quiz": {
+      "prompt": "The guard let the visitors ____ the building at nine.",
+      "choices": [
+        "enter",
+        "to enter",
+        "entered"
+      ],
+      "answer": 0,
+      "why": "능동의 let + 사람 + 동사원형이다. enter는 바로 장소를 목적어로 받는다."
+    },
+    "refs": [
+      {
+        "paper": "32acc7b2d0",
+        "number": 5
+      },
+      {
+        "paper": "7f1e89d927",
+        "number": 13
+      }
+    ],
+    "drills": [
+      {
+        "en": "Let the paint dry.",
+        "ko": "페인트가 마르게 두세요.",
+        "cue": "the paint 다음에 dry가 나오면 ‘페인트가 마르는 것’을 허용한다는 뜻이 돼요."
+      },
+      {
+        "en": "The technician asked us to keep the windows open so the freshly painted shelves could dry overnight.",
+        "ko": "기술자는 막 칠한 선반이 밤새 마르도록 우리에게 창문을 열어 두라고 부탁했다.",
+        "cue": "asked us에서 부탁을 받을 사람을 잡아요. to keep이 그 사람이 무엇을 해야 하는지 알려 줘요."
+      }
+    ]
+  },
+  {
+    "id": "g-gerund",
+    "title": "동명사와 전치사 to",
+    "rule": "동사에 -ing를 붙이면 어떤 활동을 이름처럼 가리킬 수 있다. enjoy·avoid 뒤나 전치사 뒤에서 이 모양을 만난다. look forward to의 to도 전치사다.",
+    "example": {
+      "en": "Our team looks forward to meeting the new volunteers.",
+      "ko": "우리 팀은 새 자원봉사자들을 만나기를 기대한다."
+    },
+    "flow": [
+      "Our team looks forward to → 팀이 기대하는 일이 있다.",
+      "meeting → 그 일은 만나는 것이다.",
+      "the new volunteers → 만날 사람은 새 자원봉사자들이다."
+    ],
+    "quiz": {
+      "prompt": "Would you mind ____ the window? It is cold in here.",
+      "choices": [
+        "close",
+        "to close",
+        "closing"
+      ],
+      "answer": 2,
+      "why": "요청 표현 Would you mind 뒤에는 동명사가 온다. closing the window 전체가 부탁하는 행동이다."
+    },
+    "refs": [
+      {
+        "paper": "e1d0ae9ae5",
+        "number": 14
+      },
+      {
+        "paper": "7f16521f63",
+        "number": 18
+      }
+    ],
+    "drills": [
+      {
+        "en": "She avoids driving at night.",
+        "ko": "그녀는 밤 운전을 피한다.",
+        "cue": "avoids 다음의 driving을 ‘피하는 활동’ 하나로 받아들여요."
+      },
+      {
+        "en": "The organizers are looking forward to hearing how residents used the bike lanes during the trial period.",
+        "ko": "행사 운영진은 주민들이 시범 운영 기간에 자전거 도로를 어떻게 이용했는지 듣기를 기대한다.",
+        "cue": "looking forward to에서 무엇을 기대하는지 기다려요. hearing에서 활동을 잡고 how 뒤에서 그 내용을 받아요."
+      }
+    ]
+  },
+  {
+    "id": "g-participle",
+    "title": "분사와 분사구문",
+    "rule": "분사가 명사 뒤에 오면 그 대상에 정보를 더한다. 문장에 붙은 분사구문은 시간·이유·결과 같은 상황을 더한다. 누가 직접 하는지, 대상에 어떤 일이 일어나는지를 먼저 생각한다.",
+    "example": {
+      "en": "The clerk opened the side gate, allowing the crowd to enter safely.",
+      "ko": "직원이 옆문을 열었고, 덕분에 사람들이 안전하게 들어올 수 있었다."
+    },
+    "flow": [
+      "The clerk opened the side gate → 직원이 옆문을 열었다.",
+      "allowing the crowd to enter → 그 결과 사람들이 들어갈 수 있었다.",
+      "safely → 안전하게 말이다."
+    ],
+    "quiz": {
+      "prompt": "The map ____ beside the door shows the exit routes.",
+      "choices": [
+        "displaying",
+        "displayed",
+        "displays"
+      ],
+      "answer": 1,
+      "why": "지도는 누군가가 게시한 대상이라 displayed가 맞는다. 문장의 본동사는 뒤에 나오는 shows다."
+    },
+    "refs": [
+      {
+        "paper": "2fd16c8f2f",
+        "number": 3
+      },
+      {
+        "paper": "7f1e89d927",
+        "number": 3
+      },
+      {
+        "paper": "2ec7c03c5e",
+        "number": 2
+      }
+    ],
+    "drills": [
+      {
+        "en": "The boy waving at us is my cousin.",
+        "ko": "우리에게 손을 흔드는 남자아이는 내 사촌이다.",
+        "cue": "The boy를 떠올리고 waving에서 그 아이가 하는 행동을 더해요. is 뒤에 무슨 관계가 나올까요?"
+      },
+      {
+        "en": "Having counted the returned keys, the caretaker noticed that one from the music room was still missing.",
+        "ko": "관리인은 반납된 열쇠의 수를 센 뒤 음악실 열쇠 하나가 아직 없다는 걸 알아챘다.",
+        "cue": "Having counted에서 먼저 끝난 일을 기억해요. the caretaker가 나오면 그 일을 한 사람이 누구인지 이어져요."
+      }
+    ]
+  },
+  {
+    "id": "g-relative",
+    "title": "관계사절을 앞에서부터 읽기",
+    "rule": "who·which는 뒤 절에서 주어나 목적어 역할을 하고, whose는 소유 관계를 나타낸다. where는 장소에서 일어나는 일을 덧붙인다. ‘그 사람이…’, ‘그곳에서…’ 하고 앞 대상을 기억한 채 이어 읽는다.",
+    "example": {
+      "en": "Visitors who need a quiet room can use the space where staff hold interviews.",
+      "ko": "조용한 방이 필요한 방문객은 직원들이 면담하는 공간을 이용할 수 있다."
+    },
+    "flow": [
+      "Visitors who need a quiet room → 방문객들, 그중 조용한 방이 필요한 사람들이다.",
+      "can use the space → 그 사람들이 공간을 쓸 수 있다.",
+      "where staff hold interviews → 그곳에서 직원들이 면담한다."
+    ],
+    "quiz": {
+      "prompt": "This is the desk ____ visitors can collect their passes.",
+      "choices": [
+        "which",
+        "whose",
+        "where"
+      ],
+      "answer": 2,
+      "why": "visitors can collect their passes에는 주어와 목적어가 갖춰져 있다. desk에서 일어나는 일을 이어 주는 where가 맞는다."
+    },
+    "refs": [
+      {
+        "paper": "d044a0b175",
+        "number": 13
+      },
+      {
+        "paper": "2ec7c03c5e",
+        "number": 3
+      },
+      {
+        "paper": "e0b1769dda",
+        "number": 7
+      }
+    ],
+    "drills": [
+      {
+        "en": "I know a shop that repairs clocks.",
+        "ko": "나는 시계를 수리하는 가게를 안다.",
+        "cue": "a shop이 나왔어요. that 뒤에서는 그 가게가 하는 일을 기다려요."
+      },
+      {
+        "en": "The volunteer whose photograph appeared in the newsletter works at a shelter where families can stay overnight.",
+        "ko": "소식지에 사진이 실린 그 자원봉사자는 가족들이 하룻밤 묵을 수 있는 대피소에서 일한다.",
+        "cue": "whose에서 ‘그분의 사진’을 더하고 works에서 그분이 하는 일을 받아요. where부터는 대피소에서 가능한 일이 나와요."
+      }
+    ]
+  },
+  {
+    "id": "g-noun-clause",
+    "title": "명사절과 간접의문문",
+    "rule": "that은 사실이나 주장의 내용을, whether는 ‘그런지 아닌지’를 이끈다. 간접의문문에서는 의문사 뒤에 보통 주어와 동사를 평서문 순서로 둔다. what 자체가 주어나 목적어 역할을 할 수도 있다.",
+    "example": {
+      "en": "Could you tell me when the next shuttle leaves?",
+      "ko": "다음 셔틀이 언제 출발하는지 알려 주시겠어요?"
+    },
+    "flow": [
+      "Could you tell me → 알려 달라는 말이다.",
+      "when → 알고 싶은 것은 시각이다.",
+      "the next shuttle leaves → 다음 셔틀이 떠나는 시각이다."
+    ],
+    "quiz": {
+      "prompt": "Nobody knows ____ the meeting will end.",
+      "choices": [
+        "what time will",
+        "what time",
+        "what time does"
+      ],
+      "answer": 1,
+      "why": "what time 뒤에 the meeting will end가 평서문 순서로 이어진다. 이미 들어 있는 will을 반복하지 않는다."
+    },
+    "refs": [
+      {
+        "paper": "e1d0ae9ae5",
+        "number": 6
+      },
+      {
+        "paper": "bbaea7c7d7",
+        "number": 6
+      }
+    ],
+    "drills": [
+      {
+        "en": "I wonder where the bus stops.",
+        "ko": "버스가 어디에 서는지 궁금하다.",
+        "cue": "where가 ‘장소가 궁금하다’고 알려 줘요. the bus 다음에는 어떤 행동이 오나요?"
+      },
+      {
+        "en": "The notice explains what the fee covers and whether visitors can get a refund if the tour is canceled.",
+        "ko": "안내문에는 요금에 무엇이 포함되는지, 관광이 취소되면 방문객이 환불받을 수 있는지가 설명돼 있다.",
+        "cue": "what에서 첫 질문을, and whether에서 두 번째 질문을 받아요. 둘 다 안내문이 설명하는 내용이에요."
+      }
+    ]
+  },
+  {
+    "id": "g-adverb-clause",
+    "title": "시간·조건·양보·이유를 붙이는 절",
+    "rule": "when은 때, if는 조건, although는 양보, because는 이유를 알려 준다. because 뒤에는 주어·동사가 있는 절, because of 뒤에는 명사 역할을 하는 덩어리를 붙인다.",
+    "example": {
+      "en": "Although the main hall is closed, the reading room is open because an extra clerk is available.",
+      "ko": "본관이 닫혔어도 직원 한 명이 더 근무할 수 있어서 열람실은 열려 있다."
+    },
+    "flow": [
+      "Although the main hall is closed → 본관이 닫혔다. 그래도 다른 소식이 있겠다.",
+      "the reading room is open → 열람실은 문을 열었다.",
+      "because an extra clerk is available → 근무 가능한 직원이 한 명 더 있기 때문이다."
+    ],
+    "quiz": {
+      "prompt": "The event moved indoors ____ the heavy rain.",
+      "choices": [
+        "although",
+        "because",
+        "because of"
+      ],
+      "answer": 2,
+      "why": "빈칸 뒤의 the heavy rain은 명사 덩어리다. 이유를 잇는 because of가 맞는다."
+    },
+    "refs": [
+      {
+        "paper": "e0b1769dda",
+        "number": 6
+      },
+      {
+        "paper": "475a004a85",
+        "number": 7
+      }
+    ],
+    "drills": [
+      {
+        "en": "Call me when the train arrives.",
+        "ko": "기차가 도착하면 나에게 전화해.",
+        "cue": "Call me에서 할 일을 먼저 잡아요. when 뒤에는 언제 할지 나와요."
+      },
+      {
+        "en": "Unless the road reopens before noon, the afternoon shuttle will use the bridge even though that route takes longer.",
+        "ko": "정오 전에 도로가 다시 열리지 않으면 오후 셔틀은 시간이 더 걸려도 다리를 이용한다.",
+        "cue": "Unless에서 예외가 될 조건을 잡고 will use에서 기본 운행 계획을 읽어요. even though는 감수할 불편을 더해요."
+      }
+    ]
+  },
+  {
+    "id": "g-parallel",
+    "title": "등위접속사와 병렬",
+    "rule": "and·or·but을 만나면 무엇과 무엇을 잇는지 확인한다. 한 주어가 하는 일 여러 개가 이어질 때는 각 동사의 형태와 역할이 맞아야 한다.",
+    "example": {
+      "en": "The notice lists the dates, explains the fees and names a contact person.",
+      "ko": "안내문에는 일정과 수수료 설명, 문의 담당자 이름이 나온다."
+    },
+    "flow": [
+      "The notice lists the dates → 안내문이 일정을 알려 준다.",
+      "explains the fees → 같은 안내문이 수수료도 설명한다.",
+      "and names a contact person → 담당자 이름도 알려 준다."
+    ],
+    "quiz": {
+      "prompt": "The library collects old maps, repairs damaged books and ____ local records.",
+      "choices": [
+        "preserves",
+        "preserving",
+        "to preserve"
+      ],
+      "answer": 0,
+      "why": "한 주어 The library가 세 가지 일을 한다. collects, repairs와 나란히 서는 단수 현재형 preserves를 쓴다."
+    },
+    "refs": [
+      {
+        "paper": "2ec7c03c5e",
+        "number": 12
+      },
+      {
+        "paper": "d044a0b175",
+        "number": 3
+      }
+    ],
+    "drills": [
+      {
+        "en": "The room is bright and quiet.",
+        "ko": "그 방은 밝고 조용하다.",
+        "cue": "bright와 quiet가 and 양옆에서 같은 방의 성질을 하나씩 더해요."
+      },
+      {
+        "en": "Each workshop gives residents time to try the tools, compare their results and share a useful tip with the next group.",
+        "ko": "각 워크숍에서는 주민들에게 도구를 써 보고, 결과를 비교하고, 다음 조와 유용한 요령을 나눌 시간을 준다.",
+        "cue": "to try에서 첫 활동을 잡아요. compare와 share도 같은 시간에 주민들이 할 활동이에요."
+      }
+    ]
+  },
+  {
+    "id": "g-comparison",
+    "title": "비교급·동등 비교·배수",
+    "rule": "than은 차이를, as … as는 같은 정도를 이어 준다. twice as long as는 길이 또는 걸린 시간이 두 배라는 뜻이다. the + 비교급이 두 번 나오면 두 변화가 함께 일어난다.",
+    "example": {
+      "en": "The earlier you book, the more seats you can choose from.",
+      "ko": "일찍 예약할수록 고를 수 있는 좌석이 더 많다."
+    },
+    "flow": [
+      "The earlier you book → 예약하는 때를 조금씩 앞당겨 본다.",
+      "the more seats → 그에 따라 좌석 선택지가 늘어난다.",
+      "you can choose from → 그중 하나를 고를 수 있다."
+    ],
+    "quiz": {
+      "prompt": "Route B is twice as long as Route A. A가 6 km라면 B는?",
+      "choices": [
+        "3 km",
+        "12 km",
+        "18 km"
+      ],
+      "answer": 1,
+      "why": "twice as long as는 기준 길이의 두 배다. A의 6 km를 두 배로 하면 12 km다."
+    },
+    "refs": [
+      {
+        "paper": "328d832ddd",
+        "number": 7
+      },
+      {
+        "paper": "0afed00509",
+        "number": 7
+      }
+    ],
+    "drills": [
+      {
+        "en": "This gate is as wide as that one.",
+        "ko": "이 문은 저 문과 너비가 같다.",
+        "cue": "as wide까지 너비를 떠올리고 두 번째 as 뒤에서 비교 대상을 받아요."
+      },
+      {
+        "en": "The more carefully the crew records each repair, the easier it becomes for the next shift to spot recurring faults.",
+        "ko": "작업반이 수리 내역을 꼼꼼히 기록할수록 다음 근무조가 반복되는 고장을 발견하기가 쉬워진다.",
+        "cue": "The more carefully에서 기록 방식의 변화를 먼저 잡고 the easier에서 무엇이 함께 변하는지 살펴요."
+      }
+    ]
+  },
+  {
+    "id": "g-conditional",
+    "title": "가정법과 과거 사실 되짚기",
+    "rule": "현재 사실과 다른 상황을 상상할 때 if + 과거형과 would/could + 동사원형을 쓸 수 있다. 이미 지나간 일을 바꿔 상상하면 if + had + 과거분사와 would/could have + 과거분사가 어울린다.",
+    "example": {
+      "en": "If we had saved a copy, we could have restored the list.",
+      "ko": "사본을 저장해 두었더라면 명단을 복구할 수 있었을 텐데."
+    },
+    "flow": [
+      "If we had saved a copy → 과거로 돌아가 사본을 저장했다고 가정한다.",
+      "we could have restored → 그러면 당시 복구할 수 있었겠다.",
+      "the list → 복구 대상은 명단이다."
+    ],
+    "quiz": {
+      "prompt": "We missed the last bus. If we ____ earlier, we would have caught it.",
+      "choices": [
+        "leave",
+        "would leave",
+        "had left"
+      ],
+      "answer": 2,
+      "why": "이미 버스를 놓쳤다. 떠난 시간을 과거와 다르게 상상하므로 조건절은 had left다."
+    },
+    "refs": [
+      {
+        "paper": "1ed7c1ebc3",
+        "number": 7
+      },
+      {
+        "paper": "32acc7b2d0",
+        "number": 9
+      }
+    ],
+    "drills": [
+      {
+        "en": "If I lived closer, I would cycle to work.",
+        "ko": "내가 더 가까이 산다면 자전거로 출근할 텐데.",
+        "cue": "If I lived closer로 지금과 다른 상황을 그려요. would cycle은 그 안에서 할 일이에요."
+      },
+      {
+        "en": "If the crew had heard the warning in time, they could have moved the chairs indoors before the rain started.",
+        "ko": "작업반이 경고를 제때 들었다면 비가 오기 전에 의자들을 실내로 옮길 수 있었을 것이다.",
+        "cue": "had heard에서 지난 상황을 바꿔 가정해요. could have moved는 그 경우에 가능했을 행동이에요."
+      }
+    ]
+  },
+  {
+    "id": "g-inversion",
+    "title": "부정어 도치와 if 생략",
+    "rule": "Never, Rarely 같은 부정·제한 표현을 강조해 문장 맨 앞으로 보내면 주어 앞에 조동사를 놓는다. Had I known은 If I had known을 격식 있게 표현한 조건절이다.",
+    "example": {
+      "en": "Rarely have visitors seen the river so clear.",
+      "ko": "방문객들이 이렇게 맑은 강을 본 적은 좀처럼 없다."
+    },
+    "flow": [
+      "Rarely → 드문 일을 강조한다.",
+      "have visitors seen → 지금까지 방문객들이 본 경험이다.",
+      "the river so clear → 강이 이렇게 맑았던 모습이다."
+    ],
+    "quiz": {
+      "prompt": "Hardly ____ the guide begun speaking when the lights went out.",
+      "choices": [
+        "had",
+        "were",
+        "did"
+      ],
+      "answer": 0,
+      "why": "Hardly had the guide begun speaking when …은 안내원이 말을 시작하자마자 다음 일이 벌어졌다는 말이다. 앞에 나온 Hardly 때문에 had가 주어 앞으로 간다."
+    },
+    "refs": [
+      {
+        "paper": "0afed00509",
+        "number": 6
+      },
+      {
+        "paper": "ae29293299",
+        "number": 8
+      }
+    ],
+    "drills": [
+      {
+        "en": "Never have I seen snow in June.",
+        "ko": "나는 6월에 눈을 본 적이 한 번도 없다.",
+        "cue": "Never에서 ‘한 번도 없다’를 먼저 받아요. have I seen은 누구의 무슨 경험일까요?"
+      },
+      {
+        "en": "Only after the final guest had left did the volunteers discover a pair of glasses underneath the last row of chairs.",
+        "ko": "마지막 손님이 떠나고 나서야 자원봉사자들은 맨 뒷줄 의자 아래에서 안경 하나를 발견했다.",
+        "cue": "Only after에서 ‘그 일이 끝난 뒤에야’를 기억해요. did the volunteers discover는 의문문이 아니라 뒤늦은 발견을 전해요."
+      }
+    ]
+  },
+  {
+    "id": "g-demand",
+    "title": "요구·제안 뒤의 that절",
+    "rule": "require·recommend 등이 요구나 제안을 나타낼 때 that절에 주어와 동사원형을 쓸 수 있다. 주어가 3인칭 단수여도 동사원형 자리에 -s를 붙이지 않는다. should + 원형도 가능하다.",
+    "example": {
+      "en": "The chair recommended that each team send one delegate.",
+      "ko": "의장은 각 팀이 대표 한 명을 보내자고 제안했다."
+    },
+    "flow": [
+      "The chair recommended → 의장이 제안했다.",
+      "that each team → 제안의 내용, 각 팀이…",
+      "send one delegate → 대표 한 명을 보낸다는 것이다."
+    ],
+    "quiz": {
+      "prompt": "The rules require that each visitor ____ a badge while inside.",
+      "choices": [
+        "wearing",
+        "wear",
+        "to wear"
+      ],
+      "answer": 1,
+      "why": "규정이 요구하는 행동을 표현하는 that절이다. each visitor 뒤에서 동사원형 wear를 쓴다."
+    },
+    "refs": [
+      {
+        "paper": "d044a0b175",
+        "number": 3
+      },
+      {
+        "paper": "0afed00509",
+        "number": 6
+      }
+    ],
+    "drills": [
+      {
+        "en": "I suggest that he wait here.",
+        "ko": "나는 그가 여기에서 기다리면 좋겠다고 제안한다.",
+        "cue": "I suggest는 제안이에요. he 다음에 wait가 와서 제안의 내용을 완성해요."
+      },
+      {
+        "en": "The safety officer requested that every exit be kept clear while the volunteers carried the heavy boxes upstairs.",
+        "ko": "안전 담당자는 자원봉사자들이 무거운 상자를 위층으로 옮기는 동안 모든 출구를 비워 두라고 요청했다.",
+        "cue": "requested 다음에는 요구 사항이 나와요. every exit가 나오면 be kept clear에서 출구가 어떤 상태여야 하는지 확인해요."
+      }
+    ]
+  },
+  {
+    "id": "g-it",
+    "title": "가주어·가목적어 it",
+    "rule": "It is useful to …처럼 먼저 평가를 말하고 뒤에서 그 내용을 밝힐 수 있다. find it useful to …에서는 it이 목적어 자리를 먼저 채우고, 뒤의 to부정사가 무엇이 유용한지 알려 준다.",
+    "example": {
+      "en": "We found it helpful to mark the nearest exit on every map.",
+      "ko": "지도마다 가장 가까운 출구를 표시해 두는 게 유용하다는 걸 알았다."
+    },
+    "flow": [
+      "We found it helpful → 해 보니 유용했다. 무엇이?",
+      "to mark the nearest exit → 가장 가까운 출구를 표시하는 일이다.",
+      "on every map → 지도마다 표시한다."
+    ],
+    "quiz": {
+      "prompt": "It is risky to leave the door unlocked. 무엇이 위험하다는 뜻일까?",
+      "choices": [
+        "문을 잠그지 않고 두는 일",
+        "문을 새것으로 바꾸는 일",
+        "잠긴 문 밖에서 기다리는 일"
+      ],
+      "answer": 0,
+      "why": "It is risky에서 위험하다는 평가를 먼저 받는다. 뒤의 to leave the door unlocked가 그 평가의 대상이다."
+    },
+    "refs": [
+      {
+        "paper": "e0b1769dda",
+        "number": 8
+      },
+      {
+        "paper": "0afed00509",
+        "number": 5
+      }
+    ],
+    "drills": [
+      {
+        "en": "It is hard to hear you.",
+        "ko": "말소리가 잘 안 들려요.",
+        "cue": "It is hard에서 어렵다는 느낌을 먼저 받고 to hear you에서 무엇이 어려운지 알아봐요."
+      },
+      {
+        "en": "The extra lighting made it easier for evening visitors to read the small names printed beneath the photographs.",
+        "ko": "조명이 늘어나면서 저녁 방문객들이 사진 밑에 작게 인쇄된 이름을 더 쉽게 읽을 수 있게 됐다.",
+        "cue": "made it easier에서 ‘더 쉬워졌다’, for evening visitors에서 ‘누구에게?’, to read에서 ‘무엇을 하기가?’를 차례로 풀어 보세요."
+      }
+    ]
+  }
+]

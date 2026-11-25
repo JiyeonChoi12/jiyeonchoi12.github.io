@@ -1,0 +1,38 @@
+[
+  {
+    "id":"DEMO-COMP-001", "subject":"computer", "subject_label":"컴퓨터일반", "exam":"national-9", "year":2026,
+    "topic_id":"operating-system", "topic_label":"운영체제", "booklet":"예시", "number":1,
+    "stem":"[기능 확인용 가상 문제] 운영체제에서 실행 중인 프로그램을 무엇이라 하는가?",
+    "choices":["프로세스","파일 시스템","캐시 블록","버스"], "answer_index":0,
+    "explanation":"프로세스는 실행 중인 프로그램의 인스턴스를 가리킨다. 실제 기출이 아닌 UI 기능 확인용 예제이다.",
+    "source":{"kind":"synthetic_demo","url":null,"final_answer_checked":false},
+    "verification":{"status":"demo_only","reviewed_at":null,"sources":[]}, "concept_ids":[]
+  },
+  {
+    "id":"DEMO-SEC-001", "subject":"security", "subject_label":"정보보호론", "exam":"local-9", "year":2025,
+    "topic_id":"crypto", "topic_label":"암호학", "booklet":"예시", "number":2,
+    "stem":"[기능 확인용 가상 문제] 다음 중 대칭키 암호의 예시는?",
+    "choices":["RSA","AES","DSA","ECDSA"], "answer_index":1,
+    "explanation":"AES는 대칭키 블록 암호다. 실제 기출이 아닌 UI 기능 확인용 예제이다.",
+    "source":{"kind":"synthetic_demo","url":null,"final_answer_checked":false},
+    "verification":{"status":"demo_only","reviewed_at":null,"sources":[]}, "concept_ids":[]
+  },
+  {
+    "id":"DEMO-ENG-001", "subject":"english", "subject_label":"영어", "exam":"national-9", "year":2024,
+    "topic_id":"vocabulary", "topic_label":"어휘", "booklet":"예시", "number":3,
+    "stem":"[기능 확인용 가상 문제] Choose the word closest in meaning to 'assess'.",
+    "choices":["ignore","evaluate","destroy","conceal"], "answer_index":1,
+    "explanation":"assess는 상황이나 대상의 가치·정도·상태 등을 평가하다는 뜻이다. 실제 기출이 아닌 예제이다.",
+    "source":{"kind":"synthetic_demo","url":null,"final_answer_checked":false},
+    "verification":{"status":"demo_only","reviewed_at":null,"sources":[]}, "concept_ids":[]
+  },
+  {
+    "id":"DEMO-KOR-001", "subject":"korean", "subject_label":"국어", "exam":"national-9", "year":2026,
+    "topic_id":"reading", "topic_label":"독해", "booklet":"예시", "number":4,
+    "stem":"[기능 확인용 가상 문제] 다음 중 글의 중심 생각을 파악하는 독해 전략은?",
+    "choices":["모든 낱말을 무조건 암기한다","문단의 핵심 문장과 관계를 살핀다","지문을 읽지 않고 선지를 고른다","출처를 무시한다"], "answer_index":1,
+    "explanation":"문단의 핵심 문장과 전개 관계를 파악하면 글의 중심 내용을 이해하는 데 도움이 된다. 실제 기출이 아닌 예제이다.",
+    "source":{"kind":"synthetic_demo","url":null,"final_answer_checked":false},
+    "verification":{"status":"demo_only","reviewed_at":null,"sources":[]}, "concept_ids":[]
+  }
+]
